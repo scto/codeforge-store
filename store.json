@@ -89,7 +89,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ayu-dark.theme.zip",
-      "sha256": "081733b8d300f0652563ac09581253bee55f7646345715da0182569141be6aac"
+      "sha256": "5108224fe9b2c57a3158a0aaad843601180980bc14f8e914639e50caafc5a242"
     },
     {
       "id": "com.codeforge.plugin.ayu.theme",
@@ -106,7 +106,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ayu.theme.zip",
-      "sha256": "7cdfad9945f8df8a96d1621c1a2eea3253cfb31538d6500c27ebf30a8b6ebecc"
+      "sha256": "65b1c38d86cc551dfd871fdb09db29162d8c3bc538c1680b878c961662f2cca3"
     },
     {
       "id": "com.codeforge.plugin.catppuccin.theme",
@@ -123,7 +123,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.catppuccin.theme.zip",
-      "sha256": "7a1c7d1db9a632b9da244500cf48a29ddbc48024e5da955d4906330082adf1ed"
+      "sha256": "f236f08c2c7a360d4a05968a9660d1050211aeea2f9076eead38cc09da704f83"
     },
     {
       "id": "com.codeforge.plugin.cyberpunk-neon.theme",
@@ -140,7 +140,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.cyberpunk-neon.theme.zip",
-      "sha256": "1e09ba740bc09f0405ef744358c62c3f654a3ae6723e556a59e4f68e9ab7f746"
+      "sha256": "e6dbf6ce220b1b2879ca0d4490db06184d97e5940671a7e304300d127854ae29"
     },
     {
       "id": "com.codeforge.plugin.darcula.theme",
@@ -157,7 +157,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.darcula.theme.zip",
-      "sha256": "4785cf52f1d3e4f7982a4960356f9813f00703b9a97fcb1eb4c9843933c1aca4"
+      "sha256": "6940e8af99786bc33bed302f6086487aa60633005dfa542e86dcdbab14ce185f"
     },
     {
       "id": "com.codeforge.plugin.dracula.theme",
@@ -174,7 +174,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.dracula.theme.zip",
-      "sha256": "87f187014c79f1f5f15a6a2af588b59afe2399a7c703185901ab7c4df62cb940"
+      "sha256": "9ba5209d83bd6cc9feb52473a5beb7cb4745c29c81389d4d10ebe1e16b4710d8"
     },
     {
       "id": "com.codeforge.plugin.eclipse.theme",
@@ -191,7 +191,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.eclipse.theme.zip",
-      "sha256": "4c85100c033de7afe5c7d8c6a2c9c3c65e386cf9922b038ead1df00c64fe8dd3"
+      "sha256": "9700680f3456e1ec5a8b6f6a43d4818ba81ce1389613e3fb3fabd515b870a9f1"
     },
     {
       "id": "com.codeforge.plugin.everforest.theme",
@@ -208,7 +208,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.everforest.theme.zip",
-      "sha256": "eee00c24c6fbdf01665217f136d08b159fc5162b801f5c2e785f1616c989766e"
+      "sha256": "341e8d3b9154d1d143a812995fd2efa0ed041859aad3d0ecb3e499bb6bfab313"
     },
     {
       "id": "com.codeforge.plugin.forest.theme",
@@ -225,7 +225,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.forest.theme.zip",
-      "sha256": "5f445fc468abb13ae40be9e5626db5e3af26593cd18148dd3729d9d7b363b74f"
+      "sha256": "87d878c09a2cb7f35849246a0139f12608e8df0870ce615247d5601ba512803f"
     },
     {
       "id": "com.codeforge.plugin.github-light.theme",
@@ -242,7 +242,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.github-light.theme.zip",
-      "sha256": "8a8676d2adab2c4a1fd4e0bf0eade2f498ab6ee9e3f4fbd7e635ecd310798dde"
+      "sha256": "70c64b96c22301b9015dc24514cfc819d486a3cb221152ef5a34dd46b49a877c"
     },
     {
       "id": "com.codeforge.plugin.github.theme",
@@ -259,7 +259,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.github.theme.zip",
-      "sha256": "8a2b209018b9679c7650f03be8cf94fa2d297e5c4d0befb636115dd94b6fcce1"
+      "sha256": "c60f56ac49c07ba84167cbccf0d4574eabeda1c4344e522b45cb91531cd72c3e"
     },
     {
       "id": "com.codeforge.plugin.gruvbox.theme",
@@ -276,7 +276,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.gruvbox.theme.zip",
-      "sha256": "3ff999c93a0addfd1df0e71af4ebebe344425e9924019f2255dbb43f36a9b099"
+      "sha256": "42cc1ccb6717e237e29575116671743548efd0a1b3202cbb7bd9d44e38fb7639"
     },
     {
       "id": "com.codeforge.plugin.kanagawa.theme",
@@ -293,7 +293,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.kanagawa.theme.zip",
-      "sha256": "34cfd1f7ecc31137591525d2ec7eaa70719c2ede26926de1c17660252678fe41"
+      "sha256": "3c32a9e992974bb8c82f7ee002a61d3784fe14a3f4d1bd7a09b476a46e4cfc0e"
     },
     {
       "id": "com.codeforge.plugin.material.theme",
@@ -310,7 +310,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.material.theme.zip",
-      "sha256": "978938d1374013a5a69068b2b906802d406fa75e7a1166cf1f624cd878f42218"
+      "sha256": "65b1dc38541751e8cd73239a0a29e3b650ac3bea9cb1c780ab76a8b45e1640cb"
     },
     {
       "id": "com.codeforge.plugin.monochrome.theme",
@@ -327,7 +327,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.monochrome.theme.zip",
-      "sha256": "d1c1be39843d75d636fd8a4965625f7b91bf113cbebc174cbf82abe7943dfc1f"
+      "sha256": "e0131f83fb5fb6a8673f32434908f59104d592aefbc5b54a2857bb3aa06b20e5"
     },
     {
       "id": "com.codeforge.plugin.monokai.theme",
@@ -344,7 +344,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.monokai.theme.zip",
-      "sha256": "57586f3f36702ad769d3eca46d7f1a6a294e1f936892d88f169cbfcde5f80387"
+      "sha256": "25b9d2008effc373c4c3bd492e1479daa5b12f6b9f892224f6ce1e649b59d22f"
     },
     {
       "id": "com.codeforge.plugin.night-owl.theme",
@@ -361,7 +361,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.night-owl.theme.zip",
-      "sha256": "4cb2bd5c2e8e1e2714032832e827b0385c36ccb34d00b918b83fdadd8f0de176"
+      "sha256": "aa5bb0becbfa5536bd2a09d4f5a8e9876fc6315e2784c254089f58bd04c246d1"
     },
     {
       "id": "com.codeforge.plugin.nord.theme",
@@ -378,7 +378,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.nord.theme.zip",
-      "sha256": "7ffa1e71fda51cf8f9cbbb22737fb6681da0c8fcd1dbd3c5d3e11aa43adcb3fb"
+      "sha256": "f231be8f65cf770bd315789a384a2d2277afccb5c21611ce10f5d021d9c01e66"
     },
     {
       "id": "com.codeforge.plugin.notepad-plus-plus.theme",
@@ -395,7 +395,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.notepad-plus-plus.theme.zip",
-      "sha256": "bea3ae14a6171e00d4367e4290583f401063080b557f4c718b682c4fea970135"
+      "sha256": "6310402647515fb30a23902cf284b458a588d77c2e0c2f089fb98956b39b634d"
     },
     {
       "id": "com.codeforge.plugin.ocean.theme",
@@ -412,7 +412,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ocean.theme.zip",
-      "sha256": "fb106e0902e6dec445fcea661086601dff44fe7ad67039bfbcadb92eca682b27"
+      "sha256": "bf6d7d63ddec79ff1c13c159e209f5d033cdf50ba4e563a777a21942b54d75f8"
     },
     {
       "id": "com.codeforge.plugin.one.theme",
@@ -429,7 +429,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.one.theme.zip",
-      "sha256": "d6ac7a2060dee17146db99783eb418829519f54b0baf7b76317a71ff8d6662de"
+      "sha256": "b245e02919f3a884d105d3d4f7b8342354e25bda69eecb4b87f486e58d4d9286"
     },
     {
       "id": "com.codeforge.plugin.quiet-light.theme",
@@ -446,7 +446,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.quiet-light.theme.zip",
-      "sha256": "ca4c574bbe5947c9236e1591745d54b205320fd264d3a80a9cff881b1ef0e6dc"
+      "sha256": "fc03c33b935a51a7915a9203d98aa1297c19d2dcbef15439d88b3ae2dd686801"
     },
     {
       "id": "com.codeforge.plugin.rose-pine.theme",
@@ -463,7 +463,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rose-pine.theme.zip",
-      "sha256": "879fc0abf86660f6f64606b1319f356b74362c3693f6f26d97357c69295399e9"
+      "sha256": "66c31f162fd088cc555116b0052c2458d47fb90c6a256c0d0a68987b31f9a5e4"
     },
     {
       "id": "com.codeforge.plugin.solarized-dark.theme",
@@ -480,7 +480,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.solarized-dark.theme.zip",
-      "sha256": "b67821077f6efd6ebcbcda2b5858983fdd42c90de0338d23dca78efe605d88e2"
+      "sha256": "ca94ebb91396a6fc12d7b4c8235603d93f801c141858bc3ad090787cb22c7013"
     },
     {
       "id": "com.codeforge.plugin.solarized.theme",
@@ -497,7 +497,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.solarized.theme.zip",
-      "sha256": "84f9e593b133ae3cb296b23b6697e5ec1e618d964cf4f461ae3723a446ff7503"
+      "sha256": "d3bd13babba0290639ad65fd5b2b357daf8b536f01a8cc802b77416d2f28c75b"
     },
     {
       "id": "com.codeforge.plugin.sunset.theme",
@@ -514,7 +514,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.sunset.theme.zip",
-      "sha256": "85adc32ce4a9569f8d22bda0105bd06697728ab538cde4d3a7270dcc9a0669a7"
+      "sha256": "e5f4e749ca18ef46e573fb63a78dac012460eb556730ac501dfd9e1e69d84d3e"
     },
     {
       "id": "com.codeforge.plugin.tokyo-night.theme",
@@ -531,7 +531,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.tokyo-night.theme.zip",
-      "sha256": "4916aeb3e956f1f8a67f4f9ebbcebba8e998e192db9041b5f2d9e9ff6b0c9ded"
+      "sha256": "693b6fd2bf779aaba399070bf31a175027675529567239e929b18a70f76d75a3"
     },
     {
       "id": "com.codeforge.plugin.tomorrow.theme",
@@ -548,7 +548,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.tomorrow.theme.zip",
-      "sha256": "78584a74884a0a169689b73729cfc1fd4733533e3efcbb434cd9d82b46b44478"
+      "sha256": "f7105ebeea608d03563a00f506ebf571cfad68fd87acbe8302667a9f37e9da1c"
     },
     {
       "id": "com.codeforge.plugin.violet.theme",
@@ -565,7 +565,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.violet.theme.zip",
-      "sha256": "e5e91f31843b9dd2e2fe696e043c349feeb59d7b7d8cabe07df374bb65fac9e4"
+      "sha256": "52eb9ca9779da0380ba6d9188973b474fe6b79143f00ee45105277fde8c56e54"
     },
     {
       "id": "com.codeforge.plugin.vscode-dark-plus.theme",
@@ -582,7 +582,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.vscode-dark-plus.theme.zip",
-      "sha256": "04a0e801ece342ac5cc33126ea0e81675ff7db039292bf16e9fd2b087b541958"
+      "sha256": "13203c0fdcddc2d9c261735bd3b0f37e03a8d731cb5d7a76290d77a777185571"
     },
     {
       "id": "com.codeforge.plugin.aurora.icons",
@@ -599,7 +599,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.aurora.icons.zip",
-      "sha256": "2c0ebea02ed506cc66b280fd8eb086bfa3a34be5a8e3459f4bc3d9dc2a0c6682"
+      "sha256": "7bff341ece169ef677768e536fcd7dfed1a0c18454a895a8191e84df3e389128"
     },
     {
       "id": "com.codeforge.plugin.coral.icons",
@@ -616,7 +616,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.coral.icons.zip",
-      "sha256": "01dc154a4c550b4509aac9c1698610e735a765171a41934bedacd524a404a130"
+      "sha256": "61a05a3a72b241ed2115429fb6e56d1dd9e816e7d10e600989da2a1b0d7d1c88"
     },
     {
       "id": "com.codeforge.plugin.ember.icons",
@@ -633,7 +633,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ember.icons.zip",
-      "sha256": "5188e87a05ac3d244b77ca1030f8385b821fcb4cda7d400c9d603107b6aee48c"
+      "sha256": "281fe4462d98a63884756a64877706cc55d51c3b7b59752595e194254bc98e91"
     },
     {
       "id": "com.codeforge.plugin.frost.icons",
@@ -650,7 +650,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.frost.icons.zip",
-      "sha256": "d6f013606c3637d6b0631ef6f79d110356332229303638432c6e7a1c16cfabc2"
+      "sha256": "585ceb7a2d589c42403230b22aca2ad903fbe23ff20ed1531b63f8f58c7c543f"
     },
     {
       "id": "com.codeforge.plugin.lagoon.icons",
@@ -667,7 +667,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lagoon.icons.zip",
-      "sha256": "3313a998b2b8f988166a2c5bea68096f7d601ce313e7c88801d72c76db378881"
+      "sha256": "4dbc58b2e976cfa50eb36cabff6a8d308ed23e1f56f90d06c48161a85b23233d"
     },
     {
       "id": "com.codeforge.plugin.meadow.icons",
@@ -684,7 +684,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.meadow.icons.zip",
-      "sha256": "3016e00c142068de6879915c9ed3acef15722e051a28459b79e80bc7d10da7d9"
+      "sha256": "e1ae01e19d34868ec2b422f18467856729ff4409e78a4d8bc21ca38ee9806d6b"
     },
     {
       "id": "com.codeforge.plugin.neon.icons",
@@ -701,7 +701,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.neon.icons.zip",
-      "sha256": "bf61bac29b98e26bc0727646da48881ed05713e90d2c12a936f64a3d9cfa637f"
+      "sha256": "47344aafd9c819bdbe7dd11017002b071d35f237c77db6439d08746a9f48b96f"
     },
     {
       "id": "com.codeforge.plugin.obsidian.icons",
@@ -718,7 +718,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.obsidian.icons.zip",
-      "sha256": "fd72ba051275316445529f7d3703fb7e01e457b2a34414e761b4c6662d2a9a7f"
+      "sha256": "d175e52d4ba1534a5aee7489f4f808be65b18fe0405a84eff30ba768de449402"
     },
     {
       "id": "com.codeforge.plugin.paper.icons",
@@ -735,7 +735,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.paper.icons.zip",
-      "sha256": "fa42038d55bc3bc2abde5d0a72b0c374fff51f5cf85aa642471dbadd76493b4d"
+      "sha256": "b4dd06d35e44e9510601c435654b339fde840d629215746cd417efba99300c98"
     },
     {
       "id": "com.codeforge.plugin.sky.icons",
@@ -752,7 +752,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.sky.icons.zip",
-      "sha256": "e72fdb41459cad6ba24567fef5af6fdec8082efe52b0aa0da814423e79c55f04"
+      "sha256": "992a9a2eafee5b04b717ea8fdad9148e1920106048380afba31722686bf2be45"
     },
     {
       "id": "com.codeforge.plugin.slate.icons",
@@ -769,7 +769,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.slate.icons.zip",
-      "sha256": "95235d1784381dae6dc7b0fe44c239a455977bfa819d7b628ea255128ca14389"
+      "sha256": "742d65b9deda4251dc2602e565ff3b810669ed09ee05676f35de59688547e58f"
     },
     {
       "id": "com.codeforge.plugin.bash-language-server.lsp",
@@ -786,7 +786,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.bash-language-server.lsp.zip",
-      "sha256": "84260f92722cd36a452b3032766a9192c22676e9b4e985ffd7d3ae822fbcf058"
+      "sha256": "e6eaaa96dd554b6de801a590762d93e5f2d3bccf711648caed3c256fe430fc4f"
     },
     {
       "id": "com.codeforge.plugin.clangd.lsp",
@@ -803,7 +803,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.clangd.lsp.zip",
-      "sha256": "70f7476131d7f124055bfce21f7e3c97fcabba3026d4079c6f308b36fb95e06d"
+      "sha256": "9352df4a357410e36183e216aabc04c06bbb3d876c80ef54d256b9951766de55"
     },
     {
       "id": "com.codeforge.plugin.dart.lsp",
@@ -820,7 +820,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.dart.lsp.zip",
-      "sha256": "96fab7a3adf199d7d7ed9ca1dc74691ab024f920439b9a0390d1db00960aba97"
+      "sha256": "619a5bd260cc254747a69c5de7d2002f95b00c607d48b24be1105e8e5352e6a9"
     },
     {
       "id": "com.codeforge.plugin.gopls.lsp",
@@ -837,7 +837,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.gopls.lsp.zip",
-      "sha256": "28fe9817ca7e26fe93904d02dcdfedf21d89460e26c7efc4b44c863ea34fd862"
+      "sha256": "12cfc7d1496ad47303be5e001016cecce0d9683a56daf80cac820453a795943e"
     },
     {
       "id": "com.codeforge.plugin.neocmakelsp.lsp",
@@ -854,7 +854,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.neocmakelsp.lsp.zip",
-      "sha256": "66a75acf92a6fba5edf3ccc3832dd4ba4db3187b5f02f021ae1ae5629cbcdc81"
+      "sha256": "7825134ce4fc0094f6ba3eb246d5e956f4dbfb39358ab3804e0d8ceba79bc638"
     },
     {
       "id": "com.codeforge.plugin.pyright.lsp",
@@ -871,7 +871,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.pyright.lsp.zip",
-      "sha256": "7f14471e4a58a8434192eed9a2c8770a6f054cd5dd7d9b32b70b36b19e2dadee"
+      "sha256": "41c06e2e2e39f95a3d438903f7e5239db0408f1436b0874f3dfc96d171c6eee0"
     },
     {
       "id": "com.codeforge.plugin.ruff.lsp",
@@ -888,7 +888,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ruff.lsp.zip",
-      "sha256": "a52987efa1dab5243ac02cfdc9ef52540b79be2c1869f06078317d87cb6a1c76"
+      "sha256": "e3888b6610691c03447d68a5aa9f4388d4b64326c45efd6e7eb793e43cdf5483"
     },
     {
       "id": "com.codeforge.plugin.rust-analyzer.lsp",
@@ -905,7 +905,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rust-analyzer.lsp.zip",
-      "sha256": "9f327bef42ed5d24acf125ab681033537820dc5a56e9ac658eb8981065d28dd2"
+      "sha256": "34b1ab3f800c395cefc325f11d239e3dc1a645621555aef79fd76b4ba96764ec"
     },
     {
       "id": "com.codeforge.plugin.taplo.lsp",
@@ -922,7 +922,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.taplo.lsp.zip",
-      "sha256": "73fc1a9e26e7155a5ad16d16fbe33c21ec63171cc551fca4e5e37dfc64afb940"
+      "sha256": "c9ba49b2c24f963af39f4cdfc8bd972bbd95bcff7f6186ac07f280ae919f51d3"
     },
     {
       "id": "com.codeforge.plugin.typescript-language-server.lsp",
@@ -939,7 +939,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.typescript-language-server.lsp.zip",
-      "sha256": "f54595035c5ac38cae0e821864d2bb3701ea98fab95c5ee6dc59707d9cad80f5"
+      "sha256": "57d076af5a31a2ff33d6d802a240b88e66c3e8fb088c6b443925644dc4a46cfd"
     },
     {
       "id": "com.codeforge.plugin.web-langservers.lsp",
@@ -956,7 +956,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.web-langservers.lsp.zip",
-      "sha256": "381fab459012bdf232c05c5ffa73f77650cc7150955c0841788049794e21f3de"
+      "sha256": "d0cd3cb10b230d2b6219fb1b9865ccd9c5020df6105b43e12da49369543e1565"
     },
     {
       "id": "com.codeforge.plugin.yaml-language-server.lsp",
@@ -973,7 +973,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.yaml-language-server.lsp.zip",
-      "sha256": "1d603e68a6b6115317dba15438b3041bebc9480129eef40293a2e38acd7ffa9a"
+      "sha256": "f0016cc8beba8cf2a2993210f8b2a84729867d1ad3255454b2cd9b3c5e49dd97"
     },
     {
       "id": "com.codeforge.plugin.gofmt.formatter",
@@ -990,7 +990,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.gofmt.formatter.zip",
-      "sha256": "b9c5723ce3f4fb405c53a744a61e6eba7104f30c5701c9df24be70659363c6b0"
+      "sha256": "c581761036867ee9e5d349882f2a211e5b864e0744db40e94346d8128d8bcd97"
     },
     {
       "id": "com.codeforge.plugin.prettier.formatter",
@@ -1007,7 +1007,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.prettier.formatter.zip",
-      "sha256": "e425c9ef64cc1d159e50a8968db121430d7382f1868f14be2e47c9bd12b94aae"
+      "sha256": "229b7adddaa0f9349c5bec33051431a9150724214e0eb5b7faecbb57601ea5b2"
     },
     {
       "id": "com.codeforge.plugin.ruff-format.formatter",
@@ -1024,7 +1024,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ruff-format.formatter.zip",
-      "sha256": "626677dfd3cc2add5dc0e7ca35bb8f139c68292323d2d954feb42f0e5eed822d"
+      "sha256": "4cb8c60ced760768082281f28ba6cdae090ff2b0695571a89c7e940cd63d202b"
     },
     {
       "id": "com.codeforge.plugin.rustfmt.formatter",
@@ -1041,7 +1041,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rustfmt.formatter.zip",
-      "sha256": "c8c2700b53f4b7d6cc39a6aa34f072e4bac879f967dd3d18359ed77be37fa38a"
+      "sha256": "a7a48e830896ff1a99b9399dcc985535e3f5bb0fbd71960bfc395fe9e492695d"
     },
     {
       "id": "com.codeforge.plugin.shfmt.formatter",
@@ -1058,7 +1058,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.shfmt.formatter.zip",
-      "sha256": "9acd279cd07580a1330f8ed4d1d316f9241f2b6b2a1c585e0f671e5b892f8aab"
+      "sha256": "1f1c826e1c4026fa087ec70667c111c4b23d91db0f0b1cb5e227dad21af6667e"
     },
     {
       "id": "com.codeforge.plugin.taplo-format.formatter",
@@ -1075,7 +1075,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.taplo-format.formatter.zip",
-      "sha256": "8d8627f1f91883112141b447d0d7a8614d1c2485360d85d59bcc99e159629d50"
+      "sha256": "7314199bb328cdfc7e4105aa6ffa60588ee5c396c3792cdf2c94922fdddebee8"
     },
     {
       "id": "com.codeforge.plugin.all-formatters.bundle",
@@ -1092,7 +1092,24 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-formatters.bundle.zip",
-      "sha256": "422b6d618f9531049126d2059b48edf7060388eb3d8311cea7e8f5a8b8895ac2"
+      "sha256": "c39e69697c8802e0660495d603ecbc8bbe7338083d7d3d127a540b2496e01a00"
+    },
+    {
+      "id": "com.codeforge.plugin.all-icons.bundle",
+      "category": "bundle",
+      "name": {
+        "de": "Alle Icon-Pakete (Bundle)",
+        "en": "Alle Icon-Pakete (Bundle)"
+      },
+      "summary": {
+        "de": "Alle 11 Icon-Pakete von CodeForge als Bundle (3 klassisch hell, 3 klassisch dunkel, 3 modern hell, 2 modern dunkel).",
+        "en": "Alle 11 Icon-Pakete von CodeForge als Bundle (3 klassisch hell, 3 klassisch dunkel, 3 modern hell, 2 modern dunkel)."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-icons.bundle.zip",
+      "sha256": "015aa6a0017fb44a18c07ce68d63c66097e6b44cbe6c205aad12d131b2aa2754"
     },
     {
       "id": "com.codeforge.plugin.all-lsp-servers.bundle",
@@ -1109,7 +1126,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-lsp-servers.bundle.zip",
-      "sha256": "4b8311cbec76c7b2ede575b9f6ebbb0ffa5ecd339bddbfe19d8482d5543db732"
+      "sha256": "9b6268ef709095e807be64b5e126179d59fc18b5f54724418954f9809030327c"
     },
     {
       "id": "com.codeforge.plugin.androidx-migrate.tool",
@@ -1126,7 +1143,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.androidx-migrate.tool.zip",
-      "sha256": "af442ed17c207c6dfa0b506d60d1dfc16be1cd627ec04bf45828fcd5e3437466"
+      "sha256": "9f40b71b57c422c8ecc25b9fb5e26ea9f30528d7736a41125d71308908692f1b"
     },
     {
       "id": "com.codeforge.plugin.catalog-migrate.tool",
@@ -1143,7 +1160,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.catalog-migrate.tool.zip",
-      "sha256": "1d1268465ebb5366694abdbfd0a55a07b291ead5356531f0c71dcaac9594a8e3"
+      "sha256": "4a34594e978202ad49af849d5a6f4c2852e580bb13426596385eec0764787e62"
     },
     {
       "id": "com.codeforge.plugin.format-all.tool",
@@ -1160,7 +1177,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.format-all.tool.zip",
-      "sha256": "12d0cba4b1a316ffc4e0a5c98bed518537def4a31a5cbde3344de3b73f9f514d"
+      "sha256": "171dd24c6d578e7462a1b99cb4227de7702c5c2e9f5338f0599909431fafad59"
     },
     {
       "id": "com.codeforge.plugin.gitignore.tool",
@@ -1177,7 +1194,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.gitignore.tool.zip",
-      "sha256": "76d1847c9e6ebbd078d9026f43119c6ff86f4347dfe9c905df2f27b7a782e4dd"
+      "sha256": "dfcacf11faab59642cd9112fec8732242ffedcc4070d4c3e1e5e1969232a8703"
     },
     {
       "id": "com.codeforge.plugin.license.tool",
@@ -1194,7 +1211,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.license.tool.zip",
-      "sha256": "2a1ea2f0ce93506db316f257871b9ffa79ac72932792bf1fa372876815d249da"
+      "sha256": "c099a2bc9e8bec0df8ff0be6f8294c0776e7906f7afacf25a219a2a2d6ebbf75"
     },
     {
       "id": "com.codeforge.plugin.project-clean.tool",
@@ -1211,7 +1228,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.project-clean.tool.zip",
-      "sha256": "198b8f8a0d39c987eacb5f7ef893a7fd6883e2fb8c3f2a46794c59d3d166bb82"
+      "sha256": "3ca5f7121942c9afb978d195040019910e21afb096c7ef54c67da3425c2a0747"
     },
     {
       "id": "com.codeforge.plugin.unused-resources.tool",
@@ -1228,7 +1245,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.unused-resources.tool.zip",
-      "sha256": "a306ce81a5dc2757be2bd71d523969d40be762a1802499ea4501e5ded0a293bf"
+      "sha256": "356fe91c2d22c15f02a74441751e26bf0718fc6dbff83a9fc67e2fdbf8165693"
     },
     {
       "id": "com.codeforge.plugin.vscode-import.tool",
@@ -1245,7 +1262,7 @@
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.vscode-import.tool.zip",
-      "sha256": "ea0ac3fca69357d3bb658082eef16c5ce187fe0fdc1809f743fbaa0d1890dff1"
+      "sha256": "200269fc96f9cb5aa3324c4627a3c1e8abdb76244d27e5fcf397be8c580d4f72"
     }
   ]
 }

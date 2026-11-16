@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "categories": [
     {
       "id": "plugin",
@@ -1867,6 +1867,23 @@
       "sha256": "283b5ac7a3302d2413a47b35aceb8e227002258d539a14f4719dbaa1272240ae"
     },
     {
+      "id": "com.codeforge.plugin.compose-bottomnav.template",
+      "category": "template",
+      "name": {
+        "de": "Compose · Untere Navigationsleiste (Projektvorlage)",
+        "en": "Compose · Untere Navigationsleiste (Projektvorlage)"
+      },
+      "summary": {
+        "de": "Projektvorlage: Jetpack Compose mit NavigationBar und drei Bildschirmen (Heute, Aufgaben, Profil); MVI mit StateFlow, Hilt, typsichere Navigation, Clean Architecture in mehreren Modulen; build-logic mit Convention-Plugins, zentrales :core:resources (Texte Englisch/Deutsch), Hilt mit KSP, detekt und ktlint, compileSdk 37.",
+        "en": "Projektvorlage: Jetpack Compose mit NavigationBar und drei Bildschirmen (Heute, Aufgaben, Profil); MVI mit StateFlow, Hilt, typsichere Navigation, Clean Architecture in mehreren Modulen; build-logic mit Convention-Plugins, zentrales :core:resources (Texte Englisch/Deutsch), Hilt mit KSP, detekt und ktlint, compileSdk 37."
+      },
+      "version": "1.1.0",
+      "author": "codeforge",
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.compose-bottomnav.template.zip",
+      "sha256": "fde153f8810bc549b9de033d4900891d8000e86e175740d867c133badc0b1bc0"
+    },
+    {
       "id": "com.codeforge.plugin.compose-clean.template",
       "category": "template",
       "name": {
@@ -1874,48 +1891,65 @@
         "en": "Compose Clean Architecture (Projektvorlage)"
       },
       "summary": {
-        "de": "Projektvorlage: Jetpack Compose, MVI mit StateFlow, Hilt und Clean Architecture in mehreren Modulen (:app, :core:domain, :core:data, :feature:home), Version Catalog.",
-        "en": "Projektvorlage: Jetpack Compose, MVI mit StateFlow, Hilt und Clean Architecture in mehreren Modulen (:app, :core:domain, :core:data, :feature:home), Version Catalog."
+        "de": "Projektvorlage: Jetpack Compose, MVI mit StateFlow, Hilt und Clean Architecture in mehreren Modulen (:app, :core:domain, :core:data, :feature:home), Version Catalog; build-logic mit Convention-Plugins, zentrales :core:resources (Texte Englisch/Deutsch), Hilt mit KSP, detekt und ktlint, compileSdk 37.",
+        "en": "Projektvorlage: Jetpack Compose, MVI mit StateFlow, Hilt und Clean Architecture in mehreren Modulen (:app, :core:domain, :core:data, :feature:home), Version Catalog; build-logic mit Convention-Plugins, zentrales :core:resources (Texte Englisch/Deutsch), Hilt mit KSP, detekt und ktlint, compileSdk 37."
       },
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.compose-clean.template.zip",
-      "sha256": "51215055820f3e0aedd4b42e782049e1c7a21225e95546b7abf5c142cb02868d"
-    },
-    {
-      "id": "com.codeforge.plugin.compose-bottomnav.template",
-      "category": "template",
-      "name": {
-        "de": "Compose · Untere Navigationsleiste (Projektvorlage)",
-        "en": "Compose · Bottom navigation (project template)"
-      },
-      "summary": {
-        "de": "Jetpack Compose mit NavigationBar und drei Bildschirmen: Heute (Fortschritt, Tagesziel), Aufgaben (Filter, Abhaken, Hinzufügen) und Profil. Abzeichen mit offenen Aufgaben. MVI, Hilt, typsichere Navigation, mehrere Module.",
-        "en": "Jetpack Compose with a NavigationBar and three screens: today (progress, daily goal), tasks (filter, check off, add) and profile. Badge with open tasks. MVI, Hilt, type-safe navigation, multi-module."
-      },
-      "version": "1.0.1",
-      "author": "codeforge",
-      "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.compose-bottomnav.template.zip",
-      "sha256": "a1ef62b0c82115684b01c7470000312539977d1d04175798fcabe89fb244cca6"
+      "sha256": "3dec508e03b651d4438a280648afdd9bf513b422e5dbc47224931a85b3b6848d"
     },
     {
       "id": "com.codeforge.plugin.compose-drawer.template",
       "category": "template",
       "name": {
-        "de": "Compose · Navigationsmenü (Projektvorlage)",
-        "en": "Compose · Navigation drawer (project template)"
+        "de": "Compose · Navigationsmenü (Drawer) (Projektvorlage)",
+        "en": "Compose · Navigationsmenü (Drawer) (Projektvorlage)"
       },
       "summary": {
-        "de": "Jetpack Compose mit ModalNavigationDrawer und drei Bildschirmen: Start, Notizen (Liste, Hinzufügen, Löschen) und Einstellungen (Hell/Dunkel, dynamische Farben). MVI, Hilt, typsichere Navigation, mehrere Module.",
-        "en": "Jetpack Compose with a ModalNavigationDrawer and three screens: home, notes (list, add, delete) and settings (light/dark, dynamic colors). MVI, Hilt, type-safe navigation, multi-module."
+        "de": "Projektvorlage: Jetpack Compose mit ModalNavigationDrawer und drei Bildschirmen (Start, Notizen, Einstellungen); MVI mit StateFlow, Hilt, typsichere Navigation, Clean Architecture in mehreren Modulen; build-logic mit Convention-Plugins, zentrales :core:resources (Texte Englisch/Deutsch), Hilt mit KSP, detekt und ktlint, compileSdk 37.",
+        "en": "Projektvorlage: Jetpack Compose mit ModalNavigationDrawer und drei Bildschirmen (Start, Notizen, Einstellungen); MVI mit StateFlow, Hilt, typsichere Navigation, Clean Architecture in mehreren Modulen; build-logic mit Convention-Plugins, zentrales :core:resources (Texte Englisch/Deutsch), Hilt mit KSP, detekt und ktlint, compileSdk 37."
       },
-      "version": "1.0.1",
+      "version": "1.1.0",
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.compose-drawer.template.zip",
-      "sha256": "2ed6189728b01ff894760ad969bf09d1f391b1c30378ea701a6cd393f3972e28"
+      "sha256": "24ea3eade6675b63181f43a3ca3f57e7c615947635ea56cb727e8b17de47073e"
+    },
+    {
+      "id": "com.codeforge.plugin.compose-notes.template",
+      "category": "template",
+      "name": {
+        "de": "Compose · Notizen-App (Projektvorlage)",
+        "en": "Compose · Notizen-App (Projektvorlage)"
+      },
+      "summary": {
+        "de": "Projektvorlage: Notizen-App mit eigenem Designsystem (:core:designsystem – Theme hell/dunkel, Akzentfarben, Formen, Verläufe, Komponenten), Übersicht mit Suche und Raster, Editor mit Notizfarben, Einstellungen; Clean Architecture, MVI, typsichere Navigation; build-logic mit Convention-Plugins, zentrales :core:resources (Texte Englisch/Deutsch), Hilt mit KSP, detekt und ktlint, compileSdk 37.",
+        "en": "Projektvorlage: Notizen-App mit eigenem Designsystem (:core:designsystem – Theme hell/dunkel, Akzentfarben, Formen, Verläufe, Komponenten), Übersicht mit Suche und Raster, Editor mit Notizfarben, Einstellungen; Clean Architecture, MVI, typsichere Navigation; build-logic mit Convention-Plugins, zentrales :core:resources (Texte Englisch/Deutsch), Hilt mit KSP, detekt und ktlint, compileSdk 37."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.compose-notes.template.zip",
+      "sha256": "840bc646f5440e305b461a73d01dc9455e6c3dce2aff49d0b15660da9c263ba4"
+    },
+    {
+      "id": "com.codeforge.plugin.compose-podcast.template",
+      "category": "template",
+      "name": {
+        "de": "Compose · Podcast-App (Projektvorlage)",
+        "en": "Compose · Podcast-App (Projektvorlage)"
+      },
+      "summary": {
+        "de": "Projektvorlage: Podcast-App mit eigenem Designsystem (:core:designsystem – Theme hell/dunkel, Akzentfarben, Formen, Verläufe, Komponenten, eigene Symbole), Entdecken, Bibliothek, Podcast-Seite, Vollbild- und Mini-Player (simulierte Wiedergabe), Einstellungen; Clean Architecture, MVI, typsichere Navigation; build-logic mit Convention-Plugins, zentrales :core:resources (Texte Englisch/Deutsch), Hilt mit KSP, detekt und ktlint, compileSdk 37.",
+        "en": "Projektvorlage: Podcast-App mit eigenem Designsystem (:core:designsystem – Theme hell/dunkel, Akzentfarben, Formen, Verläufe, Komponenten, eigene Symbole), Entdecken, Bibliothek, Podcast-Seite, Vollbild- und Mini-Player (simulierte Wiedergabe), Einstellungen; Clean Architecture, MVI, typsichere Navigation; build-logic mit Convention-Plugins, zentrales :core:resources (Texte Englisch/Deutsch), Hilt mit KSP, detekt und ktlint, compileSdk 37."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.compose-podcast.template.zip",
+      "sha256": "0bb9f25f76c3c3d3d99b18d0dd48b705ae0d47c34de3fe6f0334840c15e65774"
     },
     {
       "id": "com.codeforge.plugin.jvm-cli.template",
@@ -1925,14 +1959,14 @@
         "en": "Konsolenprogramm JVM (Projektvorlage)"
       },
       "summary": {
-        "de": "Projektvorlage: Konsolenprogramm für die JVM in Kotlin oder Java, Gradle mit Kotlin- oder Groovy-DSL, application-Plugin und JUnit-Test.",
-        "en": "Projektvorlage: Konsolenprogramm für die JVM in Kotlin oder Java, Gradle mit Kotlin- oder Groovy-DSL, application-Plugin und JUnit-Test."
+        "de": "Projektvorlage: Konsolenprogramm für die JVM in Kotlin oder Java, Gradle mit Kotlin- oder Groovy-DSL, application-Plugin und JUnit-Test; build-logic mit Convention-Plugins, bei Kotlin zusätzlich detekt und ktlint.",
+        "en": "Projektvorlage: Konsolenprogramm für die JVM in Kotlin oder Java, Gradle mit Kotlin- oder Groovy-DSL, application-Plugin und JUnit-Test; build-logic mit Convention-Plugins, bei Kotlin zusätzlich detekt und ktlint."
       },
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "codeforge",
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.jvm-cli.template.zip",
-      "sha256": "ba7b490894645ff42bcbf0c690beb3940ecd1ab3ae550732f8ab67d3537e31d4"
+      "sha256": "fb2bd7520d6547433bd6941ac0e6f2559c962c00e578b996df940df28ec45ebb"
     },
     {
       "id": "com.codeforge.plugin.gofmt.formatter",

@@ -1,8 +1,8 @@
 {
  "schema": 1,
- "updated": "2026-11-20T04:32:52Z",
+ "updated": "2026-11-20T05:15:59Z",
  "totals": {
-  "downloads": 0,
+  "downloads": 12,
   "ratings": 0
  },
  "items": {
@@ -322,22 +322,22 @@
    "downloads": 0
   },
   "com.codeforge.plugin.compose-bottomnav.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.compose-clean.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.compose-drawer.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.compose-notes.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.compose-podcast.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.jvm-cli.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.gofmt.formatter": {
    "downloads": 0
@@ -430,24 +430,27 @@
    "downloads": 0
   },
   "com.codeforge.plugin.data-viewer.code": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.gradle-tasks.code": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.markdown-preview.code": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.python-tests.code": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.rest-client.code": {
    "downloads": 0
   },
   "com.codeforge.plugin.script-tasks.code": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.sqlite-viewer.code": {
+   "downloads": 1
+  },
+  "com.codeforge.plugin.text-tools.code": {
    "downloads": 0
   }
  }

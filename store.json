@@ -110,7 +110,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.ayu-dark.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ayu-dark.theme.zip",
-      "sha256": "0555ffa3c77ce3ffdf07ee44ff130ffc06c215c9718718a8f625a01a46e78ab9",
+      "sha256": "e494eeda7b08e56ba0a5c3180d34ff2f4e98ac1ce30bb928a138f3b940ca14b7",
       "size": 789,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -144,7 +144,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.ayu.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ayu.theme.zip",
-      "sha256": "07cf591f3d69dd7389a37108b6d4133cb307b92d24cf7e22b28ec9ceefa34670",
+      "sha256": "4900c273f1f90095c79f3be43c81cc5f894c4d416aa45ca4a59e0084447e888c",
       "size": 3366,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -178,7 +178,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.catppuccin.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.catppuccin.theme.zip",
-      "sha256": "8e6e9461e3678f06cd3098fcb2ddabba8ff8b86093edf10c6bd60b6e2e55e73c",
+      "sha256": "95c9a72388fe9ee77ee6e8c5616374fede80a7f967309ba6a06b8dc0498facc8",
       "size": 3386,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -212,7 +212,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.cyberpunk-neon.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.cyberpunk-neon.theme.zip",
-      "sha256": "eac7f626319be58d45fd780de9d5a4b59952f0a877fd5f565d9199dfb44037b3",
+      "sha256": "38103cf432450570e1ee8bfbbe7cd6418c1c5c6127aaeed44ccdf7de9075345a",
       "size": 789,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -246,7 +246,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.darcula.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.darcula.theme.zip",
-      "sha256": "41d09b3fc4ccb081f5bf07946faee811ee9d29db9ad06c1da764821d31535598",
+      "sha256": "0fc75de1c1f7689f29795f95aa8f53755a9febc9c824475019d0c9128e1a8168",
       "size": 782,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -280,7 +280,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.dracula.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.dracula.theme.zip",
-      "sha256": "78b70017b81dfd717fde208df5b1fc1cd269aeea024039b8a4072a3539e2f1f3",
+      "sha256": "34f14dfd4c7f333f540303fecf7aa06cb23fb58cc56d1bd4a3c53a387817bd09",
       "size": 3365,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -314,7 +314,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.eclipse.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.eclipse.theme.zip",
-      "sha256": "5c641817020e0a28298aa7c192b3a9e20e5b24f224dd110b7436d285fdda3446",
+      "sha256": "0a68f6dfd29a1c1319dd9f8218513d9dff16295b35886c85c9107a73d3139745",
       "size": 782,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -348,7 +348,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.everforest.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.everforest.theme.zip",
-      "sha256": "1a860d1a78ebee18f3da8e869b7bbd590626e0ebb3ad16dd9702eeb463a4e6fd",
+      "sha256": "575d6dd950721a9f8eecfd7dc82289a123cea8317b6598f918329964625782c4",
       "size": 3378,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -382,7 +382,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.forest.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.forest.theme.zip",
-      "sha256": "61c81277e9a2de2d69b2bb6ed581850379eb290624396eb1f7aaaaf8676fd390",
+      "sha256": "1a05adf1f97a57d3feeef68b2a020ef7f27072c309d6be756e279f0130116d51",
       "size": 782,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -416,7 +416,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.github-light.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.github-light.theme.zip",
-      "sha256": "1895168723a003dfcf00941a3e11046c5a9329f58474b280ec9c16cdd4165af6",
+      "sha256": "847230c65cc877bdbb767676cb42bda7c802b1b7d3681b89dfafcec79d267fa2",
       "size": 793,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -450,7 +450,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.github.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.github.theme.zip",
-      "sha256": "aca8e593a2baa33716e6a802604a6e95f9359f54b8561249fb48d72c4efcc3fb",
+      "sha256": "b5fd8f944d0782355a3543ac2f8ff6ce9e56f023de1fdae2e801018eb043e6ba",
       "size": 3378,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -484,7 +484,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.gruvbox.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.gruvbox.theme.zip",
-      "sha256": "65a7cc206d0aee8e9902cb51393f1d0f4ee31990915da0246f2d325950600612",
+      "sha256": "4d590b524ac1797b85bd82c3e6bf4e3501041a17de841ffdfc12d7d748375c22",
       "size": 3374,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -518,7 +518,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.kanagawa.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.kanagawa.theme.zip",
-      "sha256": "4e6e31096d1026c2bb7732ef53260d6ab2e009646aa21d0fb5e27f9a31c9cd65",
+      "sha256": "017eadefe6b99a05702ead8c24b94d20e8005d22760d169e7dc314fd78a130fd",
       "size": 3394,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -552,7 +552,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.material.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.material.theme.zip",
-      "sha256": "199c47da73e51f5d3b8a1542ca7aa922115c1151f87ffdbbb35fdeb611822607",
+      "sha256": "2c3ed92978835105baf4704fbb9d711f3f9056ac780aa0e93999bc4dc0328f78",
       "size": 3373,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -586,7 +586,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.monochrome.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.monochrome.theme.zip",
-      "sha256": "4348bd3773cc6f6c0704f13aedaed94065f693930ce5c93f8f2322987acc764f",
+      "sha256": "b866ff441b892203cf737408a41ca62a28bee073274e2c7c4828e523402ff9b3",
       "size": 772,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -620,7 +620,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.monokai.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.monokai.theme.zip",
-      "sha256": "5f9feec3f5d1126ede1610da674a85e3982c417b23970bfcaba8efbee4f16f42",
+      "sha256": "bca7ed6ca3eafde8d710f4f2eeda83f4bf078d3f1270565ec46de0ea313e9cdf",
       "size": 782,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -654,7 +654,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.night-owl.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.night-owl.theme.zip",
-      "sha256": "aa5ba0bdfbc9e2f39ec6dfad7a4541f11bbb95260476bfe65693db93ed7511b9",
+      "sha256": "7f284b6c4b0c9f023781644beeb3e6514c7e4cc68c51b4aa0e8f24bf24cb2f97",
       "size": 3395,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -688,7 +688,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.nord.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.nord.theme.zip",
-      "sha256": "4850721a9d58c2f87a2bdbfe083b1725797e420231496e1e461d1ce8aca3c9c1",
+      "sha256": "03a5e5587abd0e2ad7f5cc44c68bc3ddfb92b39f12fd5166148e3455fbcc7e77",
       "size": 3374,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -722,7 +722,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.notepad-plus-plus.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.notepad-plus-plus.theme.zip",
-      "sha256": "9b84a2a10e9c38034cb76e1fc3655ba23927e469752e2d8a80e2857329657679",
+      "sha256": "95c4e557e5e1bb67afc183c6f8d29d53f62d6eb595cafd5388a0f67c494290e9",
       "size": 788,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -756,7 +756,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.ocean.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ocean.theme.zip",
-      "sha256": "469dcd8b260affabf043af66f1f58e070badbe00d86c2568f47401f4a363874d",
+      "sha256": "1364b79ff5bee50d0969c74cbb9bd2e027650188e71efacc8b68b95c15e44997",
       "size": 779,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -790,7 +790,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.one.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.one.theme.zip",
-      "sha256": "b19df3537f4ab62bf127d008f08d4ce8cce52e031bb250cb3aa0b5ff2b45c247",
+      "sha256": "47310e2e54167d5d67dda421e5ff21a713abba25da3bbce5a9c3f6bbe061d436",
       "size": 3358,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -824,7 +824,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.quiet-light.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.quiet-light.theme.zip",
-      "sha256": "3a2b0555affac710d0660e5e6040fc1822941aa79b81d854aba942ef2b55bb86",
+      "sha256": "6902e1f78b3759cf53e0ec6d76f533bf307aa5abc5eaa713dcc867a7ac2a53ec",
       "size": 789,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -858,7 +858,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.rose-pine.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rose-pine.theme.zip",
-      "sha256": "04933eda1fafdb060893bd718d455b76b9232e45bd6a88910f92aae9851192a6",
+      "sha256": "4a43bab631fc758d558d504266e248ce247c8a47b3f57bbdb7375179cdc68d5e",
       "size": 3423,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -892,7 +892,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.solarized-dark.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.solarized-dark.theme.zip",
-      "sha256": "4ba434de44a45dd18d3f3a53341d3bdcb7549ed84c1f365e04d109847e3c6866",
+      "sha256": "f531f4193eee8b40ed405c2022142ef8ed44bdfdaa0cafa17289e84389c0ee69",
       "size": 790,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -926,7 +926,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.solarized.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.solarized.theme.zip",
-      "sha256": "93943083cb884fb35c43f628e55d4846edacc486d7645305fdd58ddb2e65417a",
+      "sha256": "00de887f5fc38279858c58f51e23c03d3b5b8f34200c8bf318256424f69bd8f1",
       "size": 3380,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -960,7 +960,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.sunset.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.sunset.theme.zip",
-      "sha256": "3586c4d0ae01d0bb75767879b1ded51548e0abe47799e256d765cfbf04fc20f3",
+      "sha256": "01e7c450a6517031c53369c5b3329a7a1475d52b26cf88a38ac0b4d4c3bdffca",
       "size": 782,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -994,7 +994,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.tokyo-night.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.tokyo-night.theme.zip",
-      "sha256": "d20d0477adb9c022f0dc31011672790ce6977489893a44339f88bfb634cb75bd",
+      "sha256": "1f35015cb03a6d41e70922006d66c49083a8db92e7eb619348a2794591526272",
       "size": 3394,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1028,7 +1028,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.tomorrow.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.tomorrow.theme.zip",
-      "sha256": "3fcf7e785a4ac8cb0f812a7a0081bf82c7779cccd5c4a1019f78b4344ad68760",
+      "sha256": "4347746bf43897c781ee96ed2946ba424a8098909000ad84c5fe0a8884ee1b00",
       "size": 3343,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1062,7 +1062,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.violet.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.violet.theme.zip",
-      "sha256": "98f88d6b751283fab92af2cb89c2c3e1e94af23484407a648154e91ed2634879",
+      "sha256": "4d9053d4e6396341b3c7a792d87c46349859a529042f4501ef06dcb956a4da4b",
       "size": 780,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1096,7 +1096,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.vscode-dark-plus.theme-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.vscode-dark-plus.theme.zip",
-      "sha256": "d7991cd374e0906e7766baeb6b38855e9f4e651cc93a84e5c30af9335c547a29",
+      "sha256": "77112085c6d637963daadb995d57cd32bc7ad0ca96b8d80d985010822450827e",
       "size": 792,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1127,7 +1127,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.aurora.icons-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.aurora.icons.zip",
-      "sha256": "fa27b97f7f0e852b11beb4290fbdb80272de76de1dc7399676a1313f9893b7fa",
+      "sha256": "9ddf478ae37d42e8410e54bd07c52836a45121d1ffe0a85873a3af53607fa890",
       "size": 254013,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1158,7 +1158,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.coral.icons-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.coral.icons.zip",
-      "sha256": "316a3771c6dbedab723584235e4d00408a8dab075c4b3f7302e2b6eba26081fa",
+      "sha256": "94f4d0279ed7b1119147b37f3d0b20c049a7f78c3b2fdd65a1232e91606c7f10",
       "size": 248775,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1189,7 +1189,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.ember.icons-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ember.icons.zip",
-      "sha256": "6043f0ce4dcb6b4458281ece595419ceccbe790110c8926c8169b28668306bff",
+      "sha256": "db8883487303dfa3366797f9d32b23af03363c0812f7c2b97c2651d05e3e065a",
       "size": 188540,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1220,7 +1220,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.frost.icons-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.frost.icons.zip",
-      "sha256": "49121af579d3e87b013358391b1609e761935fd742228f09527a2cb3748637ed",
+      "sha256": "b56b4743fd7eba5e415ca014729cf78b74511f3bb961a8d4340ea8a9ea9ddfaf",
       "size": 191307,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1251,7 +1251,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lagoon.icons-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lagoon.icons.zip",
-      "sha256": "66d414d09331657223fe683827b9477aa1d5016fe2ce8c6d1c6b1ae106f8271f",
+      "sha256": "ed3a2e6a5dc67e60ae5de7e8ff7bea0b02886c2ab28c5e1ac12bffbab9ea3d48",
       "size": 257302,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1282,7 +1282,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.meadow.icons-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.meadow.icons.zip",
-      "sha256": "a658c8a6cbe5c653d8971b59daa91cd20fc8553a8cbaa34220666e7cdfcd76e5",
+      "sha256": "da32d0d7e8e069da27dac2028353dce0ef3e38ca8fcb2ed80a16faa8832602b3",
       "size": 184744,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1313,7 +1313,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.neon.icons-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.neon.icons.zip",
-      "sha256": "a5e45da73da5dea8c335f9603245ecae6107c5a82c9b79f1fdc425049793f8df",
+      "sha256": "8a942cff5f2deeef261e215dae7a341130118f931838c0dc2a5d792b9f3052bc",
       "size": 294062,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1344,7 +1344,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.obsidian.icons-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.obsidian.icons.zip",
-      "sha256": "ad69706fc0373061dffea170cbeae3b323d12aec03deff240677f245e5ee1332",
+      "sha256": "e1725897311fafc7bc5ca0c579c5540b92530ba336e34458b998f3c6f1a6600a",
       "size": 294970,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1375,7 +1375,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.paper.icons-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.paper.icons.zip",
-      "sha256": "de241d0c04961719e44dbbc818695339945e09c8a2c1963ab28f06a634f05b69",
+      "sha256": "0a986c3a8b7fd7c824627ff57efd02b8d10202739bbc31fd5c42e0f84f2f8cab",
       "size": 188885,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1406,7 +1406,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.sky.icons-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.sky.icons.zip",
-      "sha256": "07ec4b47fce6e15cfdc54a42a8407a28b679692d0df75905d6f8578a946c687d",
+      "sha256": "a04061b495df5529def5f4b1fe090a1d54724c593d7aa08518e9b5fcbfbb11de",
       "size": 188809,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1437,7 +1437,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.slate.icons-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.slate.icons.zip",
-      "sha256": "4b07132eb1a55981d6238ac94fda3631ee7a51f263f9d72836e33e164881fc21",
+      "sha256": "0d5764843e60e5d4dd46e1cc7b1e225128361808275acbee48f0a8300c6282c3",
       "size": 188831,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1468,7 +1468,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-es.language-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-es.language.zip",
-      "sha256": "dcb8d3d7004b9ae85a2d4073b022ce72d2f3fb91a5804cb9e1e002ae578871c4",
+      "sha256": "df00dac6aaf355a8b6a1ddac4a1c1080e0706af5256f83a1e67295755285f4e8",
       "size": 1876,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1499,7 +1499,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-fr.language-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-fr.language.zip",
-      "sha256": "4bcec50569aacebbf091fcae497c51e5afee9b9f8e2b794f5c872d3aa7ec9e7e",
+      "sha256": "01dd0b1d8945332be117de611f20217fd5862a2bf8abb72f4644488dab02ef5d",
       "size": 1870,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1530,7 +1530,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-it.language-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-it.language.zip",
-      "sha256": "c17cc898ae292f75ea34ad411f8a0bc3cc513b7a71d8b2f18af9f3734c8aa8d5",
+      "sha256": "ffca3a02d9e9b76f695327cb2c9e9cf7b14de8f5c37308ecd394714964f30860",
       "size": 1832,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1561,7 +1561,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-ja.language-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-ja.language.zip",
-      "sha256": "c984fd0a7d5760bcec2496996e0a9e933fadbc00edf7933a3b6320cd2ebfff6d",
+      "sha256": "bd444cc764aae2f6e58ee776739ae5073707157ae5d06d01d1f10f0c1a3b6e34",
       "size": 2148,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1592,7 +1592,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-nl.language-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-nl.language.zip",
-      "sha256": "d783fc39a9082c30a00274781a065ddb36646da84fb5cde874aeca9186f9ba60",
+      "sha256": "0006616b982eb7dd110707845a82cbca1d131f9f3afdf7958f47c5e6f85f7de5",
       "size": 1782,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1623,7 +1623,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-pl.language-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-pl.language.zip",
-      "sha256": "b897cd4802c5e15b9cd080788520c4a46adee152bacab5a63bcbb3dfc0d1ae3b",
+      "sha256": "57bac969b5e9084eab611d33e60de5039380081d101ee45765624b5ee2720641",
       "size": 1936,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1654,7 +1654,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-pt-br.language-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-pt-br.language.zip",
-      "sha256": "58cf791e4b130f736369aa9559af55a074d923459c4b694108add9b3a14451e9",
+      "sha256": "59b4f2469a417720e94505aadd41bd15e72b3f18a626adee97d7a34336456dfd",
       "size": 1902,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1685,7 +1685,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-ru.language-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-ru.language.zip",
-      "sha256": "b6260bb1c465dd9535dd0c1580b55f1e549ccf64724954239c654f143e3dc9d4",
+      "sha256": "5bd98d9682dcb1756cd0121eb7ee772e256f6f74e15374a222bbb7d1d3ecde1c",
       "size": 2192,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1716,7 +1716,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-tr.language-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-tr.language.zip",
-      "sha256": "78134b8842f8bd7117b3b53b10056b0119f1a55214f25aaab3954a44cae2d647",
+      "sha256": "012752dff5207aa9b1470d9f7667a8e2ed34fc3bf7b81283fb6c425b9d58f640",
       "size": 1920,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1747,7 +1747,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-zh-cn.language-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-zh-cn.language.zip",
-      "sha256": "be0205c370dcf81ee3f1d445f21e640dc68fb92c1685a4124e6fa754b9043262",
+      "sha256": "44b86eb5b934a0df20955a7fb56a5a67b6dd4c926da8b8d0d923d19b59fc9bfc",
       "size": 1981,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1779,7 +1779,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.c.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.c.grammar.zip",
-      "sha256": "591c0d46b55cd36cf4ed831e866fdf90726cfcfd02d72aedef567cd6962075c2",
+      "sha256": "d874d2145d4405343d694400c97bd7b3ae8e77cd3a17e84313bc40690b250287",
       "size": 1203,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1811,7 +1811,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.cmake.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.cmake.grammar.zip",
-      "sha256": "10b1b4fa897f02a37af25a4f04d394610c568d9b13a5d554f5dba7e8ac17cc15",
+      "sha256": "7254588caa74de5ba067c9528502cf9a91d8fff8e9cec7cae1c36cb07a62e835",
       "size": 1077,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1843,7 +1843,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.cpp.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.cpp.grammar.zip",
-      "sha256": "bfe64c5ca48eb77c0e937b650f10d2dcdb61cc2a72ce679ad2f5a188daec3abd",
+      "sha256": "caec222d12131a52e8f0c25d0537a414b322c9874c8e9d5b11c985d820526f8a",
       "size": 1361,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1875,7 +1875,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.css.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.css.grammar.zip",
-      "sha256": "042ff9597c5786ba28267b16960ffabd760c5db6c39f112b0aaf92ff4f2543ad",
+      "sha256": "035fce79937a901dfc3e563afdc6ec9aa67cb726dbac4090241640ec4bb104eb",
       "size": 932,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1907,7 +1907,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.dart.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.dart.grammar.zip",
-      "sha256": "07e00d4c2294247fa75cda393debadec8790f10e4a006422e5f42dc5f75c51da",
+      "sha256": "3596366936875fa97ab4ff8699adf1d6e835227bec582dc6c3f4d0edde1647c6",
       "size": 1268,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1939,7 +1939,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.dockerfile.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.dockerfile.grammar.zip",
-      "sha256": "e08a054e1e5eef8383a03861bfb57e9b60c4822e1ecca1976976d32b9c83e6f9",
+      "sha256": "3fba1d8b84588e56ff6396cf6f586de9fa7443a309438946020c3d3301e4e0d7",
       "size": 1030,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -1971,7 +1971,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.go.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.go.grammar.zip",
-      "sha256": "0e3f5a3b5090eae22c5a929171e63e73014624757a1aafb1079a266da4a89e3f",
+      "sha256": "7678ed3287c87401d152bbdc28144e62925b8180fffe92cde221315caf58e37f",
       "size": 1151,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2003,7 +2003,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.groovy.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.groovy.grammar.zip",
-      "sha256": "95dc4788cbb8f86c6f5cc2f76b7ecb0f21d531ba2ac546f5b76f951e4b5d97bd",
+      "sha256": "c1c089844bdc171fecdb8db2ef51af5ed7df9cde020cda871cdb3fafed6e48f8",
       "size": 1352,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2035,7 +2035,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.html.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.html.grammar.zip",
-      "sha256": "e3424ae6f936bc6e54faaebf14bfaba36d0fd135f16ce7c8ce3368ef65916392",
+      "sha256": "5f1260f922257acc02ecfa65f4f2780d39bac4f731f4e20703f9090955790624",
       "size": 924,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2067,7 +2067,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.javascript.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.javascript.grammar.zip",
-      "sha256": "25adc683fc2fb56571ef8d6a1fa7ca9fb389ca7497417485ec97704540d7596a",
+      "sha256": "61fd6188859aa5ce25bddfb72a74c7a774403b4f1622a6ec8733522ff87793e6",
       "size": 1242,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2099,7 +2099,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lua.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lua.grammar.zip",
-      "sha256": "79b865c437b132e4c4f1171a71944b74b93f59c7277aeb279733db5c5746a7e2",
+      "sha256": "2017274fc441d5d83642980417cd9d42cd49d72eab4439364c3b4d333c90c8e5",
       "size": 1046,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2131,7 +2131,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.makefile.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.makefile.grammar.zip",
-      "sha256": "8d25abf099d865cc507d26d1b8e7e9f494d8a0eb839895edbb0e3d9eb0f73346",
+      "sha256": "f52dc908728e5ac4b3f0e0aa1422373d4f055be5c93f47278f1bcd25e79e3d56",
       "size": 1055,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2163,7 +2163,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.markdown.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.markdown.grammar.zip",
-      "sha256": "1adcea34d997d6784977f27e7fbb0f8b9a470381fd62b8266553169221752190",
+      "sha256": "95ca7f74e9d666d33dfd48b52029e8e52d11b44d3043f6e76d7c96604ff66eb9",
       "size": 890,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2195,7 +2195,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.php.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.php.grammar.zip",
-      "sha256": "dbe95f6f5de8c43fe1e133ffefb4fcf749e380d4854007e0780feb50b82c8284",
+      "sha256": "3e9fd8249dc5669aafb4dae91a90aa29194ca45b2fc78f793dd50b07b3d911f8",
       "size": 1290,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2227,7 +2227,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.properties.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.properties.grammar.zip",
-      "sha256": "cbaaa0fbccff02dae819ebaa64841b9b7bb59287996912b65360a9e13aa9d75f",
+      "sha256": "8b74338a49e188d2003ce2250e7352174040866137cc267d071a584971a8e460",
       "size": 799,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2259,7 +2259,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.protobuf.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.protobuf.grammar.zip",
-      "sha256": "bbfcf4e04bba2c0a8b0ab487031a93849f8f936fdc5104d7b6fe1c8b0c92f878",
+      "sha256": "f5270728a0c9cb96800a89fb3197f6c3caeeedd25bc441ecb234a5889ef66391",
       "size": 1117,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2291,7 +2291,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.python.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.python.grammar.zip",
-      "sha256": "53d21a6ec667226b3e2db30937e5fa1ee6bd369e83f26361ffdaff1f53e02ace",
+      "sha256": "ebd24cc6d76f0150ca3630488a49900d82004a52a353f56f320c9771e9602430",
       "size": 1200,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2323,7 +2323,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.ruby.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ruby.grammar.zip",
-      "sha256": "fbf4b8ad28c1264431ec21cf6f1959c93fcb08d9033363bd0396408b4625bec2",
+      "sha256": "9bd794b3b4d20dbfbd3f85c7a6fb19e03c4ed938008ea2b62b0fbdb5091222d1",
       "size": 1196,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2355,7 +2355,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.rust.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rust.grammar.zip",
-      "sha256": "c3304135d399a1545e7fb1c6b78e244393c5de8e35e93dfeab69560b3b32dad5",
+      "sha256": "d139a7ac7edf36a55a23db1b8eaa4977c1fe7cf675b2688eb462d36cd20953f6",
       "size": 1256,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2387,7 +2387,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.shellscript.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.shellscript.grammar.zip",
-      "sha256": "c3c8ea4061e96f9a455360e92d1036684828d7e8b07f62dad4f0c97610148a72",
+      "sha256": "6a47269329cabe4ea42d9088680d5cf88523c45a1026c65e1dae3a87ccb0525e",
       "size": 1170,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2419,7 +2419,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.sql.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.sql.grammar.zip",
-      "sha256": "642212de78eb3e387d5f95f376fbeb2fd701f74030f8aa2c07c73bdff849b9c2",
+      "sha256": "2154e18089977bc7f76393bbf3e5dfedcda94ad3a912cd9f5d17de1ef3b5b148",
       "size": 1209,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2451,7 +2451,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.swift.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.swift.grammar.zip",
-      "sha256": "9195dc0949750a640a3402ff7e025b2e701ad95cac43d4c9ee5bde0bc6a0c73a",
+      "sha256": "19ae4a282bdffa2d90a2dd2d1d09e702bd0b41741269785673be33f60696bdd5",
       "size": 1297,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2483,7 +2483,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.toml.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.toml.grammar.zip",
-      "sha256": "a15c1c998cda137c3aac36a7e61a3623254cb09bfe5594e291e830b45212e422",
+      "sha256": "91a0d7ea3d171a980a118324952d7fdca45340505280538e72729973e39462bc",
       "size": 992,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2515,7 +2515,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.typescript.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.typescript.grammar.zip",
-      "sha256": "853a75ebf2c42a8daf8ace73372c24757bf0e355e0db7a3099727a89c485c456",
+      "sha256": "a39c9e8f57f1900f4c56a1106c21ae2556f2c94930a30d0dda23346acd341ccf",
       "size": 1312,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2547,7 +2547,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.yaml.grammar-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.yaml.grammar.zip",
-      "sha256": "e84d296f55e8e2ec45c8320008f3b76170922cb70fef3a05daf53d4f96df4f6e",
+      "sha256": "91d4eea735d1fbb5543979663afb12dd9563b835c68a18ad3265dc316a14728e",
       "size": 954,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2579,7 +2579,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.c.snippets-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.c.snippets.zip",
-      "sha256": "79a39edcc0ab5fbc915f422268965cde668ddf49e540baa63e0b090db2c46451",
+      "sha256": "b2a70247e4b6e85f142e49ae990e46ee7c0304035de26bac06b336d87f264ccc",
       "size": 848,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2611,7 +2611,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.compose.snippets-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.compose.snippets.zip",
-      "sha256": "26c282e47a1273d1344a429afa959f004073210ea39001e27dad2f67467c00d1",
+      "sha256": "1ee19ae6c0f8264e6ccd9bae5b571a4f3f0f55bbe92f5924ff6325be3f89a26c",
       "size": 1175,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2643,7 +2643,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.cpp.snippets-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.cpp.snippets.zip",
-      "sha256": "27e28ee2d9293930cd204686afa091fd8bbbeac3a458bb75eac8192c28311530",
+      "sha256": "e875642a97eab0898d1b815ed7dbd540ef85cdf870fefc16b1343f2a0d33f3e1",
       "size": 874,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2675,7 +2675,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.dart.snippets-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.dart.snippets.zip",
-      "sha256": "899c6ef9cd363e992b4aa129d344d65ea3ce592bc90d2105dc9f8aa7840019b2",
+      "sha256": "2c16ddad261b3270b5e1b628f9fb874b5b41b74ee6086ee1051804546832426f",
       "size": 876,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2707,7 +2707,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.go.snippets-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.go.snippets.zip",
-      "sha256": "bafdbe03cebaf8ee88fc3a508c4ee52f04eaae38a8edfad9a2c9bf396183a034",
+      "sha256": "2fca7a6cc474354353f95de895e0059415ad3a0b3af1a8bd396db5900fd66027",
       "size": 923,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2739,7 +2739,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.java.snippets-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.java.snippets.zip",
-      "sha256": "41e2a6129893af38ec24df7f1650f0d7f40e22dcc214bddf7144ef5d584a6217",
+      "sha256": "46389b0f4aa948ba3ddd996e8641a70a710e84a5df70b1517bc496e0b4b79959",
       "size": 984,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2771,7 +2771,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.javascript.snippets-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.javascript.snippets.zip",
-      "sha256": "5adc3d741442517df5a899ec58f661aee2e562f86d6a0dda06f6d4372a8cf0b1",
+      "sha256": "22b53988f8171a71be5649adff6f8d9955def2e58ea0ab47ae5271328ed07288",
       "size": 930,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2803,7 +2803,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.kotlin.snippets-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.kotlin.snippets.zip",
-      "sha256": "e96bb28d9ab3e3bbadaadd314eafafb3440a0c806d0a75948dbde296e8f1135d",
+      "sha256": "e26084eb0f82cd41e50d2e49c32e68463dfdcc3b99fcde0488305094ad07f8ea",
       "size": 1191,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2835,7 +2835,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.python.snippets-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.python.snippets.zip",
-      "sha256": "4d7ff8306f960918b7e6e8579f1ab859efc392655d5b9cedc7d5629c895bcdfc",
+      "sha256": "d1c9f577c99bfd11e1d34784ef9e510a8a9d45033da1bf6faa7082ec224b4203",
       "size": 1065,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2867,7 +2867,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.rust.snippets-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rust.snippets.zip",
-      "sha256": "5ee7cd1f9ac3af4e9658800c6c3922927e56ddb799a8dd12c412f2fe5e2f2236",
+      "sha256": "9e32b7deb426a902303029bec6a6536f5efdee49d521cc322fed828765d66954",
       "size": 947,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2899,7 +2899,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.shellscript.snippets-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.shellscript.snippets.zip",
-      "sha256": "2c7d73617338705adf655b7fa93a40c713400feef5c59c38ae9329974c72e9c6",
+      "sha256": "ff03c32e8473a95f57a2f3834fa10d48fc33af5a26a3ac92acd0ace5e6345f80",
       "size": 911,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2931,7 +2931,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.typescript.snippets-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.typescript.snippets.zip",
-      "sha256": "34dd684a708b15d649d226c5a100ec519d93b837d3d961ead456e46da0a34b52",
+      "sha256": "35292ce7970c04ec3b363d2a4a3372b0af12ce83c7c371c870380b966c1c50c7",
       "size": 914,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2963,7 +2963,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.xml.snippets-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.xml.snippets.zip",
-      "sha256": "09ac00e624462fbf2c10148506cac30b6f75d29e4304264c0c5c46a08e864b88",
+      "sha256": "92f3adb808f4f96cf829ab0a0a6d1591628395a2c9dd036726f14313876a4390",
       "size": 989,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -2995,7 +2995,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.bash-language-server.lsp-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.bash-language-server.lsp.zip",
-      "sha256": "b8adbe1ea0657569485769ccc8f223c9e19f11ea539b81504a315cf015cd97ba",
+      "sha256": "9c6db7176f899f423ad327f526ae39225c881272db418e38f94518b459c18535",
       "size": 707,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3028,7 +3028,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.clangd.lsp-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.clangd.lsp.zip",
-      "sha256": "0e121427b9a11f6ada2a73c48d32963e0741c91688ab65cf1a7ca513e48e048c",
+      "sha256": "31f1adb83e30edabe639c232154950a7e652e31c92b07fe25257836ba9061c37",
       "size": 679,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3060,7 +3060,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.dart.lsp-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.dart.lsp.zip",
-      "sha256": "4973e70e24502c529864644cb56359e15fcd2f49e6ca5c3f9a28494f0e4da21f",
+      "sha256": "b07687bbef6fbaf6a3b91295a7c84da8a6d4a6dede4726be4e2af9650dd6c3ef",
       "size": 660,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3092,7 +3092,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.gopls.lsp-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.gopls.lsp.zip",
-      "sha256": "f51a66362e436c31dc5ab1a857950ae949ca2a5f8fabbc73bf10796bbc0a414e",
+      "sha256": "3308e7b8451ee14e48b71385659b4e748b5d4c0367d8baf44efcfde65b750855",
       "size": 645,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3124,7 +3124,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.jdtls.lsp-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.jdtls.lsp.zip",
-      "sha256": "72e93a66a3093bb853e016ebe933c8ab88de7cbdd79befbdd4fb61fd76e3de8e",
+      "sha256": "58983c0e6f4ebb5ea7423acd13f3d9e7d0b47e1474537c268cf402dfdb96f2d4",
       "size": 904,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3160,7 +3160,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.kmp-lsp.lsp-1.0.2.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.kmp-lsp.lsp.zip",
-      "sha256": "7c7324be1e69fac04fd3dc7f2c06f9eb63dfa32e7c415d6f7d3d03ec056e930f",
+      "sha256": "e312bcb4572d24b3db57f9c9e96ef94411b8cfc97f67cf9a1eeb34ff91bc9ff1",
       "size": 970,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3192,7 +3192,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.kotlin-language-server.lsp-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.kotlin-language-server.lsp.zip",
-      "sha256": "fa3bfb028d873118db8cd91884a2ff77c74b11a1ed616094dc8964f2728f6b27",
+      "sha256": "ee5555f321e42574149a4aa5c6ad4253badd61e9f78c689fc877335b32862425",
       "size": 894,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3224,7 +3224,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lemminx.lsp-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lemminx.lsp.zip",
-      "sha256": "82574b9c714252dd6c2e89542bc8e91ca38b2a78a7dd7eb10b1adc1b032f7837",
+      "sha256": "028cf11c404c6213f317433a7f8842718bb52bed330a74ea9bd2f20c6bac5820",
       "size": 862,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3256,7 +3256,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.neocmakelsp.lsp-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.neocmakelsp.lsp.zip",
-      "sha256": "7b7f7c432189cfc3a0c0718c6c728840c231297666ece9a980273fbfe9bc45a4",
+      "sha256": "3de24728dac26aa71078f14d32f378536bbdf4138144d21af759d549ff78d483",
       "size": 659,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3288,7 +3288,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.pyright.lsp-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.pyright.lsp.zip",
-      "sha256": "de64bee2441d3a9b7cfcdca8ae8daa833b0e2d246f13cb79858cfb37296c744d",
+      "sha256": "8c466e9c5e11f3e1045812d3745f84283b7862b507f281f4af16c94822e16b29",
       "size": 697,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3320,7 +3320,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.ruff.lsp-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ruff.lsp.zip",
-      "sha256": "b747de4c09d7775524fd6ea255bec65b8b104a3a378f73836b96a0cd01a0ccd4",
+      "sha256": "4d50c5665c9b370703388ecdf9aa7d0a67f30d5e9ac7fb8b292335c3c0f33dc3",
       "size": 664,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3352,7 +3352,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.rust-analyzer.lsp-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rust-analyzer.lsp.zip",
-      "sha256": "f528f5aa670db66777367879c1b97de361ee677029c891f6316bf7e2a741e009",
+      "sha256": "39c4836e5829d3e35c9bf697eb8072e9aa9658bd59610ca9afc7ed73b2854a43",
       "size": 656,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3384,7 +3384,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.taplo.lsp-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.taplo.lsp.zip",
-      "sha256": "b0cd9e3653a04c4ba1880f2bc25dabf625e1ad1e4acc02f0ccb9be42f5526f59",
+      "sha256": "57387c3994cbaf9e2217851e20797569a3c4e2c23f80e4e5b59f175c3936912c",
       "size": 661,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3418,7 +3418,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.typescript-language-server.lsp-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.typescript-language-server.lsp.zip",
-      "sha256": "51f8bc45bc2f085c1851c9972ac9eb761399c4b559e941e7505b17e4fdcec858",
+      "sha256": "f381043eae684ba1b9b7f0ddee379bb8548b0d0d315859ab67b2655b96c21ffb",
       "size": 721,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3454,7 +3454,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.web-langservers.lsp-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.web-langservers.lsp.zip",
-      "sha256": "597935c04ea2560a7c5ff72300d51f00fd3c6df71e1e1a920caa2003319f5fe1",
+      "sha256": "7609f08e5abc366d66821744348496464734671176241a5aee33bae17f7e8d2a",
       "size": 760,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3486,7 +3486,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.yaml-language-server.lsp-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.yaml-language-server.lsp.zip",
-      "sha256": "bce41f84808470927f8472fdeb8e901d079d29f504afffeed56fa4cb1672dd94",
+      "sha256": "fd5e74cd8c4c2fd7c96f15d1bc83e3aeff1e702e0fa1fa221ea846423f3324c0",
       "size": 689,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3716,7 +3716,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.gofmt.formatter-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.gofmt.formatter.zip",
-      "sha256": "d8a0d18dea03c544613648c9f78e956c23ec5c91c838488db361f9551f590cdd",
+      "sha256": "d4cdf9cafeb1fc984dbddc18d3dbe1c99b8c106645a403de594a29fedc2760ac",
       "size": 662,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3760,7 +3760,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.prettier.formatter-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.prettier.formatter.zip",
-      "sha256": "b1f63c65e547576493df1f038cab93fc2849853b8529d3a286e66b082f271c3e",
+      "sha256": "93c82f8539495a3fa3e945c7083a96a12d3bdf4575bb7d1195abf88cf8177afa",
       "size": 772,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3792,7 +3792,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.ruff-format.formatter-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ruff-format.formatter.zip",
-      "sha256": "2f7a13affd03b1237fce5d2a751c5c38ebc2de94a9e9229c3d13ad297d3fc7f1",
+      "sha256": "ee791c7ee7deaf4def49177f124cc13a71e46067c0bb9b781f9aee9aca199cdd",
       "size": 695,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3824,7 +3824,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.rustfmt.formatter-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rustfmt.formatter.zip",
-      "sha256": "9ae882287780e8fc5fa438f9366bee885f9c9fc90c320b874e8601446b52631d",
+      "sha256": "d6735f3aabdfae117570975f85a98a41d2b5841c2598be6be6f854a3312e4d28",
       "size": 672,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3856,7 +3856,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.shfmt.formatter-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.shfmt.formatter.zip",
-      "sha256": "dc5f0feddfb05c7a2a447fd27ff94f7f471af31f1fb193ece4bef8757ecbf870",
+      "sha256": "8b267026581ded1e6b95aae0f43bf881ee31a70bfa0e8cf5d6f32c44454158e4",
       "size": 682,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3888,7 +3888,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.taplo-format.formatter-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.taplo-format.formatter.zip",
-      "sha256": "f258243020952aad84f053c614ee3f3e4dcac087b2340971ca1dc682ac66b4dc",
+      "sha256": "664be479e06de54cebf3de67aa078ed991ed4558b6e3f35dc8a8dc9de89d2355",
       "size": 669,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3919,7 +3919,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.all-formatters.bundle-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-formatters.bundle.zip",
-      "sha256": "7898cd2178b82be1d4fba25dd79e33c76aded1ab565627c12e22c0942ee0cb82",
+      "sha256": "1b6f8cc24b667f2b9700c9ee670f294ceeb7bafd2bcb2d5dcadcac39d6a97a9f",
       "size": 612,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3950,7 +3950,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.all-grammars.bundle-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-grammars.bundle.zip",
-      "sha256": "502abbd32bb5a1a31d527dea0a2e142e981d203f1b394ddea158847b3d124485",
+      "sha256": "5f624082be2e189fbc77de58151bc9fe80f7aee0c5c39d780a4c1748f10dd3c9",
       "size": 452,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -3981,7 +3981,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.all-icons.bundle-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-icons.bundle.zip",
-      "sha256": "6049dc88f0fe72c88d11628517be80a110aeced0cdf0a454d41a9d661f55dbe4",
+      "sha256": "bed4509ba35aeed93eea23c43fbfb8cd74313769aa185713a12701430461c2a8",
       "size": 412,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -4012,7 +4012,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.all-languages.bundle-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-languages.bundle.zip",
-      "sha256": "b168784bfa3d50d5bfe71c0b1988a8bfe2cd9b364c0fdf7450ee09def938748a",
+      "sha256": "32ae2279584da4ff5dc84f178a8d855a8893ea4c4616a71f536bdab68a8dd3a8",
       "size": 372,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -4043,7 +4043,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.all-lsp-servers.bundle-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-lsp-servers.bundle.zip",
-      "sha256": "56a10b09b6e82e0348ee11837b9c41a9f28811e826af47278ef15b974fde3855",
+      "sha256": "b1d1108d4f4507352d23dba05c0da19b2796429c9b976ab6f2f8e204d0d2586e",
       "size": 694,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -4074,7 +4074,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.all-snippets.bundle-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-snippets.bundle.zip",
-      "sha256": "bf24c5424115429d973c218c48ee5fbebd2264b7bd1266c8c800c2ab7d7cace8",
+      "sha256": "27815606aadf547a2b4e6ee504d0dfeac834321a87579b7d201be0978192a905",
       "size": 390,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -4105,7 +4105,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.all-themes.bundle-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-themes.bundle.zip",
-      "sha256": "68bfc9345f174af8796371379f48d7f4133fd4c18a18123bb87988224d7aedbd",
+      "sha256": "6e07f83baf54bc0bf443fc645372a3c05c373b5856a44e343655466245dbeb08",
       "size": 520,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -4136,7 +4136,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.config-pack.bundle-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.config-pack.bundle.zip",
-      "sha256": "b22377fac80a7d22ee734bcc39d0dc51a7c9917ca7e7238c94b156dddb0c902a",
+      "sha256": "c08a0ffbae1b416fac3aa7611ad556ea224346c95e8dc403b03ac6d92750cf3c",
       "size": 623,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -4167,7 +4167,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.cpp-pack.bundle-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.cpp-pack.bundle.zip",
-      "sha256": "92767644e7649493e7bbc5e354bcb6504206c302f91d62f94100298509819143",
+      "sha256": "8cb5dc14757779dda3ca54ee3bc456988aca471ef8e51ef4ee071167e8d95c18",
       "size": 571,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -4198,7 +4198,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.go-pack.bundle-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.go-pack.bundle.zip",
-      "sha256": "49c4783f86cd8299ec609cf4a843609a62729c031eacd36c436560deabf2109b",
+      "sha256": "5b26556eb577cc8619acf323d5a4adedc38aed0660c66b05da5debf7fa7169f1",
       "size": 557,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -4229,7 +4229,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.jvm-pack.bundle-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.jvm-pack.bundle.zip",
-      "sha256": "89cf6696218ae21d84d75da6a2dffec407f89ebbd03fad2953534b5d897e8c43",
+      "sha256": "9c88028eb4b26772aaf070d1dce41041831539b6fc1d7de5ccbe7319a2c6bdf3",
       "size": 607,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -4260,7 +4260,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.python-pack.bundle-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.python-pack.bundle.zip",
-      "sha256": "a6b004d3c9048f9620a3a17d1ca2d44a985925c08a9adc57880fe40d9fb23154",
+      "sha256": "f96df91b5166fde570f7cf5aae27635cb5db4fe7a4742c5ff3270fc9468fd7d2",
       "size": 599,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -4291,7 +4291,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.rust-pack.bundle-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rust-pack.bundle.zip",
-      "sha256": "b6834e44ef0c60db2c0987fb80524bad7c2a1c48e9ef23f991d513ac465665cd",
+      "sha256": "dce19209d58c737424ffd111be6b4ed9d40282e51b9d70f14854812d58a9a4b6",
       "size": 588,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -4322,7 +4322,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.shell-pack.bundle-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.shell-pack.bundle.zip",
-      "sha256": "6284c5a4066ea62334386b6392b09f1dfa676f4106438962207528d7cba21f4a",
+      "sha256": "4ba1088e92bf0fe23143acc799da7209c5e6e63805e91d1b64cf770681ba0eee",
       "size": 568,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -4353,7 +4353,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.web-pack.bundle-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.web-pack.bundle.zip",
-      "sha256": "04f92dbc27a040a7aae9d0df2703ef5aa6b15ad5bbb002460cf7a94eab53b0ee",
+      "sha256": "605421f7dad76bddd069a14ca2210a0e41ec4edbdb6629863633454325a7bec5",
       "size": 626,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -4388,7 +4388,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.androidx-migrate.tool-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.androidx-migrate.tool.zip",
-      "sha256": "25e6605e6fd371331cfa80415fb5ce93098cd1d5d9a25d1c19ceb7af5cbbd4d9",
+      "sha256": "969d6fa0bb8dc2913e03b8937e8c79834800b7bd77c727eba022d191c99de732",
       "size": 6142,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -4423,7 +4423,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.catalog-migrate.tool-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.catalog-migrate.tool.zip",
-      "sha256": "52aab2bf1477b1589928aba0c54537fff0b0d7512c7b4be0362c328bcb656fd1",
+      "sha256": "e5b6d936ae5fc0828d2f4b4de6eb444f160558dac271efff9d67f6d55e4d8b92",
       "size": 3265,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -4457,7 +4457,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.format-all.tool-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.format-all.tool.zip",
-      "sha256": "3650dc790e2b2cea4328522553a554587971d56e18b200a494ab6df413319226",
+      "sha256": "b8b91dac736d1387d8bc7184acf3e2c7b05be5bffdcd29a0e1ebd9e91eb4674d",
       "size": 2755,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -4490,7 +4490,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.gitignore.tool-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.gitignore.tool.zip",
-      "sha256": "2a359e80b5e9df1d4101292e8346aba457b14b77d992d42f11e11e2b34e7aae5",
+      "sha256": "f2e61c13c34e76ae935b529ceb438b0d187a5c91bc29ba69051487fd3a08050b",
       "size": 2576,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -4523,7 +4523,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.license.tool-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.license.tool.zip",
-      "sha256": "afe97e1d5c10fed82e2e443620f345bf240983b621239aefae0252f87e264940",
+      "sha256": "a46a35c0ff598c547b05b7b7a0e29fe689ae2a40a384d669ad07fbe70895469a",
       "size": 4849,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -4556,7 +4556,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.project-clean.tool-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.project-clean.tool.zip",
-      "sha256": "380da8e647d8de6e027031cfcee298eca7abdac41eed9e06e64ba09f6bf4d6da",
+      "sha256": "0576f97930b0263a244d9160b5150dea66ff98bcb1e28247830785267eb792f8",
       "size": 2599,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -4589,7 +4589,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.readme.tool-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.readme.tool.zip",
-      "sha256": "ba82e9001e18571b0cc3fa81770eed7ed0f69205cdbffd11e59e87fcf3e6d327",
+      "sha256": "d384e37e11fd57ac61be7a9810f752e212a2bb725a88e8eb0bf416a24bbd6078",
       "size": 5677,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -4624,7 +4624,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.unused-resources.tool-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.unused-resources.tool.zip",
-      "sha256": "0a4d3aa2f0d0e14864e0ea9acf317fa7dccbbfef4a7cf1568afff1f7c70545e7",
+      "sha256": "b3db7eb97945b744328bf0a4d7b7fb3688f9ca059fc3b937406d63b7f3998bd6",
       "size": 3450,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -4659,7 +4659,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.vscode-import.tool-1.1.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.vscode-import.tool.zip",
-      "sha256": "3cf98c69153561fab0132840ba61ea7140aabbeb8c6353446f8338ac827122e4",
+      "sha256": "5e54508d16815c8772e47ddf1ec490214aed71206e4eb92e068a0e1e312c5729",
       "size": 9545,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -4854,8 +4854,8 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.rest-client.code-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rest-client.code.zip",
-      "sha256": "128553dccff67ec5aedcc781b37660ca5add6dbce0120e1843206be15acbe275",
-      "size": 24971,
+      "sha256": "70c5e77fe5e65aaf2b4066c267d0c2aefc5ed371ead37e65bdd9cc50ac0a0523",
+      "size": 24995,
       "published": "2026-11-20",
       "updated": "2026-11-20"
     },
@@ -4941,6 +4941,44 @@
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.sqlite-viewer.code.zip",
       "sha256": "ae0c28215e5bf389a34e48e5aa9698c0e8aa11ea826024a92320832bf98ccd1c",
       "size": 25861,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.text-tools.code",
+      "category": "plugin",
+      "categories": [
+        "tools/text"
+      ],
+      "tags": [
+        "code-plugin",
+        "sandbox",
+        "text",
+        "case",
+        "sort",
+        "base64",
+        "url"
+      ],
+      "kind": "sandbox",
+      "name": {
+        "de": "Text-Werkzeuge (Sandbox)",
+        "en": "Text-Werkzeuge (Sandbox)"
+      },
+      "summary": {
+        "de": "Schreibweisen umwandeln (camelCase, snake_case, kebab-case, PascalCase, KONSTANTE, Groß/klein), Zeilen sortieren/umkehren/entdoppeln/zählen, Base64 und URL kodieren/dekodieren. Läuft in der Sandbox – ohne Zugriff auf Dateien, Netz oder Programme.",
+        "en": "Schreibweisen umwandeln (camelCase, snake_case, kebab-case, PascalCase, KONSTANTE, Groß/klein), Zeilen sortieren/umkehren/entdoppeln/zählen, Base64 und URL kodieren/dekodieren. Läuft in der Sandbox – ohne Zugriff auf Dateien, Netz oder Programme."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 4,
+      "permissions": [
+        "editor"
+      ],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.text-tools.code-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.text-tools.code.zip",
+      "sha256": "8b22596cb8a1e4af8eb2ed9195c1d5021af6ff4a7d769bc46f527e0f4a976804",
+      "size": 11368,
       "published": "2026-11-20",
       "updated": "2026-11-20"
     }
@@ -5259,6 +5297,13 @@
       "title": {
         "de": "HTTP/APIs",
         "en": "HTTP/APIs"
+      }
+    },
+    {
+      "id": "tools/text",
+      "title": {
+        "de": "Text",
+        "en": "Text"
       }
     },
     {

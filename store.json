@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-16",
+  "updated": "2026-11-20",
   "categories": [
     {
       "id": "plugin",
@@ -84,6 +84,17 @@
     {
       "id": "com.codeforge.plugin.ayu-dark.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Ayu Dark (Farbschema)",
         "en": "Ayu Dark (Farbschema)"
@@ -94,13 +105,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ayu-dark.theme.zip",
-      "sha256": "d8755ee5089ddbd9270151adc449dc118ff4ba38915574d4668ae3ca422fef8c"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.ayu-dark.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ayu-dark.theme.zip",
+      "sha256": "0555ffa3c77ce3ffdf07ee44ff130ffc06c215c9718718a8f625a01a46e78ab9",
+      "size": 789,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.ayu.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Ayu (Editor-Theme)",
         "en": "Ayu (Editor-Theme)"
@@ -111,13 +139,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ayu.theme.zip",
-      "sha256": "48e79d35aa084c070ffdc384647c14bd59d910de7e4b9d63dc99a74d46e1064e"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.ayu.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ayu.theme.zip",
+      "sha256": "07cf591f3d69dd7389a37108b6d4133cb307b92d24cf7e22b28ec9ceefa34670",
+      "size": 3366,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.catppuccin.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Catppuccin (Editor-Theme)",
         "en": "Catppuccin (Editor-Theme)"
@@ -128,13 +173,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.catppuccin.theme.zip",
-      "sha256": "347d6a8689f4c03a95c22899b4bbc21359f9c53f4aef1ec517c58b736184da30"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.catppuccin.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.catppuccin.theme.zip",
+      "sha256": "8e6e9461e3678f06cd3098fcb2ddabba8ff8b86093edf10c6bd60b6e2e55e73c",
+      "size": 3386,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.cyberpunk-neon.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Cyberpunk Neon (Farbschema)",
         "en": "Cyberpunk Neon (Farbschema)"
@@ -145,13 +207,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.cyberpunk-neon.theme.zip",
-      "sha256": "7a70a93f3c5c9f46b59ea01c9c7898479efa8536362c525fe3c6ecaaf4be59fd"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.cyberpunk-neon.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.cyberpunk-neon.theme.zip",
+      "sha256": "eac7f626319be58d45fd780de9d5a4b59952f0a877fd5f565d9199dfb44037b3",
+      "size": 789,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.darcula.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Darcula (Farbschema)",
         "en": "Darcula (Farbschema)"
@@ -162,13 +241,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.darcula.theme.zip",
-      "sha256": "135a2596d130746e915830e08c2e7ef92b457deda179c268250da18e9e9082d6"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.darcula.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.darcula.theme.zip",
+      "sha256": "41d09b3fc4ccb081f5bf07946faee811ee9d29db9ad06c1da764821d31535598",
+      "size": 782,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.dracula.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Dracula (Editor-Theme)",
         "en": "Dracula (Editor-Theme)"
@@ -179,13 +275,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.dracula.theme.zip",
-      "sha256": "971574a47a00f32a49a04b46c2fb08b9e2701aa8b7259f2b7d2dccf420f1bc52"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.dracula.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.dracula.theme.zip",
+      "sha256": "78b70017b81dfd717fde208df5b1fc1cd269aeea024039b8a4072a3539e2f1f3",
+      "size": 3365,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.eclipse.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Eclipse (Farbschema)",
         "en": "Eclipse (Farbschema)"
@@ -196,13 +309,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.eclipse.theme.zip",
-      "sha256": "3106c49f0fca7fa50afed9bb5563eccf41b9cf758f7bbd2fdb0a2a6b48adfc85"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.eclipse.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.eclipse.theme.zip",
+      "sha256": "5c641817020e0a28298aa7c192b3a9e20e5b24f224dd110b7436d285fdda3446",
+      "size": 782,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.everforest.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Everforest (Editor-Theme)",
         "en": "Everforest (Editor-Theme)"
@@ -213,13 +343,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.everforest.theme.zip",
-      "sha256": "4d07ef9f65377f7d5c7208c764168b5629b6becc73b1c4849913072e1d8deba2"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.everforest.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.everforest.theme.zip",
+      "sha256": "1a860d1a78ebee18f3da8e869b7bbd590626e0ebb3ad16dd9702eeb463a4e6fd",
+      "size": 3378,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.forest.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Forest (Farbschema)",
         "en": "Forest (Farbschema)"
@@ -230,13 +377,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.forest.theme.zip",
-      "sha256": "f4357955e69b73ede5d89a821e5945acf6920a819af4403a323a9855f7274570"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.forest.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.forest.theme.zip",
+      "sha256": "61c81277e9a2de2d69b2bb6ed581850379eb290624396eb1f7aaaaf8676fd390",
+      "size": 782,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.github-light.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "GitHub Light (Farbschema)",
         "en": "GitHub Light (Farbschema)"
@@ -247,13 +411,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.github-light.theme.zip",
-      "sha256": "4e4409f3266189d396f7016e4a97c962d37d254ec0d29b7b375df9ddc29cc714"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.github-light.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.github-light.theme.zip",
+      "sha256": "1895168723a003dfcf00941a3e11046c5a9329f58474b280ec9c16cdd4165af6",
+      "size": 793,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.github.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "GitHub (Editor-Theme)",
         "en": "GitHub (Editor-Theme)"
@@ -264,13 +445,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.github.theme.zip",
-      "sha256": "2afa3f987c8dc50297a600a9fc1757b27fd75c4355c29c5ebdb949ee828a449d"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.github.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.github.theme.zip",
+      "sha256": "aca8e593a2baa33716e6a802604a6e95f9359f54b8561249fb48d72c4efcc3fb",
+      "size": 3378,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.gruvbox.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Gruvbox (Editor-Theme)",
         "en": "Gruvbox (Editor-Theme)"
@@ -281,13 +479,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.gruvbox.theme.zip",
-      "sha256": "d2d45e08eb603ec9450d0b82b3e92dc66181fb81d043bbc65c644f7e6324d2d8"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.gruvbox.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.gruvbox.theme.zip",
+      "sha256": "65a7cc206d0aee8e9902cb51393f1d0f4ee31990915da0246f2d325950600612",
+      "size": 3374,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.kanagawa.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Kanagawa (Editor-Theme)",
         "en": "Kanagawa (Editor-Theme)"
@@ -298,13 +513,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.kanagawa.theme.zip",
-      "sha256": "7660783e5a96ef38318130c899c1fc91aad464e1a4df7a1cd91d6b395660372e"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.kanagawa.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.kanagawa.theme.zip",
+      "sha256": "4e6e31096d1026c2bb7732ef53260d6ab2e009646aa21d0fb5e27f9a31c9cd65",
+      "size": 3394,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.material.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Material (Editor-Theme)",
         "en": "Material (Editor-Theme)"
@@ -315,13 +547,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.material.theme.zip",
-      "sha256": "777ce4d6f2ff622c148c0a9e02652f0d0b538b89706188ff6072d5b964223d2b"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.material.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.material.theme.zip",
+      "sha256": "199c47da73e51f5d3b8a1542ca7aa922115c1151f87ffdbbb35fdeb611822607",
+      "size": 3373,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.monochrome.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Monochrome (Farbschema)",
         "en": "Monochrome (Farbschema)"
@@ -332,13 +581,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.monochrome.theme.zip",
-      "sha256": "d16116f5436750331ada9914afd37d909f728a1b94a25ceaba0e55b29e5fa247"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.monochrome.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.monochrome.theme.zip",
+      "sha256": "4348bd3773cc6f6c0704f13aedaed94065f693930ce5c93f8f2322987acc764f",
+      "size": 772,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.monokai.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Monokai (Farbschema)",
         "en": "Monokai (Farbschema)"
@@ -349,13 +615,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.monokai.theme.zip",
-      "sha256": "67e2f557cf209b1a28d0bfe150f83f3b442844ad571dd37f1e9965fe5f0ca32f"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.monokai.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.monokai.theme.zip",
+      "sha256": "5f9feec3f5d1126ede1610da674a85e3982c417b23970bfcaba8efbee4f16f42",
+      "size": 782,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.night-owl.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Night Owl (Editor-Theme)",
         "en": "Night Owl (Editor-Theme)"
@@ -366,13 +649,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.night-owl.theme.zip",
-      "sha256": "47a55ee1b83f4f8476d267881a478bdd90a9f84cc384cdffd2a6b7c5d5b41b72"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.night-owl.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.night-owl.theme.zip",
+      "sha256": "aa5ba0bdfbc9e2f39ec6dfad7a4541f11bbb95260476bfe65693db93ed7511b9",
+      "size": 3395,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.nord.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Nord (Editor-Theme)",
         "en": "Nord (Editor-Theme)"
@@ -383,13 +683,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.nord.theme.zip",
-      "sha256": "91b98da7f2c2eb02cb4896ff5fb4e08c1f0eeb2bceb832b3e7954e3e89866d3d"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.nord.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.nord.theme.zip",
+      "sha256": "4850721a9d58c2f87a2bdbfe083b1725797e420231496e1e461d1ce8aca3c9c1",
+      "size": 3374,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.notepad-plus-plus.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Notepad++ (Farbschema)",
         "en": "Notepad++ (Farbschema)"
@@ -400,13 +717,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.notepad-plus-plus.theme.zip",
-      "sha256": "f7ed5075be51123503a8a790c9e847517baf7826c74b3519b99cdd52f663b660"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.notepad-plus-plus.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.notepad-plus-plus.theme.zip",
+      "sha256": "9b84a2a10e9c38034cb76e1fc3655ba23927e469752e2d8a80e2857329657679",
+      "size": 788,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.ocean.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Ocean (Farbschema)",
         "en": "Ocean (Farbschema)"
@@ -417,13 +751,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ocean.theme.zip",
-      "sha256": "7bdb6643a98b3ef76dc39111be18dbf5ec5c8cac20419abab683e78ed39e353d"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.ocean.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ocean.theme.zip",
+      "sha256": "469dcd8b260affabf043af66f1f58e070badbe00d86c2568f47401f4a363874d",
+      "size": 779,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.one.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "One (Editor-Theme)",
         "en": "One (Editor-Theme)"
@@ -434,13 +785,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.one.theme.zip",
-      "sha256": "537ecebcb7333ba17ab18b8d928a57c86c5cfcbae62764887ddbb647f3d959ec"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.one.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.one.theme.zip",
+      "sha256": "b19df3537f4ab62bf127d008f08d4ce8cce52e031bb250cb3aa0b5ff2b45c247",
+      "size": 3358,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.quiet-light.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Quiet Light (Farbschema)",
         "en": "Quiet Light (Farbschema)"
@@ -451,13 +819,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.quiet-light.theme.zip",
-      "sha256": "411c32cf2ad56f7fe298b35b55dc7c25456cf7583e4ebbfa52b5710dad41521e"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.quiet-light.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.quiet-light.theme.zip",
+      "sha256": "3a2b0555affac710d0660e5e6040fc1822941aa79b81d854aba942ef2b55bb86",
+      "size": 789,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.rose-pine.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Rosé Pine (Editor-Theme)",
         "en": "Rosé Pine (Editor-Theme)"
@@ -468,13 +853,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rose-pine.theme.zip",
-      "sha256": "208ac7eb032823f5753ebb2e37e8f24447f769118f72e5479d4cac5da922ccd3"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.rose-pine.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rose-pine.theme.zip",
+      "sha256": "04933eda1fafdb060893bd718d455b76b9232e45bd6a88910f92aae9851192a6",
+      "size": 3423,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.solarized-dark.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Solarized Dark (Farbschema)",
         "en": "Solarized Dark (Farbschema)"
@@ -485,13 +887,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.solarized-dark.theme.zip",
-      "sha256": "7b21c0f2c276021147fd86970bba1f4d1ff0e037c016ef33234002284c49882f"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.solarized-dark.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.solarized-dark.theme.zip",
+      "sha256": "4ba434de44a45dd18d3f3a53341d3bdcb7549ed84c1f365e04d109847e3c6866",
+      "size": 790,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.solarized.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Solarized (Editor-Theme)",
         "en": "Solarized (Editor-Theme)"
@@ -502,13 +921,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.solarized.theme.zip",
-      "sha256": "0dad6a758ffa42ce7b9afdbaaead7751173b2c3fe887a65c402533d619f8397c"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.solarized.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.solarized.theme.zip",
+      "sha256": "93943083cb884fb35c43f628e55d4846edacc486d7645305fdd58ddb2e65417a",
+      "size": 3380,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.sunset.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Sunset (Farbschema)",
         "en": "Sunset (Farbschema)"
@@ -519,13 +955,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.sunset.theme.zip",
-      "sha256": "76e0f0cd9ae788747d596f9cfbd96802919613a56af568513b6495375f58532d"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.sunset.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.sunset.theme.zip",
+      "sha256": "3586c4d0ae01d0bb75767879b1ded51548e0abe47799e256d765cfbf04fc20f3",
+      "size": 782,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.tokyo-night.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Tokyo Night (Editor-Theme)",
         "en": "Tokyo Night (Editor-Theme)"
@@ -536,13 +989,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.tokyo-night.theme.zip",
-      "sha256": "0491a107d310c0c69c65d1864bfbfd38db1eb86421e86fc3ada62b459c73769d"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.tokyo-night.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.tokyo-night.theme.zip",
+      "sha256": "d20d0477adb9c022f0dc31011672790ce6977489893a44339f88bfb634cb75bd",
+      "size": 3394,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.tomorrow.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Tomorrow (Editor-Theme)",
         "en": "Tomorrow (Editor-Theme)"
@@ -553,13 +1023,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.tomorrow.theme.zip",
-      "sha256": "84916b12777c443eb645f116603fe0d83072cf9c92d89ea968bf5d64498b5e46"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.tomorrow.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.tomorrow.theme.zip",
+      "sha256": "3fcf7e785a4ac8cb0f812a7a0081bf82c7779cccd5c4a1019f78b4344ad68760",
+      "size": 3343,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.violet.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Violet (Farbschema)",
         "en": "Violet (Farbschema)"
@@ -570,13 +1057,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.violet.theme.zip",
-      "sha256": "849b3e053a89b233d2c847324ad0b686b6ccd7bb842ae3547050b1c5c8e5e551"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.violet.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.violet.theme.zip",
+      "sha256": "98f88d6b751283fab92af2cb89c2c3e1e94af23484407a648154e91ed2634879",
+      "size": 780,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.vscode-dark-plus.theme",
       "category": "theme",
+      "categories": [
+        "themes",
+        "themes/dark",
+        "themes/light"
+      ],
+      "tags": [
+        "dark",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "VS Code Dark+ (Farbschema)",
         "en": "VS Code Dark+ (Farbschema)"
@@ -587,13 +1091,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.vscode-dark-plus.theme.zip",
-      "sha256": "d0c8a92d650da0bae919c4d23a10b12c80d2c71f4f9f428a27e8e033bc691e3b"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.vscode-dark-plus.theme-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.vscode-dark-plus.theme.zip",
+      "sha256": "d7991cd374e0906e7766baeb6b38855e9f4e651cc93a84e5c30af9335c547a29",
+      "size": 792,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.aurora.icons",
       "category": "icons",
+      "categories": [
+        "icons"
+      ],
+      "tags": [
+        "icons",
+        "file-icons"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Aurora (Icons)",
         "en": "Aurora (Icons)"
@@ -604,13 +1122,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.aurora.icons.zip",
-      "sha256": "7b236734a37690c2b814bac3add14e1ba3ab0def5f9f9db7970fa993f5f433d6"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.aurora.icons-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.aurora.icons.zip",
+      "sha256": "fa27b97f7f0e852b11beb4290fbdb80272de76de1dc7399676a1313f9893b7fa",
+      "size": 254013,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.coral.icons",
       "category": "icons",
+      "categories": [
+        "icons"
+      ],
+      "tags": [
+        "icons",
+        "file-icons"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Coral (Icons)",
         "en": "Coral (Icons)"
@@ -621,13 +1153,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.coral.icons.zip",
-      "sha256": "25a8a8c72b41becdd6e1683d0100172cab0e2ad0d76e0257255808d192f90e49"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.coral.icons-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.coral.icons.zip",
+      "sha256": "316a3771c6dbedab723584235e4d00408a8dab075c4b3f7302e2b6eba26081fa",
+      "size": 248775,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.ember.icons",
       "category": "icons",
+      "categories": [
+        "icons"
+      ],
+      "tags": [
+        "icons",
+        "file-icons"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Ember (Icons)",
         "en": "Ember (Icons)"
@@ -638,13 +1184,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ember.icons.zip",
-      "sha256": "4f5329b2b2d48ccd47b5388f1cc59004ce9ba67b650a3b61f5cd5e60adf1dc86"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.ember.icons-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ember.icons.zip",
+      "sha256": "6043f0ce4dcb6b4458281ece595419ceccbe790110c8926c8169b28668306bff",
+      "size": 188540,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.frost.icons",
       "category": "icons",
+      "categories": [
+        "icons"
+      ],
+      "tags": [
+        "icons",
+        "file-icons"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Frost (Icons)",
         "en": "Frost (Icons)"
@@ -655,13 +1215,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.frost.icons.zip",
-      "sha256": "1efa791574f70dc8ccf8fad4f58bd1cce8f9283221fd2c5d33581ab88aa6e0a7"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.frost.icons-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.frost.icons.zip",
+      "sha256": "49121af579d3e87b013358391b1609e761935fd742228f09527a2cb3748637ed",
+      "size": 191307,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.lagoon.icons",
       "category": "icons",
+      "categories": [
+        "icons"
+      ],
+      "tags": [
+        "icons",
+        "file-icons"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Lagoon (Icons)",
         "en": "Lagoon (Icons)"
@@ -672,13 +1246,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lagoon.icons.zip",
-      "sha256": "4c243d93405a8f348a94fee706d3fe5339ee59b2e36aa7f6c0c063e823722022"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lagoon.icons-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lagoon.icons.zip",
+      "sha256": "66d414d09331657223fe683827b9477aa1d5016fe2ce8c6d1c6b1ae106f8271f",
+      "size": 257302,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.meadow.icons",
       "category": "icons",
+      "categories": [
+        "icons"
+      ],
+      "tags": [
+        "icons",
+        "file-icons"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Meadow (Icons)",
         "en": "Meadow (Icons)"
@@ -689,13 +1277,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.meadow.icons.zip",
-      "sha256": "3f9b5bfef0f0f0e183271eed936f06953c097787af2fdcc3a620a38cde602f43"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.meadow.icons-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.meadow.icons.zip",
+      "sha256": "a658c8a6cbe5c653d8971b59daa91cd20fc8553a8cbaa34220666e7cdfcd76e5",
+      "size": 184744,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.neon.icons",
       "category": "icons",
+      "categories": [
+        "icons"
+      ],
+      "tags": [
+        "icons",
+        "file-icons"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Neon (Icons)",
         "en": "Neon (Icons)"
@@ -706,13 +1308,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.neon.icons.zip",
-      "sha256": "e5c46ea8787a648c70b683369b1658e916b45e6e1171f4d51bea377d95fb2e4a"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.neon.icons-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.neon.icons.zip",
+      "sha256": "a5e45da73da5dea8c335f9603245ecae6107c5a82c9b79f1fdc425049793f8df",
+      "size": 294062,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.obsidian.icons",
       "category": "icons",
+      "categories": [
+        "icons"
+      ],
+      "tags": [
+        "icons",
+        "file-icons"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Obsidian (Icons)",
         "en": "Obsidian (Icons)"
@@ -723,13 +1339,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.obsidian.icons.zip",
-      "sha256": "f61123074c9208703acb4aaa6c6b081d1a58f550e401d589a8c29debc67ce728"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.obsidian.icons-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.obsidian.icons.zip",
+      "sha256": "ad69706fc0373061dffea170cbeae3b323d12aec03deff240677f245e5ee1332",
+      "size": 294970,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.paper.icons",
       "category": "icons",
+      "categories": [
+        "icons"
+      ],
+      "tags": [
+        "icons",
+        "file-icons"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Paper (Icons)",
         "en": "Paper (Icons)"
@@ -740,13 +1370,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.paper.icons.zip",
-      "sha256": "39f67203e4c91cb7de9403f57c7203d1317992f61a2f8e612bb35fd5039fb108"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.paper.icons-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.paper.icons.zip",
+      "sha256": "de241d0c04961719e44dbbc818695339945e09c8a2c1963ab28f06a634f05b69",
+      "size": 188885,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.sky.icons",
       "category": "icons",
+      "categories": [
+        "icons"
+      ],
+      "tags": [
+        "icons",
+        "file-icons"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Sky (Icons)",
         "en": "Sky (Icons)"
@@ -757,13 +1401,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.sky.icons.zip",
-      "sha256": "a30274ce0b35bd76230f8a1d5071b46deed7d6968b5870941c1d376c95174d2e"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.sky.icons-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.sky.icons.zip",
+      "sha256": "07ec4b47fce6e15cfdc54a42a8407a28b679692d0df75905d6f8578a946c687d",
+      "size": 188809,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.slate.icons",
       "category": "icons",
+      "categories": [
+        "icons"
+      ],
+      "tags": [
+        "icons",
+        "file-icons"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Slate (Icons)",
         "en": "Slate (Icons)"
@@ -774,13 +1432,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.slate.icons.zip",
-      "sha256": "87718073f1bca0513a18e0110a770714748bc2ea50097ccd5b894fb4caeda6f9"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.slate.icons-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.slate.icons.zip",
+      "sha256": "4b07132eb1a55981d6238ac94fda3631ee7a51f263f9d72836e33e164881fc21",
+      "size": 188831,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.lang-es.language",
       "category": "language",
+      "categories": [
+        "localization"
+      ],
+      "tags": [
+        "translation",
+        "es"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Español (Sprachpaket)",
         "en": "Español (Sprachpaket)"
@@ -791,13 +1463,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-es.language.zip",
-      "sha256": "b7147753373a5333a3dd4d2f4e19c1b940213783b5a52226bd7d60b47084cea4"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-es.language-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-es.language.zip",
+      "sha256": "dcb8d3d7004b9ae85a2d4073b022ce72d2f3fb91a5804cb9e1e002ae578871c4",
+      "size": 1876,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.lang-fr.language",
       "category": "language",
+      "categories": [
+        "localization"
+      ],
+      "tags": [
+        "translation",
+        "fr"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Français (Sprachpaket)",
         "en": "Français (Sprachpaket)"
@@ -808,13 +1494,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-fr.language.zip",
-      "sha256": "444c10081a055f6362f252745ebdffdd837698b6719dd201807a8c7e838bf92a"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-fr.language-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-fr.language.zip",
+      "sha256": "4bcec50569aacebbf091fcae497c51e5afee9b9f8e2b794f5c872d3aa7ec9e7e",
+      "size": 1870,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.lang-it.language",
       "category": "language",
+      "categories": [
+        "localization"
+      ],
+      "tags": [
+        "translation",
+        "it"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Italiano (Sprachpaket)",
         "en": "Italiano (Sprachpaket)"
@@ -825,13 +1525,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-it.language.zip",
-      "sha256": "4937ac4bc0a1b11b8109b59b5a1af8b27067fe3919788433280d4e0897c01cd1"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-it.language-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-it.language.zip",
+      "sha256": "c17cc898ae292f75ea34ad411f8a0bc3cc513b7a71d8b2f18af9f3734c8aa8d5",
+      "size": 1832,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.lang-ja.language",
       "category": "language",
+      "categories": [
+        "localization"
+      ],
+      "tags": [
+        "translation",
+        "ja"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "日本語 (Sprachpaket)",
         "en": "日本語 (Sprachpaket)"
@@ -842,13 +1556,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-ja.language.zip",
-      "sha256": "007ab4cbb13c41c76dc95db408e26946ffebcdf181a8f1153b6b54bbfc53cc76"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-ja.language-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-ja.language.zip",
+      "sha256": "c984fd0a7d5760bcec2496996e0a9e933fadbc00edf7933a3b6320cd2ebfff6d",
+      "size": 2148,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.lang-nl.language",
       "category": "language",
+      "categories": [
+        "localization"
+      ],
+      "tags": [
+        "translation",
+        "nl"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Nederlands (Sprachpaket)",
         "en": "Nederlands (Sprachpaket)"
@@ -859,13 +1587,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-nl.language.zip",
-      "sha256": "fd76b03cbdc1e897a83644033fbd89b32860160eff7a2659632dbb25e317208a"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-nl.language-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-nl.language.zip",
+      "sha256": "d783fc39a9082c30a00274781a065ddb36646da84fb5cde874aeca9186f9ba60",
+      "size": 1782,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.lang-pl.language",
       "category": "language",
+      "categories": [
+        "localization"
+      ],
+      "tags": [
+        "translation",
+        "pl"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Polski (Sprachpaket)",
         "en": "Polski (Sprachpaket)"
@@ -876,13 +1618,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-pl.language.zip",
-      "sha256": "a95cfa268a17aac7a74338aa594dc1d89cbae8181044050072aa8cc18d4cf066"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-pl.language-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-pl.language.zip",
+      "sha256": "b897cd4802c5e15b9cd080788520c4a46adee152bacab5a63bcbb3dfc0d1ae3b",
+      "size": 1936,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.lang-pt-br.language",
       "category": "language",
+      "categories": [
+        "localization"
+      ],
+      "tags": [
+        "translation",
+        "pt-br"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Português (Brasil) (Sprachpaket)",
         "en": "Português (Brasil) (Sprachpaket)"
@@ -893,13 +1649,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-pt-br.language.zip",
-      "sha256": "5a969b89635719d9d610d914e3355b092b0002cc350879a7d3fa5663280da158"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-pt-br.language-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-pt-br.language.zip",
+      "sha256": "58cf791e4b130f736369aa9559af55a074d923459c4b694108add9b3a14451e9",
+      "size": 1902,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.lang-ru.language",
       "category": "language",
+      "categories": [
+        "localization"
+      ],
+      "tags": [
+        "translation",
+        "ru"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Русский (Sprachpaket)",
         "en": "Русский (Sprachpaket)"
@@ -910,13 +1680,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-ru.language.zip",
-      "sha256": "a818fe209d341c6b869656ffce4a64a98e2d8748c2d8ef18f958d50aecf68a5b"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-ru.language-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-ru.language.zip",
+      "sha256": "b6260bb1c465dd9535dd0c1580b55f1e549ccf64724954239c654f143e3dc9d4",
+      "size": 2192,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.lang-tr.language",
       "category": "language",
+      "categories": [
+        "localization"
+      ],
+      "tags": [
+        "translation",
+        "tr"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Türkçe (Sprachpaket)",
         "en": "Türkçe (Sprachpaket)"
@@ -927,13 +1711,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-tr.language.zip",
-      "sha256": "449b3ecabc23fee8077f4813923e51dcaed60b3a3ccd3c08b51de7200b944fe4"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-tr.language-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-tr.language.zip",
+      "sha256": "78134b8842f8bd7117b3b53b10056b0119f1a55214f25aaab3954a44cae2d647",
+      "size": 1920,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.lang-zh-cn.language",
       "category": "language",
+      "categories": [
+        "localization"
+      ],
+      "tags": [
+        "translation",
+        "zh-cn"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "简体中文 (Sprachpaket)",
         "en": "简体中文 (Sprachpaket)"
@@ -944,13 +1742,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-zh-cn.language.zip",
-      "sha256": "93310e0826c459117491bb5cef39c078f2006b2749c14c42d533e2b4cc1f8a85"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-zh-cn.language-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-zh-cn.language.zip",
+      "sha256": "be0205c370dcf81ee3f1d445f21e640dc68fb92c1685a4124e6fa754b9043262",
+      "size": 1981,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.c.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/systems/c-cpp"
+      ],
+      "tags": [
+        "c",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "C (Grammatik)",
         "en": "C (Grammatik)"
@@ -961,13 +1774,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.c.grammar.zip",
-      "sha256": "1a782db3548ec43667317d747a8f16706e6f992edd96971727d42731d6a4a6f5"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.c.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.c.grammar.zip",
+      "sha256": "591c0d46b55cd36cf4ed831e866fdf90726cfcfd02d72aedef567cd6962075c2",
+      "size": 1203,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.cmake.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/systems/cmake"
+      ],
+      "tags": [
+        "cmake",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "CMake (Grammatik)",
         "en": "CMake (Grammatik)"
@@ -978,13 +1806,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.cmake.grammar.zip",
-      "sha256": "b3b533d6734578471dc7e78634f59387403de151b454f9e81c0530562c0f06a5"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.cmake.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.cmake.grammar.zip",
+      "sha256": "10b1b4fa897f02a37af25a4f04d394610c568d9b13a5d554f5dba7e8ac17cc15",
+      "size": 1077,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.cpp.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/systems/c-cpp"
+      ],
+      "tags": [
+        "cpp",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "C++ (Grammatik)",
         "en": "C++ (Grammatik)"
@@ -995,13 +1838,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.cpp.grammar.zip",
-      "sha256": "1e401fe840b6071d4a2ba2b2adccf65e32c4d846cfa37a60a438bb92d4c8d35b"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.cpp.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.cpp.grammar.zip",
+      "sha256": "bfe64c5ca48eb77c0e937b650f10d2dcdb61cc2a72ce679ad2f5a188daec3abd",
+      "size": 1361,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.css.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/web/css"
+      ],
+      "tags": [
+        "css",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "CSS (Grammatik)",
         "en": "CSS (Grammatik)"
@@ -1012,13 +1870,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.css.grammar.zip",
-      "sha256": "c7c3e0054a72ac1b63c19b9237f48538bb25b7defe9bc13b6075dae03e69dde9"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.css.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.css.grammar.zip",
+      "sha256": "042ff9597c5786ba28267b16960ffabd760c5db6c39f112b0aaf92ff4f2543ad",
+      "size": 932,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.dart.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/dart"
+      ],
+      "tags": [
+        "dart",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Dart (Grammatik)",
         "en": "Dart (Grammatik)"
@@ -1029,13 +1902,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.dart.grammar.zip",
-      "sha256": "be8416d8333ec98aa699a4af33f4896cce70271c42b93521dcd7c5505fd00048"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.dart.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.dart.grammar.zip",
+      "sha256": "07e00d4c2294247fa75cda393debadec8790f10e4a006422e5f42dc5f75c51da",
+      "size": 1268,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.dockerfile.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/shell"
+      ],
+      "tags": [
+        "dockerfile",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Dockerfile (Grammatik)",
         "en": "Dockerfile (Grammatik)"
@@ -1046,13 +1934,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.dockerfile.grammar.zip",
-      "sha256": "9c9bccf78da935ae4abe6ceae2e96ea8b454f58646de2b9b63b03c6192b23c1f"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.dockerfile.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.dockerfile.grammar.zip",
+      "sha256": "e08a054e1e5eef8383a03861bfb57e9b60c4822e1ecca1976976d32b9c83e6f9",
+      "size": 1030,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.go.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/go"
+      ],
+      "tags": [
+        "go",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Go (Grammatik)",
         "en": "Go (Grammatik)"
@@ -1063,13 +1966,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.go.grammar.zip",
-      "sha256": "46221aa9c50ef0456f12d8092cb95dacf19c7c9fdf627abaab44780dfc421176"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.go.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.go.grammar.zip",
+      "sha256": "0e3f5a3b5090eae22c5a929171e63e73014624757a1aafb1079a266da4a89e3f",
+      "size": 1151,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.groovy.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/jvm/groovy"
+      ],
+      "tags": [
+        "groovy",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Groovy / Gradle (Grammatik)",
         "en": "Groovy / Gradle (Grammatik)"
@@ -1080,13 +1998,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.groovy.grammar.zip",
-      "sha256": "6d555048f8112db720fa38b038cf638c91ab44fbee50a55e7e560d40699d5304"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.groovy.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.groovy.grammar.zip",
+      "sha256": "95dc4788cbb8f86c6f5cc2f76b7ecb0f21d531ba2ac546f5b76f951e4b5d97bd",
+      "size": 1352,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.html.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/web/html"
+      ],
+      "tags": [
+        "html",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "HTML (Grammatik)",
         "en": "HTML (Grammatik)"
@@ -1097,13 +2030,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.html.grammar.zip",
-      "sha256": "220b440b463834ea0bc01900161fd32d8a8682c4bb58b8a8f736596a9792ca47"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.html.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.html.grammar.zip",
+      "sha256": "e3424ae6f936bc6e54faaebf14bfaba36d0fd135f16ce7c8ce3368ef65916392",
+      "size": 924,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.javascript.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/web/javascript"
+      ],
+      "tags": [
+        "javascript",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "JavaScript (Grammatik)",
         "en": "JavaScript (Grammatik)"
@@ -1114,13 +2062,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.javascript.grammar.zip",
-      "sha256": "1a751f0fd122455fd509b0ab35eb0b29ab722045727a0758314ebb32ad9316a3"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.javascript.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.javascript.grammar.zip",
+      "sha256": "25adc683fc2fb56571ef8d6a1fa7ca9fb389ca7497417485ec97704540d7596a",
+      "size": 1242,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.lua.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/other/lua"
+      ],
+      "tags": [
+        "lua",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Lua (Grammatik)",
         "en": "Lua (Grammatik)"
@@ -1131,13 +2094,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lua.grammar.zip",
-      "sha256": "ddf3dc75717fc139a8a042bb6a5b7abb073a8a9c1c7d0f3e6cab6f5f89aea192"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lua.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lua.grammar.zip",
+      "sha256": "79b865c437b132e4c4f1171a71944b74b93f59c7277aeb279733db5c5746a7e2",
+      "size": 1046,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.makefile.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/shell"
+      ],
+      "tags": [
+        "makefile",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Makefile (Grammatik)",
         "en": "Makefile (Grammatik)"
@@ -1148,13 +2126,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.makefile.grammar.zip",
-      "sha256": "ad48dcf06917f58159d6b061f1d4f626b62aab6bc12d368047d3c1a122413a1b"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.makefile.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.makefile.grammar.zip",
+      "sha256": "8d25abf099d865cc507d26d1b8e7e9f494d8a0eb839895edbb0e3d9eb0f73346",
+      "size": 1055,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.markdown.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/markup/markdown"
+      ],
+      "tags": [
+        "markdown",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Markdown (Grammatik)",
         "en": "Markdown (Grammatik)"
@@ -1165,13 +2158,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.markdown.grammar.zip",
-      "sha256": "8ca5514abea5a2f34384893d4b9f241c0486cf9a38af9f8e9e9b579a18cb87a5"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.markdown.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.markdown.grammar.zip",
+      "sha256": "1adcea34d997d6784977f27e7fbb0f8b9a470381fd62b8266553169221752190",
+      "size": 890,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.php.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/other/php"
+      ],
+      "tags": [
+        "php",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "PHP (Grammatik)",
         "en": "PHP (Grammatik)"
@@ -1182,13 +2190,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.php.grammar.zip",
-      "sha256": "490977c8bd19df4a80aaf8f0b3806fd749ab5f17726c840a8f0fc32971f01aac"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.php.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.php.grammar.zip",
+      "sha256": "dbe95f6f5de8c43fe1e133ffefb4fcf749e380d4854007e0780feb50b82c8284",
+      "size": 1290,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.properties.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/other/properties"
+      ],
+      "tags": [
+        "properties",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Properties / INI (Grammatik)",
         "en": "Properties / INI (Grammatik)"
@@ -1199,13 +2222,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.properties.grammar.zip",
-      "sha256": "9f261ce88229a403b66039b7eb05e7a50b975867322f383650a31795b8df3263"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.properties.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.properties.grammar.zip",
+      "sha256": "cbaaa0fbccff02dae819ebaa64841b9b7bb59287996912b65360a9e13aa9d75f",
+      "size": 799,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.protobuf.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/other/proto"
+      ],
+      "tags": [
+        "proto",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Protocol Buffers (Grammatik)",
         "en": "Protocol Buffers (Grammatik)"
@@ -1216,13 +2254,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.protobuf.grammar.zip",
-      "sha256": "8e40a5781c283aed29daa8ba347d5448bc9e5f3fd14f01a80179e6c6d76a44f6"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.protobuf.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.protobuf.grammar.zip",
+      "sha256": "bbfcf4e04bba2c0a8b0ab487031a93849f8f936fdc5104d7b6fe1c8b0c92f878",
+      "size": 1117,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.python.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/python"
+      ],
+      "tags": [
+        "python",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Python (Grammatik)",
         "en": "Python (Grammatik)"
@@ -1233,13 +2286,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.python.grammar.zip",
-      "sha256": "5c6e3f7e20ed524eec0c31a534dd8d52153ea618c213de58be271b618cabe868"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.python.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.python.grammar.zip",
+      "sha256": "53d21a6ec667226b3e2db30937e5fa1ee6bd369e83f26361ffdaff1f53e02ace",
+      "size": 1200,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.ruby.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/other/ruby"
+      ],
+      "tags": [
+        "ruby",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Ruby (Grammatik)",
         "en": "Ruby (Grammatik)"
@@ -1250,13 +2318,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ruby.grammar.zip",
-      "sha256": "4a650bf17e53c846c1e0242b7111e45cdcaeff1b71718d52790bd159227ad01c"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.ruby.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ruby.grammar.zip",
+      "sha256": "fbf4b8ad28c1264431ec21cf6f1959c93fcb08d9033363bd0396408b4625bec2",
+      "size": 1196,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.rust.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/systems/rust"
+      ],
+      "tags": [
+        "rust",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Rust (Grammatik)",
         "en": "Rust (Grammatik)"
@@ -1267,13 +2350,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rust.grammar.zip",
-      "sha256": "f7f17f0d423a511d1dd7679293c7c92c1ea8d592d97b1e076a0d26dcde20ee56"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.rust.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rust.grammar.zip",
+      "sha256": "c3304135d399a1545e7fb1c6b78e244393c5de8e35e93dfeab69560b3b32dad5",
+      "size": 1256,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.shellscript.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/shell"
+      ],
+      "tags": [
+        "shellscript",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Shell (Grammatik)",
         "en": "Shell (Grammatik)"
@@ -1284,13 +2382,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.shellscript.grammar.zip",
-      "sha256": "e1d5518908ac179886044e0011cda8ff990369466ae08eadc46f76f61649e8e2"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.shellscript.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.shellscript.grammar.zip",
+      "sha256": "c3c8ea4061e96f9a455360e92d1036684828d7e8b07f62dad4f0c97610148a72",
+      "size": 1170,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.sql.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/data/sql"
+      ],
+      "tags": [
+        "sql",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "SQL (Grammatik)",
         "en": "SQL (Grammatik)"
@@ -1301,13 +2414,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.sql.grammar.zip",
-      "sha256": "6bfe7fc7efc4bdef78c34323b52f2e394636a70879eed1b41b9d1f716a6195b6"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.sql.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.sql.grammar.zip",
+      "sha256": "642212de78eb3e387d5f95f376fbeb2fd701f74030f8aa2c07c73bdff849b9c2",
+      "size": 1209,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.swift.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/other/swift"
+      ],
+      "tags": [
+        "swift",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Swift (Grammatik)",
         "en": "Swift (Grammatik)"
@@ -1318,13 +2446,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.swift.grammar.zip",
-      "sha256": "45223eefd75f60c217ca4956aa5d7136163d2262a8ea2ab96f7d31f78afeb1ab"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.swift.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.swift.grammar.zip",
+      "sha256": "9195dc0949750a640a3402ff7e025b2e701ad95cac43d4c9ee5bde0bc6a0c73a",
+      "size": 1297,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.toml.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/data/toml"
+      ],
+      "tags": [
+        "toml",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "TOML (Grammatik)",
         "en": "TOML (Grammatik)"
@@ -1335,13 +2478,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.toml.grammar.zip",
-      "sha256": "362bb574e12d19364e1e60a97e591b926c1825316c22c8cc428c8639d43de140"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.toml.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.toml.grammar.zip",
+      "sha256": "a15c1c998cda137c3aac36a7e61a3623254cb09bfe5594e291e830b45212e422",
+      "size": 992,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.typescript.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/web/typescript"
+      ],
+      "tags": [
+        "typescript",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "TypeScript (Grammatik)",
         "en": "TypeScript (Grammatik)"
@@ -1352,13 +2510,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.typescript.grammar.zip",
-      "sha256": "456d049aa58001ef77c088c18e2435e73919ba2531638774f42f0753e43bc1ed"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.typescript.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.typescript.grammar.zip",
+      "sha256": "853a75ebf2c42a8daf8ace73372c24757bf0e355e0db7a3099727a89c485c456",
+      "size": 1312,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.yaml.grammar",
       "category": "grammar",
+      "categories": [
+        "grammars",
+        "languages/data/yaml"
+      ],
+      "tags": [
+        "yaml",
+        "syntax"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "YAML (Grammatik)",
         "en": "YAML (Grammatik)"
@@ -1369,13 +2542,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.yaml.grammar.zip",
-      "sha256": "3b06857b26f913f1681b67076d05c750c72c05162dbf43f40bd849247369dd94"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.yaml.grammar-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.yaml.grammar.zip",
+      "sha256": "e84d296f55e8e2ec45c8320008f3b76170922cb70fef3a05daf53d4f96df4f6e",
+      "size": 954,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.c.snippets",
       "category": "snippets",
+      "categories": [
+        "snippets",
+        "languages/systems/c-cpp"
+      ],
+      "tags": [
+        "c",
+        "snippets"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "C (Snippets)",
         "en": "C (Snippets)"
@@ -1386,13 +2574,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.c.snippets.zip",
-      "sha256": "0163a7edc308829ef4bb5b6addd2973b868c9968263cd1aaa71d6128bcb17632"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.c.snippets-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.c.snippets.zip",
+      "sha256": "79a39edcc0ab5fbc915f422268965cde668ddf49e540baa63e0b090db2c46451",
+      "size": 848,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.compose.snippets",
       "category": "snippets",
+      "categories": [
+        "snippets",
+        "languages/jvm/kotlin"
+      ],
+      "tags": [
+        "kotlin",
+        "snippets"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Jetpack Compose (Snippets)",
         "en": "Jetpack Compose (Snippets)"
@@ -1403,13 +2606,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.compose.snippets.zip",
-      "sha256": "1576596091685085c3505847cada6fa17211b6a068712adefcdc14824e5a042c"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.compose.snippets-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.compose.snippets.zip",
+      "sha256": "26c282e47a1273d1344a429afa959f004073210ea39001e27dad2f67467c00d1",
+      "size": 1175,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.cpp.snippets",
       "category": "snippets",
+      "categories": [
+        "snippets",
+        "languages/systems/c-cpp"
+      ],
+      "tags": [
+        "cpp",
+        "snippets"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "C++ (Snippets)",
         "en": "C++ (Snippets)"
@@ -1420,13 +2638,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.cpp.snippets.zip",
-      "sha256": "a4fa67c1edf007d813ad4ac8ce4fd4183d2ff7a847959f6a5dcd46a474676176"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.cpp.snippets-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.cpp.snippets.zip",
+      "sha256": "27e28ee2d9293930cd204686afa091fd8bbbeac3a458bb75eac8192c28311530",
+      "size": 874,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.dart.snippets",
       "category": "snippets",
+      "categories": [
+        "snippets",
+        "languages/dart"
+      ],
+      "tags": [
+        "dart",
+        "snippets"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Dart (Snippets)",
         "en": "Dart (Snippets)"
@@ -1437,13 +2670,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.dart.snippets.zip",
-      "sha256": "0562261e974b491e0ddbb154b76e4093ce9de8f9bceb2bbb645cae89515e23ed"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.dart.snippets-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.dart.snippets.zip",
+      "sha256": "899c6ef9cd363e992b4aa129d344d65ea3ce592bc90d2105dc9f8aa7840019b2",
+      "size": 876,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.go.snippets",
       "category": "snippets",
+      "categories": [
+        "snippets",
+        "languages/go"
+      ],
+      "tags": [
+        "go",
+        "snippets"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Go (Snippets)",
         "en": "Go (Snippets)"
@@ -1454,13 +2702,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.go.snippets.zip",
-      "sha256": "4c91c8ed476d127cdc4ea5cc47ee1c306e6b5fc4ce13288278f06f6170b25ec9"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.go.snippets-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.go.snippets.zip",
+      "sha256": "bafdbe03cebaf8ee88fc3a508c4ee52f04eaae38a8edfad9a2c9bf396183a034",
+      "size": 923,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.java.snippets",
       "category": "snippets",
+      "categories": [
+        "snippets",
+        "languages/jvm/java"
+      ],
+      "tags": [
+        "java",
+        "snippets"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Java (Snippets)",
         "en": "Java (Snippets)"
@@ -1471,13 +2734,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.java.snippets.zip",
-      "sha256": "5a1a07df0f4ad3927c66eaca50c353182d670e062e4c662e13f8ae6e5e553d41"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.java.snippets-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.java.snippets.zip",
+      "sha256": "41e2a6129893af38ec24df7f1650f0d7f40e22dcc214bddf7144ef5d584a6217",
+      "size": 984,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.javascript.snippets",
       "category": "snippets",
+      "categories": [
+        "snippets",
+        "languages/web/javascript"
+      ],
+      "tags": [
+        "javascript",
+        "snippets"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "JavaScript (Snippets)",
         "en": "JavaScript (Snippets)"
@@ -1488,13 +2766,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.javascript.snippets.zip",
-      "sha256": "8fb8ce9535cf0a5e5546d1f884476c23eed36799778aee4bbd4bb4a7ab340ce8"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.javascript.snippets-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.javascript.snippets.zip",
+      "sha256": "5adc3d741442517df5a899ec58f661aee2e562f86d6a0dda06f6d4372a8cf0b1",
+      "size": 930,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.kotlin.snippets",
       "category": "snippets",
+      "categories": [
+        "snippets",
+        "languages/jvm/kotlin"
+      ],
+      "tags": [
+        "kotlin",
+        "snippets"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Kotlin (Snippets)",
         "en": "Kotlin (Snippets)"
@@ -1505,13 +2798,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.kotlin.snippets.zip",
-      "sha256": "3c6f03964ef344ae379b5de1cdf4721de33d4144e3902bc245fecf55109dbab6"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.kotlin.snippets-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.kotlin.snippets.zip",
+      "sha256": "e96bb28d9ab3e3bbadaadd314eafafb3440a0c806d0a75948dbde296e8f1135d",
+      "size": 1191,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.python.snippets",
       "category": "snippets",
+      "categories": [
+        "snippets",
+        "languages/python"
+      ],
+      "tags": [
+        "python",
+        "snippets"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Python (Snippets)",
         "en": "Python (Snippets)"
@@ -1522,13 +2830,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.python.snippets.zip",
-      "sha256": "03f6df7b01c6aa2f22f4f779fd2d0b6745acc9acd1678da9e2ac5315538bb894"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.python.snippets-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.python.snippets.zip",
+      "sha256": "4d7ff8306f960918b7e6e8579f1ab859efc392655d5b9cedc7d5629c895bcdfc",
+      "size": 1065,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.rust.snippets",
       "category": "snippets",
+      "categories": [
+        "snippets",
+        "languages/systems/rust"
+      ],
+      "tags": [
+        "rust",
+        "snippets"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Rust (Snippets)",
         "en": "Rust (Snippets)"
@@ -1539,13 +2862,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rust.snippets.zip",
-      "sha256": "5318f32a557e63e6f2926ce119512254fe5d15851cd2848ecbf8adf2ff13bb5f"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.rust.snippets-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rust.snippets.zip",
+      "sha256": "5ee7cd1f9ac3af4e9658800c6c3922927e56ddb799a8dd12c412f2fe5e2f2236",
+      "size": 947,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.shellscript.snippets",
       "category": "snippets",
+      "categories": [
+        "snippets",
+        "languages/shell"
+      ],
+      "tags": [
+        "shellscript",
+        "snippets"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Shell (Snippets)",
         "en": "Shell (Snippets)"
@@ -1556,13 +2894,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.shellscript.snippets.zip",
-      "sha256": "460cf1c42f1994c7023bf13f9af9a9691d9807610cbfea76c1ad2ee7a04501b4"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.shellscript.snippets-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.shellscript.snippets.zip",
+      "sha256": "2c7d73617338705adf655b7fa93a40c713400feef5c59c38ae9329974c72e9c6",
+      "size": 911,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.typescript.snippets",
       "category": "snippets",
+      "categories": [
+        "snippets",
+        "languages/web/typescript"
+      ],
+      "tags": [
+        "typescript",
+        "snippets"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "TypeScript (Snippets)",
         "en": "TypeScript (Snippets)"
@@ -1573,13 +2926,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.typescript.snippets.zip",
-      "sha256": "6365ea6d2f7079dbbe1490e4fe2a901c4189945e1eb4ec5f116296b48b8f3c68"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.typescript.snippets-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.typescript.snippets.zip",
+      "sha256": "34dd684a708b15d649d226c5a100ec519d93b837d3d961ead456e46da0a34b52",
+      "size": 914,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.xml.snippets",
       "category": "snippets",
+      "categories": [
+        "snippets",
+        "languages/data/xml"
+      ],
+      "tags": [
+        "xml",
+        "snippets"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Android XML (Snippets)",
         "en": "Android XML (Snippets)"
@@ -1590,13 +2958,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.xml.snippets.zip",
-      "sha256": "07a45049ca428cb15f535687fcb16a455cbbec5d2771b365fa0a32f456ee5b3b"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.xml.snippets-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.xml.snippets.zip",
+      "sha256": "09ac00e624462fbf2c10148506cac30b6f75d29e4304264c0c5c46a08e864b88",
+      "size": 989,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.bash-language-server.lsp",
       "category": "lsp",
+      "categories": [
+        "language-servers",
+        "languages/shell"
+      ],
+      "tags": [
+        "shellscript",
+        "lsp"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Bash Language Server (Language Server)",
         "en": "Bash Language Server (Language Server)"
@@ -1607,13 +2990,29 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.bash-language-server.lsp.zip",
-      "sha256": "374c7fb57eca143a647bc34e5b30426ade2ef3721bf58e4be1ff71fc51c1f7a0"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.bash-language-server.lsp-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.bash-language-server.lsp.zip",
+      "sha256": "b8adbe1ea0657569485769ccc8f223c9e19f11ea539b81504a315cf015cd97ba",
+      "size": 707,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.clangd.lsp",
       "category": "lsp",
+      "categories": [
+        "language-servers",
+        "languages/systems/c-cpp"
+      ],
+      "tags": [
+        "c",
+        "cpp",
+        "lsp"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "clangd (C/C++) (Language Server)",
         "en": "clangd (C/C++) (Language Server)"
@@ -1624,13 +3023,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.clangd.lsp.zip",
-      "sha256": "5d811abcc2422abcba5158e57e5767e7aadc4120117b9c8d178baabb0ee44cda"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.clangd.lsp-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.clangd.lsp.zip",
+      "sha256": "0e121427b9a11f6ada2a73c48d32963e0741c91688ab65cf1a7ca513e48e048c",
+      "size": 679,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.dart.lsp",
       "category": "lsp",
+      "categories": [
+        "language-servers",
+        "languages/dart"
+      ],
+      "tags": [
+        "dart",
+        "lsp"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Dart Analysis Server (Language Server)",
         "en": "Dart Analysis Server (Language Server)"
@@ -1641,13 +3055,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.dart.lsp.zip",
-      "sha256": "824f1c88c975a1c40853bab9912dc120597dbd53f7613b7c0ad4ff95175f1d03"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.dart.lsp-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.dart.lsp.zip",
+      "sha256": "4973e70e24502c529864644cb56359e15fcd2f49e6ca5c3f9a28494f0e4da21f",
+      "size": 660,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.gopls.lsp",
       "category": "lsp",
+      "categories": [
+        "language-servers",
+        "languages/go"
+      ],
+      "tags": [
+        "go",
+        "lsp"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "gopls (Go) (Language Server)",
         "en": "gopls (Go) (Language Server)"
@@ -1658,13 +3087,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.gopls.lsp.zip",
-      "sha256": "61ba2ca87108f952af4652781327a5b8f25894b80034690a44c8e3e710a140cc"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.gopls.lsp-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.gopls.lsp.zip",
+      "sha256": "f51a66362e436c31dc5ab1a857950ae949ca2a5f8fabbc73bf10796bbc0a414e",
+      "size": 645,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.jdtls.lsp",
       "category": "lsp",
+      "categories": [
+        "language-servers",
+        "languages/jvm/java"
+      ],
+      "tags": [
+        "java",
+        "lsp"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Eclipse JDT LS (Java) (Language Server)",
         "en": "Eclipse JDT LS (Java) (Language Server)"
@@ -1675,13 +3119,32 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.jdtls.lsp.zip",
-      "sha256": "480eaed9d632b265e4000774eff1eb74dd8c5b7ca937222f17d1d8845aeeaa71"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.jdtls.lsp-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.jdtls.lsp.zip",
+      "sha256": "72e93a66a3093bb853e016ebe933c8ab88de7cbdd79befbdd4fb61fd76e3de8e",
+      "size": 904,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.kmp-lsp.lsp",
       "category": "lsp",
+      "categories": [
+        "language-servers",
+        "languages/jvm/kotlin",
+        "languages/jvm/java",
+        "languages/other/swift"
+      ],
+      "tags": [
+        "kotlin",
+        "java",
+        "swift",
+        "lsp"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "kmp-lsp (Kotlin/Java/Swift) (Language Server)",
         "en": "kmp-lsp (Kotlin/Java/Swift) (Language Server)"
@@ -1692,13 +3155,28 @@
       },
       "version": "1.0.2",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.kmp-lsp.lsp.zip",
-      "sha256": "f4fe3d67ded97ccdd86191daebb2a2c0731c6dc74cdab0e27789edff7716468e"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.kmp-lsp.lsp-1.0.2.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.kmp-lsp.lsp.zip",
+      "sha256": "7c7324be1e69fac04fd3dc7f2c06f9eb63dfa32e7c415d6f7d3d03ec056e930f",
+      "size": 970,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.kotlin-language-server.lsp",
       "category": "lsp",
+      "categories": [
+        "language-servers",
+        "languages/jvm/kotlin"
+      ],
+      "tags": [
+        "kotlin",
+        "lsp"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Kotlin Language Server (Language Server)",
         "en": "Kotlin Language Server (Language Server)"
@@ -1709,13 +3187,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.kotlin-language-server.lsp.zip",
-      "sha256": "4f66306d434008cbb0de3a4d77a9419d5290c9caa78e3617b7c8b9e61eb4833c"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.kotlin-language-server.lsp-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.kotlin-language-server.lsp.zip",
+      "sha256": "fa3bfb028d873118db8cd91884a2ff77c74b11a1ed616094dc8964f2728f6b27",
+      "size": 894,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.lemminx.lsp",
       "category": "lsp",
+      "categories": [
+        "language-servers",
+        "languages/data/xml"
+      ],
+      "tags": [
+        "xml",
+        "lsp"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "LemMinX (XML) (Language Server)",
         "en": "LemMinX (XML) (Language Server)"
@@ -1726,13 +3219,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lemminx.lsp.zip",
-      "sha256": "8345e3e993256f0b7cad6d3243340a14be56d003a426936e52edaf83bd7c5762"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lemminx.lsp-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lemminx.lsp.zip",
+      "sha256": "82574b9c714252dd6c2e89542bc8e91ca38b2a78a7dd7eb10b1adc1b032f7837",
+      "size": 862,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.neocmakelsp.lsp",
       "category": "lsp",
+      "categories": [
+        "language-servers",
+        "languages/systems/cmake"
+      ],
+      "tags": [
+        "cmake",
+        "lsp"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "neocmakelsp (CMake) (Language Server)",
         "en": "neocmakelsp (CMake) (Language Server)"
@@ -1743,13 +3251,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.neocmakelsp.lsp.zip",
-      "sha256": "9d47504bb695e65f364060ebaff4a295d0d14c27ffd948b5eb7593fdac4dfeb2"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.neocmakelsp.lsp-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.neocmakelsp.lsp.zip",
+      "sha256": "7b7f7c432189cfc3a0c0718c6c728840c231297666ece9a980273fbfe9bc45a4",
+      "size": 659,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.pyright.lsp",
       "category": "lsp",
+      "categories": [
+        "language-servers",
+        "languages/python"
+      ],
+      "tags": [
+        "python",
+        "lsp"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Pyright (Python) (Language Server)",
         "en": "Pyright (Python) (Language Server)"
@@ -1760,13 +3283,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.pyright.lsp.zip",
-      "sha256": "1e2d5aa67556686f10a9f29c4953ff35e6f9b869e495f817f669c0c113dbe87b"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.pyright.lsp-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.pyright.lsp.zip",
+      "sha256": "de64bee2441d3a9b7cfcdca8ae8daa833b0e2d246f13cb79858cfb37296c744d",
+      "size": 697,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.ruff.lsp",
       "category": "lsp",
+      "categories": [
+        "language-servers",
+        "languages/python"
+      ],
+      "tags": [
+        "python",
+        "lsp"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Ruff (Python-Linting) (Language Server)",
         "en": "Ruff (Python-Linting) (Language Server)"
@@ -1777,13 +3315,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ruff.lsp.zip",
-      "sha256": "4bcba73bd73298e3f1bbaef9499ea9b85cce8a466937b0975c655af6befa67ae"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.ruff.lsp-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ruff.lsp.zip",
+      "sha256": "b747de4c09d7775524fd6ea255bec65b8b104a3a378f73836b96a0cd01a0ccd4",
+      "size": 664,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.rust-analyzer.lsp",
       "category": "lsp",
+      "categories": [
+        "language-servers",
+        "languages/systems/rust"
+      ],
+      "tags": [
+        "rust",
+        "lsp"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "rust-analyzer (Rust) (Language Server)",
         "en": "rust-analyzer (Rust) (Language Server)"
@@ -1794,13 +3347,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rust-analyzer.lsp.zip",
-      "sha256": "a681120e6d2debc72454baf11e6c4f70b83e1bba4ddd5e7419d76c279a2a54aa"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.rust-analyzer.lsp-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rust-analyzer.lsp.zip",
+      "sha256": "f528f5aa670db66777367879c1b97de361ee677029c891f6316bf7e2a741e009",
+      "size": 656,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.taplo.lsp",
       "category": "lsp",
+      "categories": [
+        "language-servers",
+        "languages/data/toml"
+      ],
+      "tags": [
+        "toml",
+        "lsp"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Taplo (TOML) (Language Server)",
         "en": "Taplo (TOML) (Language Server)"
@@ -1811,13 +3379,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.taplo.lsp.zip",
-      "sha256": "286ddacfbc4548cc69ea093dcdbb9395a4ea02c640401887d81767a02bc34cb8"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.taplo.lsp-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.taplo.lsp.zip",
+      "sha256": "b0cd9e3653a04c4ba1880f2bc25dabf625e1ad1e4acc02f0ccb9be42f5526f59",
+      "size": 661,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.typescript-language-server.lsp",
       "category": "lsp",
+      "categories": [
+        "language-servers",
+        "languages/web/typescript",
+        "languages/web/javascript"
+      ],
+      "tags": [
+        "typescript",
+        "javascript",
+        "lsp"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "TypeScript/JavaScript Language Server (Language Server)",
         "en": "TypeScript/JavaScript Language Server (Language Server)"
@@ -1828,13 +3413,32 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.typescript-language-server.lsp.zip",
-      "sha256": "8bca15236393436e74c16db48624e219d6a34364a86bf68a6cdd919d84497140"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.typescript-language-server.lsp-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.typescript-language-server.lsp.zip",
+      "sha256": "51f8bc45bc2f085c1851c9972ac9eb761399c4b559e941e7505b17e4fdcec858",
+      "size": 721,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.web-langservers.lsp",
       "category": "lsp",
+      "categories": [
+        "language-servers",
+        "languages/web/html",
+        "languages/web/css",
+        "languages/data/json"
+      ],
+      "tags": [
+        "html",
+        "css",
+        "json",
+        "lsp"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "HTML/CSS/JSON Language Servers (Language Server)",
         "en": "HTML/CSS/JSON Language Servers (Language Server)"
@@ -1845,13 +3449,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.web-langservers.lsp.zip",
-      "sha256": "6f03e643ff131cf39c6b2faa83a6449125f506017e4f7b4154e59fe404cf98a2"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.web-langservers.lsp-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.web-langservers.lsp.zip",
+      "sha256": "597935c04ea2560a7c5ff72300d51f00fd3c6df71e1e1a920caa2003319f5fe1",
+      "size": 760,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.yaml-language-server.lsp",
       "category": "lsp",
+      "categories": [
+        "language-servers",
+        "languages/data/yaml"
+      ],
+      "tags": [
+        "yaml",
+        "lsp"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "YAML Language Server (Language Server)",
         "en": "YAML Language Server (Language Server)"
@@ -1862,13 +3481,29 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.yaml-language-server.lsp.zip",
-      "sha256": "283b5ac7a3302d2413a47b35aceb8e227002258d539a14f4719dbaa1272240ae"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.yaml-language-server.lsp-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.yaml-language-server.lsp.zip",
+      "sha256": "bce41f84808470927f8472fdeb8e901d079d29f504afffeed56fa4cb1672dd94",
+      "size": 689,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.compose-bottomnav.template",
       "category": "template",
+      "categories": [
+        "templates",
+        "templates/android"
+      ],
+      "tags": [
+        "kotlin",
+        "template",
+        "compose"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Compose · Untere Navigationsleiste (Projektvorlage)",
         "en": "Compose · Untere Navigationsleiste (Projektvorlage)"
@@ -1879,13 +3514,29 @@
       },
       "version": "1.1.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.compose-bottomnav.template.zip",
-      "sha256": "fde153f8810bc549b9de033d4900891d8000e86e175740d867c133badc0b1bc0"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.compose-bottomnav.template-1.1.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.compose-bottomnav.template.zip",
+      "sha256": "fde153f8810bc549b9de033d4900891d8000e86e175740d867c133badc0b1bc0",
+      "size": 50714,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.compose-clean.template",
       "category": "template",
+      "categories": [
+        "templates",
+        "templates/android"
+      ],
+      "tags": [
+        "kotlin",
+        "template",
+        "compose"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Compose Clean Architecture (Projektvorlage)",
         "en": "Compose Clean Architecture (Projektvorlage)"
@@ -1896,13 +3547,29 @@
       },
       "version": "1.1.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.compose-clean.template.zip",
-      "sha256": "3dec508e03b651d4438a280648afdd9bf513b422e5dbc47224931a85b3b6848d"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.compose-clean.template-1.1.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.compose-clean.template.zip",
+      "sha256": "3dec508e03b651d4438a280648afdd9bf513b422e5dbc47224931a85b3b6848d",
+      "size": 34055,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.compose-drawer.template",
       "category": "template",
+      "categories": [
+        "templates",
+        "templates/android"
+      ],
+      "tags": [
+        "kotlin",
+        "template",
+        "compose"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Compose · Navigationsmenü (Drawer) (Projektvorlage)",
         "en": "Compose · Navigationsmenü (Drawer) (Projektvorlage)"
@@ -1913,13 +3580,29 @@
       },
       "version": "1.1.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.compose-drawer.template.zip",
-      "sha256": "24ea3eade6675b63181f43a3ca3f57e7c615947635ea56cb727e8b17de47073e"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.compose-drawer.template-1.1.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.compose-drawer.template.zip",
+      "sha256": "24ea3eade6675b63181f43a3ca3f57e7c615947635ea56cb727e8b17de47073e",
+      "size": 48901,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.compose-notes.template",
       "category": "template",
+      "categories": [
+        "templates",
+        "templates/android"
+      ],
+      "tags": [
+        "kotlin",
+        "template",
+        "compose"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Compose · Notizen-App (Projektvorlage)",
         "en": "Compose · Notizen-App (Projektvorlage)"
@@ -1930,13 +3613,29 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.compose-notes.template.zip",
-      "sha256": "840bc646f5440e305b461a73d01dc9455e6c3dce2aff49d0b15660da9c263ba4"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.compose-notes.template-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.compose-notes.template.zip",
+      "sha256": "840bc646f5440e305b461a73d01dc9455e6c3dce2aff49d0b15660da9c263ba4",
+      "size": 61647,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.compose-podcast.template",
       "category": "template",
+      "categories": [
+        "templates",
+        "templates/android"
+      ],
+      "tags": [
+        "kotlin",
+        "template",
+        "compose"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Compose · Podcast-App (Projektvorlage)",
         "en": "Compose · Podcast-App (Projektvorlage)"
@@ -1947,13 +3646,29 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.compose-podcast.template.zip",
-      "sha256": "0bb9f25f76c3c3d3d99b18d0dd48b705ae0d47c34de3fe6f0334840c15e65774"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.compose-podcast.template-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.compose-podcast.template.zip",
+      "sha256": "0bb9f25f76c3c3d3d99b18d0dd48b705ae0d47c34de3fe6f0334840c15e65774",
+      "size": 75147,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.jvm-cli.template",
       "category": "template",
+      "categories": [
+        "templates",
+        "templates/jvm"
+      ],
+      "tags": [
+        "kotlin",
+        "java",
+        "template"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Konsolenprogramm JVM (Projektvorlage)",
         "en": "Konsolenprogramm JVM (Projektvorlage)"
@@ -1964,13 +3679,28 @@
       },
       "version": "1.1.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.jvm-cli.template.zip",
-      "sha256": "fb2bd7520d6547433bd6941ac0e6f2559c962c00e578b996df940df28ec45ebb"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.jvm-cli.template-1.1.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.jvm-cli.template.zip",
+      "sha256": "fb2bd7520d6547433bd6941ac0e6f2559c962c00e578b996df940df28ec45ebb",
+      "size": 16097,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.gofmt.formatter",
       "category": "formatter",
+      "categories": [
+        "formatters",
+        "languages/go"
+      ],
+      "tags": [
+        "go",
+        "formatter"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "gofmt (Formatierer)",
         "en": "gofmt (Formatierer)"
@@ -1981,13 +3711,40 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.gofmt.formatter.zip",
-      "sha256": "e75655ae6e9713ef45dbdfb1730f4e29bf2d898aa6ddafc0f99dd49c0e2c7b83"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.gofmt.formatter-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.gofmt.formatter.zip",
+      "sha256": "d8a0d18dea03c544613648c9f78e956c23ec5c91c838488db361f9551f590cdd",
+      "size": 662,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.prettier.formatter",
       "category": "formatter",
+      "categories": [
+        "formatters",
+        "languages/web/javascript",
+        "languages/web/typescript",
+        "languages/data/json",
+        "languages/web/css",
+        "languages/web/html",
+        "languages/markup/markdown",
+        "languages/data/yaml"
+      ],
+      "tags": [
+        "javascript",
+        "typescript",
+        "json",
+        "css",
+        "html",
+        "markdown",
+        "yaml",
+        "formatter"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Prettier (Formatierer)",
         "en": "Prettier (Formatierer)"
@@ -1998,13 +3755,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.prettier.formatter.zip",
-      "sha256": "a076a321de8d4274846aeb9296326d271cfea81f302fbb826ba8cf3c91225ef7"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.prettier.formatter-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.prettier.formatter.zip",
+      "sha256": "b1f63c65e547576493df1f038cab93fc2849853b8529d3a286e66b082f271c3e",
+      "size": 772,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.ruff-format.formatter",
       "category": "formatter",
+      "categories": [
+        "formatters",
+        "languages/python"
+      ],
+      "tags": [
+        "python",
+        "formatter"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Ruff Format (Formatierer)",
         "en": "Ruff Format (Formatierer)"
@@ -2015,13 +3787,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ruff-format.formatter.zip",
-      "sha256": "b66cbe52bd711b29accc5be5fd34624fd90ecb6e147e69fcf213d5b989d44e7e"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.ruff-format.formatter-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ruff-format.formatter.zip",
+      "sha256": "2f7a13affd03b1237fce5d2a751c5c38ebc2de94a9e9229c3d13ad297d3fc7f1",
+      "size": 695,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.rustfmt.formatter",
       "category": "formatter",
+      "categories": [
+        "formatters",
+        "languages/systems/rust"
+      ],
+      "tags": [
+        "rust",
+        "formatter"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "rustfmt (Formatierer)",
         "en": "rustfmt (Formatierer)"
@@ -2032,13 +3819,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rustfmt.formatter.zip",
-      "sha256": "088ecf4a1cd08e88fb6ce21c97c219bc58ffd7764d108a262695796aeab5d077"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.rustfmt.formatter-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rustfmt.formatter.zip",
+      "sha256": "9ae882287780e8fc5fa438f9366bee885f9c9fc90c320b874e8601446b52631d",
+      "size": 672,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.shfmt.formatter",
       "category": "formatter",
+      "categories": [
+        "formatters",
+        "languages/shell"
+      ],
+      "tags": [
+        "shellscript",
+        "formatter"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "shfmt (Formatierer)",
         "en": "shfmt (Formatierer)"
@@ -2049,13 +3851,28 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.shfmt.formatter.zip",
-      "sha256": "1b8807a5fff0d3c7d26c5e7434e9a72cf6d48fd20e29262f1613b6fa10341411"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.shfmt.formatter-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.shfmt.formatter.zip",
+      "sha256": "dc5f0feddfb05c7a2a447fd27ff94f7f471af31f1fb193ece4bef8757ecbf870",
+      "size": 682,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.taplo-format.formatter",
       "category": "formatter",
+      "categories": [
+        "formatters",
+        "languages/data/toml"
+      ],
+      "tags": [
+        "toml",
+        "formatter"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Taplo Format (Formatierer)",
         "en": "Taplo Format (Formatierer)"
@@ -2066,13 +3883,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.taplo-format.formatter.zip",
-      "sha256": "8accb4fafc7709a7e18a0742f5991b11ce06eb04cf11f45a7c4dd922ad61069a"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.taplo-format.formatter-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.taplo-format.formatter.zip",
+      "sha256": "f258243020952aad84f053c614ee3f3e4dcac087b2340971ca1dc682ac66b4dc",
+      "size": 669,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.all-formatters.bundle",
       "category": "bundle",
+      "categories": [
+        "bundles",
+        "bundles/collections"
+      ],
+      "tags": [
+        "bundle"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Alle Formatierer (Bundle)",
         "en": "Alle Formatierer (Bundle)"
@@ -2083,13 +3914,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-formatters.bundle.zip",
-      "sha256": "766c57e28901f316d280dff72811b43b13219f9abe850630d92fab462503dfe3"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.all-formatters.bundle-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-formatters.bundle.zip",
+      "sha256": "7898cd2178b82be1d4fba25dd79e33c76aded1ab565627c12e22c0942ee0cb82",
+      "size": 612,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.all-grammars.bundle",
       "category": "bundle",
+      "categories": [
+        "bundles",
+        "bundles/collections"
+      ],
+      "tags": [
+        "bundle"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Alle Grammatiken (Bundle)",
         "en": "Alle Grammatiken (Bundle)"
@@ -2100,13 +3945,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-grammars.bundle.zip",
-      "sha256": "e32d1729515f65283c65d89e19326c4dc47ef6b7476207f178d66635212a3487"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.all-grammars.bundle-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-grammars.bundle.zip",
+      "sha256": "502abbd32bb5a1a31d527dea0a2e142e981d203f1b394ddea158847b3d124485",
+      "size": 452,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.all-icons.bundle",
       "category": "bundle",
+      "categories": [
+        "bundles",
+        "bundles/collections"
+      ],
+      "tags": [
+        "bundle"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Alle Icon-Pakete (Bundle)",
         "en": "Alle Icon-Pakete (Bundle)"
@@ -2117,13 +3976,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-icons.bundle.zip",
-      "sha256": "2598ebdd5a8731b4a5b4bc3ced1e6b37e84fa6495812e2b2ba61f800d5a188fe"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.all-icons.bundle-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-icons.bundle.zip",
+      "sha256": "6049dc88f0fe72c88d11628517be80a110aeced0cdf0a454d41a9d661f55dbe4",
+      "size": 412,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.all-languages.bundle",
       "category": "bundle",
+      "categories": [
+        "bundles",
+        "bundles/collections"
+      ],
+      "tags": [
+        "bundle"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Alle Sprachpakete (Bundle)",
         "en": "Alle Sprachpakete (Bundle)"
@@ -2134,13 +4007,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-languages.bundle.zip",
-      "sha256": "5bf8280bf37d25544027130507d3ca7d6c8da56152a8ce72544dbb89d408ebc9"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.all-languages.bundle-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-languages.bundle.zip",
+      "sha256": "b168784bfa3d50d5bfe71c0b1988a8bfe2cd9b364c0fdf7450ee09def938748a",
+      "size": 372,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.all-lsp-servers.bundle",
       "category": "bundle",
+      "categories": [
+        "bundles",
+        "bundles/collections"
+      ],
+      "tags": [
+        "bundle"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Alle Language Server (Bundle)",
         "en": "Alle Language Server (Bundle)"
@@ -2151,13 +4038,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-lsp-servers.bundle.zip",
-      "sha256": "22d380514ae90ba06f03ed9554cfa24732e86a1f7de63e2fba9e768e350920e0"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.all-lsp-servers.bundle-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-lsp-servers.bundle.zip",
+      "sha256": "56a10b09b6e82e0348ee11837b9c41a9f28811e826af47278ef15b974fde3855",
+      "size": 694,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.all-snippets.bundle",
       "category": "bundle",
+      "categories": [
+        "bundles",
+        "bundles/collections"
+      ],
+      "tags": [
+        "bundle"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Alle Snippets (Bundle)",
         "en": "Alle Snippets (Bundle)"
@@ -2168,13 +4069,27 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-snippets.bundle.zip",
-      "sha256": "7853b5c4f5535b2785390d6c88ab67a950f62d94b213c700637c38ab26f495a7"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.all-snippets.bundle-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-snippets.bundle.zip",
+      "sha256": "bf24c5424115429d973c218c48ee5fbebd2264b7bd1266c8c800c2ab7d7cace8",
+      "size": 390,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.all-themes.bundle",
       "category": "bundle",
+      "categories": [
+        "bundles",
+        "bundles/collections"
+      ],
+      "tags": [
+        "bundle"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Alle Themes (Bundle)",
         "en": "Alle Themes (Bundle)"
@@ -2185,13 +4100,277 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-themes.bundle.zip",
-      "sha256": "4394a10a27648434dfc1c339c63640c8326f52ef8b93f8a5768e59b5594b5c39"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.all-themes.bundle-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-themes.bundle.zip",
+      "sha256": "68bfc9345f174af8796371379f48d7f4133fd4c18a18123bb87988224d7aedbd",
+      "size": 520,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.config-pack.bundle",
+      "category": "bundle",
+      "categories": [
+        "bundles",
+        "bundles/language-packs"
+      ],
+      "tags": [
+        "bundle"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Konfigurationsdateien (YAML, TOML, XML) (Bundle)",
+        "en": "Konfigurationsdateien (YAML, TOML, XML) (Bundle)"
+      },
+      "summary": {
+        "de": "YAML-, TOML- (Taplo) und XML-Server (LemMinX) samt Taplo-Formatierer.",
+        "en": "YAML-, TOML- (Taplo) und XML-Server (LemMinX) samt Taplo-Formatierer."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.config-pack.bundle-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.config-pack.bundle.zip",
+      "sha256": "b22377fac80a7d22ee734bcc39d0dc51a7c9917ca7e7238c94b156dddb0c902a",
+      "size": 623,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.cpp-pack.bundle",
+      "category": "bundle",
+      "categories": [
+        "bundles",
+        "bundles/language-packs"
+      ],
+      "tags": [
+        "bundle"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "C/C++ (Bundle)",
+        "en": "C/C++ (Bundle)"
+      },
+      "summary": {
+        "de": "C/C++-Unterstützung: clangd und neocmakelsp für CMake.",
+        "en": "C/C++-Unterstützung: clangd und neocmakelsp für CMake."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.cpp-pack.bundle-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.cpp-pack.bundle.zip",
+      "sha256": "92767644e7649493e7bbc5e354bcb6504206c302f91d62f94100298509819143",
+      "size": 571,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.go-pack.bundle",
+      "category": "bundle",
+      "categories": [
+        "bundles",
+        "bundles/language-packs"
+      ],
+      "tags": [
+        "bundle"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Go (Bundle)",
+        "en": "Go (Bundle)"
+      },
+      "summary": {
+        "de": "Go-Unterstützung: gopls und gofmt.",
+        "en": "Go-Unterstützung: gopls und gofmt."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.go-pack.bundle-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.go-pack.bundle.zip",
+      "sha256": "49c4783f86cd8299ec609cf4a843609a62729c031eacd36c436560deabf2109b",
+      "size": 557,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.jvm-pack.bundle",
+      "category": "bundle",
+      "categories": [
+        "bundles",
+        "bundles/language-packs"
+      ],
+      "tags": [
+        "bundle"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Kotlin und Java (Bundle)",
+        "en": "Kotlin und Java (Bundle)"
+      },
+      "summary": {
+        "de": "Kotlin Language Server, Eclipse JDT LS (Java) und LemMinX für Android-XML.",
+        "en": "Kotlin Language Server, Eclipse JDT LS (Java) und LemMinX für Android-XML."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.jvm-pack.bundle-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.jvm-pack.bundle.zip",
+      "sha256": "89cf6696218ae21d84d75da6a2dffec407f89ebbd03fad2953534b5d897e8c43",
+      "size": 607,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.python-pack.bundle",
+      "category": "bundle",
+      "categories": [
+        "bundles",
+        "bundles/language-packs"
+      ],
+      "tags": [
+        "bundle"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Python (Bundle)",
+        "en": "Python (Bundle)"
+      },
+      "summary": {
+        "de": "Python-Unterstützung: Pyright (Typen, Navigation), Ruff (Linting) und Ruff Format.",
+        "en": "Python-Unterstützung: Pyright (Typen, Navigation), Ruff (Linting) und Ruff Format."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.python-pack.bundle-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.python-pack.bundle.zip",
+      "sha256": "a6b004d3c9048f9620a3a17d1ca2d44a985925c08a9adc57880fe40d9fb23154",
+      "size": 599,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.rust-pack.bundle",
+      "category": "bundle",
+      "categories": [
+        "bundles",
+        "bundles/language-packs"
+      ],
+      "tags": [
+        "bundle"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Rust (Bundle)",
+        "en": "Rust (Bundle)"
+      },
+      "summary": {
+        "de": "Rust-Unterstützung: rust-analyzer, rustfmt und Taplo für Cargo.toml.",
+        "en": "Rust-Unterstützung: rust-analyzer, rustfmt und Taplo für Cargo.toml."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.rust-pack.bundle-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rust-pack.bundle.zip",
+      "sha256": "b6834e44ef0c60db2c0987fb80524bad7c2a1c48e9ef23f991d513ac465665cd",
+      "size": 588,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.shell-pack.bundle",
+      "category": "bundle",
+      "categories": [
+        "bundles",
+        "bundles/language-packs"
+      ],
+      "tags": [
+        "bundle"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Shell (Bundle)",
+        "en": "Shell (Bundle)"
+      },
+      "summary": {
+        "de": "Shell-Skripte: Bash Language Server und shfmt.",
+        "en": "Shell-Skripte: Bash Language Server und shfmt."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.shell-pack.bundle-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.shell-pack.bundle.zip",
+      "sha256": "6284c5a4066ea62334386b6392b09f1dfa676f4106438962207528d7cba21f4a",
+      "size": 568,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.web-pack.bundle",
+      "category": "bundle",
+      "categories": [
+        "bundles",
+        "bundles/language-packs"
+      ],
+      "tags": [
+        "bundle"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Web (TypeScript, JavaScript, HTML, CSS) (Bundle)",
+        "en": "Web (TypeScript, JavaScript, HTML, CSS) (Bundle)"
+      },
+      "summary": {
+        "de": "Web-Entwicklung: TypeScript/JavaScript-Server, HTML/CSS/JSON-Server und Prettier.",
+        "en": "Web-Entwicklung: TypeScript/JavaScript-Server, HTML/CSS/JSON-Server und Prettier."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.web-pack.bundle-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.web-pack.bundle.zip",
+      "sha256": "04f92dbc27a040a7aae9d0df2703ef5aa6b15ad5bbb002460cf7a94eab53b0ee",
+      "size": 626,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.androidx-migrate.tool",
       "category": "tool",
+      "categories": [
+        "tools",
+        "tools/refactoring"
+      ],
+      "tags": [
+        "android",
+        "gradle",
+        "tool"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "AndroidX-Migration (Tool)",
         "en": "AndroidX-Migration (Tool)"
@@ -2202,13 +4381,31 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [
+        "shell"
+      ],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.androidx-migrate.tool.zip",
-      "sha256": "a4c5cfa9b4ce2b77b3cf1a0ae18449176fa93174963c475f0d7f55de624376ad"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.androidx-migrate.tool-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.androidx-migrate.tool.zip",
+      "sha256": "25e6605e6fd371331cfa80415fb5ce93098cd1d5d9a25d1c19ceb7af5cbbd4d9",
+      "size": 6142,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.catalog-migrate.tool",
       "category": "tool",
+      "categories": [
+        "tools",
+        "tools/refactoring"
+      ],
+      "tags": [
+        "android",
+        "gradle",
+        "tool"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Version-Catalog-Migration (Tool)",
         "en": "Version-Catalog-Migration (Tool)"
@@ -2219,13 +4416,30 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [
+        "shell"
+      ],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.catalog-migrate.tool.zip",
-      "sha256": "c431b4c4fddc0e6b259f021d56a5ff4de134f65aeff6468bcd86c0332a22ed6a"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.catalog-migrate.tool-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.catalog-migrate.tool.zip",
+      "sha256": "52aab2bf1477b1589928aba0c54537fff0b0d7512c7b4be0362c328bcb656fd1",
+      "size": 3265,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.format-all.tool",
       "category": "tool",
+      "categories": [
+        "tools",
+        "tools/refactoring"
+      ],
+      "tags": [
+        "format",
+        "tool"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Alles formatieren (Tool)",
         "en": "Alles formatieren (Tool)"
@@ -2236,13 +4450,29 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [
+        "shell"
+      ],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.format-all.tool.zip",
-      "sha256": "71cec20cc55d7298c9055eabea4a7c88777f541bbf5d648a96ab54fdba8c9c45"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.format-all.tool-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.format-all.tool.zip",
+      "sha256": "3650dc790e2b2cea4328522553a554587971d56e18b200a494ab6df413319226",
+      "size": 2755,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.gitignore.tool",
       "category": "tool",
+      "categories": [
+        "tools",
+        "tools/project"
+      ],
+      "tags": [
+        "tool"
+      ],
+      "kind": "declarative",
       "name": {
         "de": ".gitignore-Generator (Tool)",
         "en": ".gitignore-Generator (Tool)"
@@ -2253,13 +4483,29 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [
+        "shell"
+      ],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.gitignore.tool.zip",
-      "sha256": "67994360a2a9d5644b3706910b69a1dc6a095622ed2d8aa252747a44db632057"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.gitignore.tool-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.gitignore.tool.zip",
+      "sha256": "2a359e80b5e9df1d4101292e8346aba457b14b77d992d42f11e11e2b34e7aae5",
+      "size": 2576,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.license.tool",
       "category": "tool",
+      "categories": [
+        "tools",
+        "tools/project"
+      ],
+      "tags": [
+        "tool"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "LICENSE-Generator (Tool)",
         "en": "LICENSE-Generator (Tool)"
@@ -2270,13 +4516,29 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [
+        "shell"
+      ],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.license.tool.zip",
-      "sha256": "561d22a1c8e499a3772faa7e9bddb435c9e928909e3a1c643037f86452116834"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.license.tool-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.license.tool.zip",
+      "sha256": "afe97e1d5c10fed82e2e443620f345bf240983b621239aefae0252f87e264940",
+      "size": 4849,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.project-clean.tool",
       "category": "tool",
+      "categories": [
+        "tools",
+        "tools/project"
+      ],
+      "tags": [
+        "tool"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Projekt bereinigen (Tool)",
         "en": "Projekt bereinigen (Tool)"
@@ -2287,13 +4549,29 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [
+        "shell"
+      ],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.project-clean.tool.zip",
-      "sha256": "0d651133b3df768a02e3b71a992bcb1b9337091ce57a2181ecd490dcd33df9c9"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.project-clean.tool-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.project-clean.tool.zip",
+      "sha256": "380da8e647d8de6e027031cfcee298eca7abdac41eed9e06e64ba09f6bf4d6da",
+      "size": 2599,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.readme.tool",
       "category": "tool",
+      "categories": [
+        "tools",
+        "tools/project"
+      ],
+      "tags": [
+        "tool"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "README-Generator (Tool)",
         "en": "README-Generator (Tool)"
@@ -2304,13 +4582,31 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [
+        "shell"
+      ],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.readme.tool.zip",
-      "sha256": "d151d19ecf38e546a8bd491838797475a00985b09b5f648954a8abb1fab836c3"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.readme.tool-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.readme.tool.zip",
+      "sha256": "ba82e9001e18571b0cc3fa81770eed7ed0f69205cdbffd11e59e87fcf3e6d327",
+      "size": 5677,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.unused-resources.tool",
       "category": "tool",
+      "categories": [
+        "tools",
+        "tools/refactoring"
+      ],
+      "tags": [
+        "android",
+        "gradle",
+        "tool"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "Unbenutzte Ressourcen (Tool)",
         "en": "Unbenutzte Ressourcen (Tool)"
@@ -2321,26 +4617,770 @@
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [
+        "shell"
+      ],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.unused-resources.tool.zip",
-      "sha256": "fd34509f8c09dcb3680c0a231b161b7c5c4ad02c44cab4fe6bd1811e6cc97b0b"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.unused-resources.tool-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.unused-resources.tool.zip",
+      "sha256": "0a4d3aa2f0d0e14864e0ea9acf317fa7dccbbfef4a7cf1568afff1f7c70545e7",
+      "size": 3450,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     },
     {
       "id": "com.codeforge.plugin.vscode-import.tool",
       "category": "tool",
+      "categories": [
+        "tools",
+        "tools/import"
+      ],
+      "tags": [
+        "vscode",
+        "import",
+        "tool"
+      ],
+      "kind": "declarative",
       "name": {
         "de": "VS Code Import (Tool)",
         "en": "VS Code Import (Tool)"
       },
       "summary": {
-        "de": "Konvertiert VS-Code-Themes und Icon-Packs (.vsix, Ordner oder Theme-JSON) in ein CodeForge-Plugin (ZIP in cf-plugin-out/). Erscheint im PT-Menü des Dateibaums. Führt Skripte aus (Berechtigung shell).",
-        "en": "Konvertiert VS-Code-Themes und Icon-Packs (.vsix, Ordner oder Theme-JSON) in ein CodeForge-Plugin (ZIP in cf-plugin-out/). Erscheint im PT-Menü des Dateibaums. Führt Skripte aus (Berechtigung shell)."
+        "de": "Konvertiert VS-Code-Extensions (.vsix, Ordner, Theme-JSON oder direkt von Open VSX) in ein CodeForge-Plugin: Farbschemata, Icon-Themes, Grammatiken, Snippets und Extension-Packs; mit Bericht über nicht Übertragbares (ZIP in cf-plugin-out/). Erscheint im PT-Menü des Dateibaums. Führt Skripte aus (Berechtigung shell).",
+        "en": "Konvertiert VS-Code-Extensions (.vsix, Ordner, Theme-JSON oder direkt von Open VSX) in ein CodeForge-Plugin: Farbschemata, Icon-Themes, Grammatiken, Snippets und Extension-Packs; mit Bericht über nicht Übertragbares (ZIP in cf-plugin-out/). Erscheint im PT-Menü des Dateibaums. Führt Skripte aus (Berechtigung shell)."
+      },
+      "version": "1.1.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [
+        "shell"
+      ],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.vscode-import.tool-1.1.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.vscode-import.tool.zip",
+      "sha256": "3cf98c69153561fab0132840ba61ea7140aabbeb8c6353446f8338ac827122e4",
+      "size": 9545,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.data-viewer.code",
+      "category": "plugin",
+      "categories": [
+        "previews/data",
+        "languages/data"
+      ],
+      "tags": [
+        "code-plugin",
+        "sideload",
+        "csv",
+        "tsv",
+        "json",
+        "table",
+        "viewer"
+      ],
+      "kind": "code",
+      "name": {
+        "de": "Daten-Betrachter (CSV, TSV, JSON)",
+        "en": "Daten-Betrachter (CSV, TSV, JSON)"
+      },
+      "summary": {
+        "de": "Zeigt CSV/TSV als sortierbare Tabelle und JSON als aufklappbaren Baum – direkt aus dem Editor-Inhalt.",
+        "en": "Zeigt CSV/TSV als sortierbare Tabelle und JSON als aufklappbaren Baum – direkt aus dem Editor-Inhalt."
       },
       "version": "1.0.0",
       "author": "codeforge",
+      "apiVersion": 4,
+      "permissions": [
+        "ui"
+      ],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.vscode-import.tool.zip",
-      "sha256": "459c844ed649fd3e588ef0220bd4fd87fb3e5e2ee77a3b2b54a4ecc7084af05d"
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.data-viewer.code-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.data-viewer.code.zip",
+      "sha256": "d2fe814c1138eb0fc3cb2adf72fdfe8f8a6231d261b5168eb4c67df11d532495",
+      "size": 27031,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.gradle-tasks.code",
+      "category": "plugin",
+      "categories": [
+        "build/gradle",
+        "languages/jvm/kotlin"
+      ],
+      "tags": [
+        "code-plugin",
+        "sideload",
+        "gradle",
+        "android",
+        "build",
+        "tasks"
+      ],
+      "kind": "code",
+      "name": {
+        "de": "Gradle-Aufgaben",
+        "en": "Gradle-Aufgaben"
+      },
+      "summary": {
+        "de": "Bereich mit allen Modulen des Projekts und ihren üblichen Gradle-Aufgaben (assemble, test, lint, clean, dependencies) plus freier Eingabe; zeigt die Ausgabe live und den Stand des letzten Gradle-Builds.",
+        "en": "Bereich mit allen Modulen des Projekts und ihren üblichen Gradle-Aufgaben (assemble, test, lint, clean, dependencies) plus freier Eingabe; zeigt die Ausgabe live und den Stand des letzten Gradle-Builds."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 4,
+      "permissions": [
+        "ui",
+        "project",
+        "build"
+      ],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.gradle-tasks.code-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.gradle-tasks.code.zip",
+      "sha256": "1d9b3e22654beeaadabd55bc336f49b903bdb7f0e247b7b8c7e599a01de26fee",
+      "size": 22402,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.markdown-preview.code",
+      "category": "plugin",
+      "categories": [
+        "previews/markdown",
+        "languages/markup"
+      ],
+      "tags": [
+        "code-plugin",
+        "sideload",
+        "markdown",
+        "preview",
+        "readme",
+        "docs"
+      ],
+      "kind": "code",
+      "name": {
+        "de": "Markdown-Vorschau",
+        "en": "Markdown-Vorschau"
+      },
+      "summary": {
+        "de": "Vorschau für Markdown-Dateien (Überschriften, Listen, Aufgaben, Code, Zitate, Tabellen, Links) direkt aus dem Editor-Inhalt.",
+        "en": "Vorschau für Markdown-Dateien (Überschriften, Listen, Aufgaben, Code, Zitate, Tabellen, Links) direkt aus dem Editor-Inhalt."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 4,
+      "permissions": [
+        "ui"
+      ],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.markdown-preview.code-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.markdown-preview.code.zip",
+      "sha256": "a1b0d6f6d5c55ad86d4ff5bbc5df6fb7481966983a983d1ff462c7b89304bd8f",
+      "size": 26526,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.python-tests.code",
+      "category": "plugin",
+      "categories": [
+        "testing/python",
+        "languages/python"
+      ],
+      "tags": [
+        "code-plugin",
+        "sideload",
+        "python",
+        "pytest",
+        "testing"
+      ],
+      "kind": "code",
+      "name": {
+        "de": "Python-Tests (pytest)",
+        "en": "Python-Tests (pytest)"
+      },
+      "summary": {
+        "de": "Erkennt pytest-Tests (test_*-Funktionen, Test*-Klassen) in test_*.py und *_test.py, zeigt Start-Knöpfe an jeder Testzeile und meldet bestandene/fehlgeschlagene Tests.",
+        "en": "Erkennt pytest-Tests (test_*-Funktionen, Test*-Klassen) in test_*.py und *_test.py, zeigt Start-Knöpfe an jeder Testzeile und meldet bestandene/fehlgeschlagene Tests."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 4,
+      "permissions": [
+        "run",
+        "shell"
+      ],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.python-tests.code-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.python-tests.code.zip",
+      "sha256": "6a746930c32c03bba449bcaec126a15b1659d49efd1944f69dd8c054e600dd47",
+      "size": 8939,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.rest-client.code",
+      "category": "plugin",
+      "categories": [
+        "tools/http",
+        "languages/web"
+      ],
+      "tags": [
+        "code-plugin",
+        "sideload",
+        "http",
+        "rest",
+        "api",
+        "curl",
+        "json"
+      ],
+      "kind": "code",
+      "name": {
+        "de": "REST-Client (.http)",
+        "en": "REST-Client (.http)"
+      },
+      "summary": {
+        "de": "Sendet HTTP-Anfragen aus .http/.rest-Dateien (Format wie REST Client für VS Code: ### als Trenner, @variable = wert, {{variable}}) und zeigt Status, Zeit, Header und Antwort (JSON formatiert).",
+        "en": "Sendet HTTP-Anfragen aus .http/.rest-Dateien (Format wie REST Client für VS Code: ### als Trenner, @variable = wert, {{variable}}) und zeigt Status, Zeit, Header und Antwort (JSON formatiert)."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 4,
+      "permissions": [
+        "ui",
+        "network"
+      ],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.rest-client.code-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rest-client.code.zip",
+      "sha256": "128553dccff67ec5aedcc781b37660ca5add6dbce0120e1843206be15acbe275",
+      "size": 24971,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.script-tasks.code",
+      "category": "plugin",
+      "categories": [
+        "build/tasks",
+        "languages/web",
+        "languages/systems/rust",
+        "languages/go"
+      ],
+      "tags": [
+        "code-plugin",
+        "sideload",
+        "npm",
+        "make",
+        "cargo",
+        "go",
+        "just",
+        "tasks",
+        "run"
+      ],
+      "kind": "code",
+      "name": {
+        "de": "Projekt-Skripte (npm, Make, Cargo, Go, just)",
+        "en": "Projekt-Skripte (npm, Make, Cargo, Go, just)"
+      },
+      "summary": {
+        "de": "Findet Aufgaben im geöffneten Projekt – npm/pnpm/yarn-Skripte aus package.json, Makefile-Ziele, Cargo, Go-Module und justfile-Rezepte – und bietet sie unter „Ausführen: …“ in der Befehlspalette an.",
+        "en": "Findet Aufgaben im geöffneten Projekt – npm/pnpm/yarn-Skripte aus package.json, Makefile-Ziele, Cargo, Go-Module und justfile-Rezepte – und bietet sie unter „Ausführen: …“ in der Befehlspalette an."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 4,
+      "permissions": [
+        "run",
+        "shell",
+        "project",
+        "project-events"
+      ],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.script-tasks.code-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.script-tasks.code.zip",
+      "sha256": "7fb5a37f2716f862f38fb850aca3778f74eeec1c12ba005f7c216c3bed7bc0de",
+      "size": 12616,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.sqlite-viewer.code",
+      "category": "plugin",
+      "categories": [
+        "tools/database",
+        "previews/data"
+      ],
+      "tags": [
+        "code-plugin",
+        "sideload",
+        "sqlite",
+        "database",
+        "sql",
+        "room",
+        "viewer"
+      ],
+      "kind": "code",
+      "name": {
+        "de": "SQLite-Betrachter",
+        "en": "SQLite-Betrachter"
+      },
+      "summary": {
+        "de": "Findet SQLite-Datenbanken im Projekt (.db, .sqlite, .sqlite3), zeigt Tabellen, Schema und Zeilen und führt lesende Abfragen aus (SELECT, PRAGMA, EXPLAIN, WITH).",
+        "en": "Findet SQLite-Datenbanken im Projekt (.db, .sqlite, .sqlite3), zeigt Tabellen, Schema und Zeilen und führt lesende Abfragen aus (SELECT, PRAGMA, EXPLAIN, WITH)."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 4,
+      "permissions": [
+        "ui"
+      ],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.sqlite-viewer.code-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.sqlite-viewer.code.zip",
+      "sha256": "ae0c28215e5bf389a34e48e5aa9698c0e8aa11ea826024a92320832bf98ccd1c",
+      "size": 25861,
+      "published": "2026-11-20",
+      "updated": "2026-11-20"
     }
-  ]
+  ],
+  "tree": [
+    {
+      "id": "themes",
+      "title": {
+        "de": "Themes",
+        "en": "Themes"
+      }
+    },
+    {
+      "id": "themes/dark",
+      "title": {
+        "de": "Dunkel",
+        "en": "Dark"
+      }
+    },
+    {
+      "id": "themes/light",
+      "title": {
+        "de": "Hell",
+        "en": "Light"
+      }
+    },
+    {
+      "id": "icons",
+      "title": {
+        "de": "Icon-Pakete",
+        "en": "Icon packs"
+      }
+    },
+    {
+      "id": "languages",
+      "title": {
+        "de": "Sprachen",
+        "en": "Languages"
+      }
+    },
+    {
+      "id": "languages/jvm",
+      "title": {
+        "de": "JVM",
+        "en": "JVM"
+      }
+    },
+    {
+      "id": "languages/jvm/kotlin",
+      "title": {
+        "de": "Kotlin",
+        "en": "Kotlin"
+      }
+    },
+    {
+      "id": "languages/jvm/java",
+      "title": {
+        "de": "Java",
+        "en": "Java"
+      }
+    },
+    {
+      "id": "languages/jvm/groovy",
+      "title": {
+        "de": "Groovy",
+        "en": "Groovy"
+      }
+    },
+    {
+      "id": "languages/web",
+      "title": {
+        "de": "Web",
+        "en": "Web"
+      }
+    },
+    {
+      "id": "languages/web/javascript",
+      "title": {
+        "de": "JavaScript",
+        "en": "JavaScript"
+      }
+    },
+    {
+      "id": "languages/web/typescript",
+      "title": {
+        "de": "TypeScript",
+        "en": "TypeScript"
+      }
+    },
+    {
+      "id": "languages/web/html",
+      "title": {
+        "de": "HTML",
+        "en": "HTML"
+      }
+    },
+    {
+      "id": "languages/web/css",
+      "title": {
+        "de": "CSS",
+        "en": "CSS"
+      }
+    },
+    {
+      "id": "languages/systems",
+      "title": {
+        "de": "Systemnah",
+        "en": "Systems"
+      }
+    },
+    {
+      "id": "languages/systems/c-cpp",
+      "title": {
+        "de": "C/C++",
+        "en": "C/C++"
+      }
+    },
+    {
+      "id": "languages/systems/rust",
+      "title": {
+        "de": "Rust",
+        "en": "Rust"
+      }
+    },
+    {
+      "id": "languages/systems/cmake",
+      "title": {
+        "de": "CMake",
+        "en": "CMake"
+      }
+    },
+    {
+      "id": "languages/python",
+      "title": {
+        "de": "Python",
+        "en": "Python"
+      }
+    },
+    {
+      "id": "languages/go",
+      "title": {
+        "de": "Go",
+        "en": "Go"
+      }
+    },
+    {
+      "id": "languages/dart",
+      "title": {
+        "de": "Dart/Flutter",
+        "en": "Dart/Flutter"
+      }
+    },
+    {
+      "id": "languages/shell",
+      "title": {
+        "de": "Shell",
+        "en": "Shell"
+      }
+    },
+    {
+      "id": "languages/data",
+      "title": {
+        "de": "Daten und Konfiguration",
+        "en": "Data and config"
+      }
+    },
+    {
+      "id": "languages/data/json",
+      "title": {
+        "de": "JSON",
+        "en": "JSON"
+      }
+    },
+    {
+      "id": "languages/data/yaml",
+      "title": {
+        "de": "YAML",
+        "en": "YAML"
+      }
+    },
+    {
+      "id": "languages/data/toml",
+      "title": {
+        "de": "TOML",
+        "en": "TOML"
+      }
+    },
+    {
+      "id": "languages/data/xml",
+      "title": {
+        "de": "XML",
+        "en": "XML"
+      }
+    },
+    {
+      "id": "languages/data/sql",
+      "title": {
+        "de": "SQL",
+        "en": "SQL"
+      }
+    },
+    {
+      "id": "languages/markup",
+      "title": {
+        "de": "Auszeichnung",
+        "en": "Markup"
+      }
+    },
+    {
+      "id": "languages/markup/markdown",
+      "title": {
+        "de": "Markdown",
+        "en": "Markdown"
+      }
+    },
+    {
+      "id": "languages/other",
+      "title": {
+        "de": "Weitere",
+        "en": "Other"
+      }
+    },
+    {
+      "id": "language-servers",
+      "title": {
+        "de": "Sprachserver",
+        "en": "Language servers"
+      }
+    },
+    {
+      "id": "formatters",
+      "title": {
+        "de": "Formatierer",
+        "en": "Formatters"
+      }
+    },
+    {
+      "id": "snippets",
+      "title": {
+        "de": "Snippets",
+        "en": "Snippets"
+      }
+    },
+    {
+      "id": "grammars",
+      "title": {
+        "de": "Grammatiken",
+        "en": "Grammars"
+      }
+    },
+    {
+      "id": "localization",
+      "title": {
+        "de": "Sprachpakete",
+        "en": "Language packs"
+      }
+    },
+    {
+      "id": "templates",
+      "title": {
+        "de": "Projektvorlagen",
+        "en": "Project templates"
+      }
+    },
+    {
+      "id": "templates/android",
+      "title": {
+        "de": "Android",
+        "en": "Android"
+      }
+    },
+    {
+      "id": "templates/jvm",
+      "title": {
+        "de": "JVM",
+        "en": "JVM"
+      }
+    },
+    {
+      "id": "tools",
+      "title": {
+        "de": "Werkzeuge",
+        "en": "Tools"
+      }
+    },
+    {
+      "id": "tools/project",
+      "title": {
+        "de": "Projekt",
+        "en": "Project"
+      }
+    },
+    {
+      "id": "tools/refactoring",
+      "title": {
+        "de": "Umbau",
+        "en": "Refactoring"
+      }
+    },
+    {
+      "id": "tools/import",
+      "title": {
+        "de": "Import",
+        "en": "Import"
+      }
+    },
+    {
+      "id": "tools/database",
+      "title": {
+        "de": "Datenbanken",
+        "en": "Databases"
+      }
+    },
+    {
+      "id": "tools/http",
+      "title": {
+        "de": "HTTP/APIs",
+        "en": "HTTP/APIs"
+      }
+    },
+    {
+      "id": "previews",
+      "title": {
+        "de": "Vorschauen",
+        "en": "Previews"
+      }
+    },
+    {
+      "id": "previews/markdown",
+      "title": {
+        "de": "Markdown",
+        "en": "Markdown"
+      }
+    },
+    {
+      "id": "previews/data",
+      "title": {
+        "de": "Daten",
+        "en": "Data"
+      }
+    },
+    {
+      "id": "build",
+      "title": {
+        "de": "Build",
+        "en": "Build"
+      }
+    },
+    {
+      "id": "build/gradle",
+      "title": {
+        "de": "Gradle",
+        "en": "Gradle"
+      }
+    },
+    {
+      "id": "build/tasks",
+      "title": {
+        "de": "Aufgaben",
+        "en": "Tasks"
+      }
+    },
+    {
+      "id": "testing",
+      "title": {
+        "de": "Tests",
+        "en": "Testing"
+      }
+    },
+    {
+      "id": "testing/python",
+      "title": {
+        "de": "Python",
+        "en": "Python"
+      }
+    },
+    {
+      "id": "bundles",
+      "title": {
+        "de": "Bundles",
+        "en": "Bundles"
+      }
+    },
+    {
+      "id": "bundles/language-packs",
+      "title": {
+        "de": "Sprachpakete",
+        "en": "Language bundles"
+      }
+    },
+    {
+      "id": "bundles/collections",
+      "title": {
+        "de": "Sammlungen",
+        "en": "Collections"
+      }
+    },
+    {
+      "id": "languages/other/lua",
+      "title": {
+        "de": "Lua",
+        "en": "Lua"
+      }
+    },
+    {
+      "id": "languages/other/php",
+      "title": {
+        "de": "Php",
+        "en": "Php"
+      }
+    },
+    {
+      "id": "languages/other/properties",
+      "title": {
+        "de": "Properties",
+        "en": "Properties"
+      }
+    },
+    {
+      "id": "languages/other/proto",
+      "title": {
+        "de": "Proto",
+        "en": "Proto"
+      }
+    },
+    {
+      "id": "languages/other/ruby",
+      "title": {
+        "de": "Ruby",
+        "en": "Ruby"
+      }
+    },
+    {
+      "id": "languages/other/swift",
+      "title": {
+        "de": "Swift",
+        "en": "Swift"
+      }
+    }
+  ],
+  "statsUrl": "https://scto.github.io/codeforge-store/stats.json",
+  "ratingUrl": "https://github.com/scto/codeforge-store/issues/new?template=rating.yml"
 }

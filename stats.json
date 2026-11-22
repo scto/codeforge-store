@@ -1,8 +1,8 @@
 {
  "schema": 1,
- "updated": "2026-11-21T03:58:13Z",
+ "updated": "2026-11-22T03:09:36Z",
  "totals": {
-  "downloads": 105,
+  "downloads": 129,
   "ratings": 0
  },
  "items": {
@@ -160,13 +160,13 @@
    "downloads": 0
   },
   "com.codeforge.plugin.c.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.cmake.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.cpp.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.css.grammar": {
    "downloads": 1
@@ -181,7 +181,7 @@
    "downloads": 1
   },
   "com.codeforge.plugin.groovy.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.html.grammar": {
    "downloads": 1
@@ -196,7 +196,7 @@
    "downloads": 1
   },
   "com.codeforge.plugin.markdown.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.php.grammar": {
    "downloads": 1
@@ -217,7 +217,7 @@
    "downloads": 1
   },
   "com.codeforge.plugin.shellscript.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.sql.grammar": {
    "downloads": 1
@@ -226,19 +226,19 @@
    "downloads": 1
   },
   "com.codeforge.plugin.toml.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.typescript.grammar": {
    "downloads": 1
   },
   "com.codeforge.plugin.yaml.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.c.snippets": {
    "downloads": 1
   },
   "com.codeforge.plugin.compose.snippets": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.cpp.snippets": {
    "downloads": 1
@@ -250,13 +250,13 @@
    "downloads": 1
   },
   "com.codeforge.plugin.java.snippets": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.javascript.snippets": {
    "downloads": 1
   },
   "com.codeforge.plugin.kotlin.snippets": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.python.snippets": {
    "downloads": 1
@@ -271,7 +271,7 @@
    "downloads": 1
   },
   "com.codeforge.plugin.xml.snippets": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.bash-language-server.lsp": {
    "downloads": 0
@@ -286,16 +286,16 @@
    "downloads": 0
   },
   "com.codeforge.plugin.jdtls.lsp": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.kmp-lsp.lsp": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.kotlin-language-server.lsp": {
    "downloads": 0
   },
   "com.codeforge.plugin.lemminx.lsp": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.neocmakelsp.lsp": {
    "downloads": 0
@@ -322,22 +322,22 @@
    "downloads": 0
   },
   "com.codeforge.plugin.compose-bottomnav.template": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.compose-clean.template": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.compose-drawer.template": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.compose-notes.template": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.compose-podcast.template": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.jvm-cli.template": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.gofmt.formatter": {
    "downloads": 1
@@ -427,7 +427,7 @@
    "downloads": 0
   },
   "com.codeforge.plugin.vscode-import.tool": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.data-viewer.code": {
    "downloads": 1
@@ -451,7 +451,7 @@
    "downloads": 1
   },
   "com.codeforge.plugin.text-tools.code": {
-   "downloads": 1
+   "downloads": 3
   }
  }
 }

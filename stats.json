@@ -1,8 +1,8 @@
 {
  "schema": 1,
- "updated": "2026-11-25T18:47:59Z",
+ "updated": "2026-11-25T19:00:53Z",
  "totals": {
-  "downloads": 14,
+  "downloads": 0,
   "ratings": 0
  },
  "items": {
@@ -499,25 +499,25 @@
    "downloads": 0
   },
   "com.codeforge.plugin.gradle-tasks.code": {
-   "downloads": 3
+   "downloads": 0
   },
   "com.codeforge.plugin.markdown-preview.code": {
-   "downloads": 3
+   "downloads": 0
   },
   "com.codeforge.plugin.python-tests.code": {
-   "downloads": 1
+   "downloads": 0
   },
   "com.codeforge.plugin.rest-client.code": {
    "downloads": 0
   },
   "com.codeforge.plugin.script-tasks.code": {
-   "downloads": 1
+   "downloads": 0
   },
   "com.codeforge.plugin.sqlite-viewer.code": {
-   "downloads": 1
+   "downloads": 0
   },
   "com.codeforge.plugin.text-tools.code": {
-   "downloads": 5
+   "downloads": 0
   }
  }
 }

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "categories": [
     {
       "id": "plugin",
@@ -150,6 +150,39 @@
       "updated": "2026-11-20"
     },
     {
+      "id": "com.codeforge.plugin.catppuccin-mocha.terminal",
+      "category": "theme",
+      "categories": [
+        "themes",
+        "themes/terminal"
+      ],
+      "tags": [
+        "terminal",
+        "dark",
+        "theme"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Catppuccin Mocha (Terminal)",
+        "en": "Catppuccin Mocha (Terminal)"
+      },
+      "summary": {
+        "de": "Terminal-Farbschema „Catppuccin Mocha“ (dunkel). Auswahl unter Einstellungen → Terminal → Farbschema.",
+        "en": "Terminal-Farbschema „Catppuccin Mocha“ (dunkel). Auswahl unter Einstellungen → Terminal → Farbschema."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.catppuccin-mocha.terminal-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.catppuccin-mocha.terminal.zip",
+      "sha256": "c0819f691226f1f65177604bc1427b72e1e0ca19a9f081e53a3e25e1025b5959",
+      "size": 974,
+      "published": "2026-11-26",
+      "updated": "2026-11-26"
+    },
+    {
       "id": "com.codeforge.plugin.catppuccin.theme",
       "category": "theme",
       "categories": [
@@ -250,6 +283,39 @@
       "size": 1008,
       "published": "2026-11-20",
       "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.dracula.terminal",
+      "category": "theme",
+      "categories": [
+        "themes",
+        "themes/terminal"
+      ],
+      "tags": [
+        "terminal",
+        "dark",
+        "theme"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Dracula (Terminal)",
+        "en": "Dracula (Terminal)"
+      },
+      "summary": {
+        "de": "Terminal-Farbschema „Dracula“ (dunkel). Auswahl unter Einstellungen → Terminal → Farbschema.",
+        "en": "Terminal-Farbschema „Dracula“ (dunkel). Auswahl unter Einstellungen → Terminal → Farbschema."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.dracula.terminal-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.dracula.terminal.zip",
+      "sha256": "c5babb834e818b411b81623686881f8923fc6ba29ebff71f5c1a09a48da62c55",
+      "size": 964,
+      "published": "2026-11-26",
+      "updated": "2026-11-26"
     },
     {
       "id": "com.codeforge.plugin.dracula.theme",
@@ -388,6 +454,39 @@
       "updated": "2026-11-20"
     },
     {
+      "id": "com.codeforge.plugin.github-light.terminal",
+      "category": "theme",
+      "categories": [
+        "themes",
+        "themes/terminal"
+      ],
+      "tags": [
+        "terminal",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "GitHub Light (Terminal)",
+        "en": "GitHub Light (Terminal)"
+      },
+      "summary": {
+        "de": "Terminal-Farbschema „GitHub Light“ (hell). Auswahl unter Einstellungen → Terminal → Farbschema.",
+        "en": "Terminal-Farbschema „GitHub Light“ (hell). Auswahl unter Einstellungen → Terminal → Farbschema."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.github-light.terminal-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.github-light.terminal.zip",
+      "sha256": "b55420d73dc7067487526862aed1d02b73af1cecb3fd92f327b84e1b29b4a012",
+      "size": 985,
+      "published": "2026-11-26",
+      "updated": "2026-11-26"
+    },
+    {
       "id": "com.codeforge.plugin.github-light.theme",
       "category": "theme",
       "categories": [
@@ -454,6 +553,39 @@
       "size": 3606,
       "published": "2026-11-20",
       "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.gruvbox-dark.terminal",
+      "category": "theme",
+      "categories": [
+        "themes",
+        "themes/terminal"
+      ],
+      "tags": [
+        "terminal",
+        "dark",
+        "theme"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Gruvbox Dark (Terminal)",
+        "en": "Gruvbox Dark (Terminal)"
+      },
+      "summary": {
+        "de": "Terminal-Farbschema „Gruvbox Dark“ (dunkel). Auswahl unter Einstellungen → Terminal → Farbschema.",
+        "en": "Terminal-Farbschema „Gruvbox Dark“ (dunkel). Auswahl unter Einstellungen → Terminal → Farbschema."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.gruvbox-dark.terminal-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.gruvbox-dark.terminal.zip",
+      "sha256": "7d6d03156df9a2b15c1e492d226df7758bc1f6f0367aff7772c0288c7f912806",
+      "size": 979,
+      "published": "2026-11-26",
+      "updated": "2026-11-26"
     },
     {
       "id": "com.codeforge.plugin.gruvbox.theme",
@@ -592,6 +724,39 @@
       "updated": "2026-11-20"
     },
     {
+      "id": "com.codeforge.plugin.monokai.terminal",
+      "category": "theme",
+      "categories": [
+        "themes",
+        "themes/terminal"
+      ],
+      "tags": [
+        "terminal",
+        "dark",
+        "theme"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Monokai (Terminal)",
+        "en": "Monokai (Terminal)"
+      },
+      "summary": {
+        "de": "Terminal-Farbschema „Monokai“ (dunkel). Auswahl unter Einstellungen → Terminal → Farbschema.",
+        "en": "Terminal-Farbschema „Monokai“ (dunkel). Auswahl unter Einstellungen → Terminal → Farbschema."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.monokai.terminal-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.monokai.terminal.zip",
+      "sha256": "d912dd435c32bf61722a37734ad55ae9e71b4d4f60fb69a1632484448d2f8380",
+      "size": 946,
+      "published": "2026-11-26",
+      "updated": "2026-11-26"
+    },
+    {
       "id": "com.codeforge.plugin.monokai.theme",
       "category": "theme",
       "categories": [
@@ -658,6 +823,39 @@
       "size": 3623,
       "published": "2026-11-20",
       "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.nord.terminal",
+      "category": "theme",
+      "categories": [
+        "themes",
+        "themes/terminal"
+      ],
+      "tags": [
+        "terminal",
+        "dark",
+        "theme"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Nord (Terminal)",
+        "en": "Nord (Terminal)"
+      },
+      "summary": {
+        "de": "Terminal-Farbschema „Nord“ (dunkel). Auswahl unter Einstellungen → Terminal → Farbschema.",
+        "en": "Terminal-Farbschema „Nord“ (dunkel). Auswahl unter Einstellungen → Terminal → Farbschema."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.nord.terminal-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.nord.terminal.zip",
+      "sha256": "cdc696f129fda689a40d1c2909b554a387aa8b4db88e19d9fe280d92493aa232",
+      "size": 949,
+      "published": "2026-11-26",
+      "updated": "2026-11-26"
     },
     {
       "id": "com.codeforge.plugin.nord.theme",
@@ -762,6 +960,39 @@
       "updated": "2026-11-20"
     },
     {
+      "id": "com.codeforge.plugin.one-dark.terminal",
+      "category": "theme",
+      "categories": [
+        "themes",
+        "themes/terminal"
+      ],
+      "tags": [
+        "terminal",
+        "dark",
+        "theme"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "One Dark (Terminal)",
+        "en": "One Dark (Terminal)"
+      },
+      "summary": {
+        "de": "Terminal-Farbschema „One Dark“ (dunkel). Auswahl unter Einstellungen → Terminal → Farbschema.",
+        "en": "Terminal-Farbschema „One Dark“ (dunkel). Auswahl unter Einstellungen → Terminal → Farbschema."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.one-dark.terminal-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.one-dark.terminal.zip",
+      "sha256": "65db392d127a08a55a762953f21f20b8aafeb5bfb745092d9e5c706ca68bc4ba",
+      "size": 953,
+      "published": "2026-11-26",
+      "updated": "2026-11-26"
+    },
+    {
       "id": "com.codeforge.plugin.one.theme",
       "category": "theme",
       "categories": [
@@ -864,6 +1095,39 @@
       "updated": "2026-11-20"
     },
     {
+      "id": "com.codeforge.plugin.solarized-dark.terminal",
+      "category": "theme",
+      "categories": [
+        "themes",
+        "themes/terminal"
+      ],
+      "tags": [
+        "terminal",
+        "dark",
+        "theme"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Solarized Dark (Terminal)",
+        "en": "Solarized Dark (Terminal)"
+      },
+      "summary": {
+        "de": "Terminal-Farbschema „Solarized Dark“ (dunkel). Auswahl unter Einstellungen → Terminal → Farbschema.",
+        "en": "Terminal-Farbschema „Solarized Dark“ (dunkel). Auswahl unter Einstellungen → Terminal → Farbschema."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.solarized-dark.terminal-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.solarized-dark.terminal.zip",
+      "sha256": "ca86a243f52fb67cc00045351fe896b8283d3c474ddca1a51359b3589b72caa9",
+      "size": 984,
+      "published": "2026-11-26",
+      "updated": "2026-11-26"
+    },
+    {
       "id": "com.codeforge.plugin.solarized-dark.theme",
       "category": "theme",
       "categories": [
@@ -896,6 +1160,39 @@
       "size": 1016,
       "published": "2026-11-20",
       "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.solarized-light.terminal",
+      "category": "theme",
+      "categories": [
+        "themes",
+        "themes/terminal"
+      ],
+      "tags": [
+        "terminal",
+        "light",
+        "theme"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Solarized Light (Terminal)",
+        "en": "Solarized Light (Terminal)"
+      },
+      "summary": {
+        "de": "Terminal-Farbschema „Solarized Light“ (hell). Auswahl unter Einstellungen → Terminal → Farbschema.",
+        "en": "Terminal-Farbschema „Solarized Light“ (hell). Auswahl unter Einstellungen → Terminal → Farbschema."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.solarized-light.terminal-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.solarized-light.terminal.zip",
+      "sha256": "b1d02dca259dd6e6b40c223bfb0079fa25ac1446dd8ff2baddca4baa25acb870",
+      "size": 982,
+      "published": "2026-11-26",
+      "updated": "2026-11-26"
     },
     {
       "id": "com.codeforge.plugin.solarized.theme",
@@ -964,6 +1261,39 @@
       "size": 1008,
       "published": "2026-11-20",
       "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.tokyo-night.terminal",
+      "category": "theme",
+      "categories": [
+        "themes",
+        "themes/terminal"
+      ],
+      "tags": [
+        "terminal",
+        "dark",
+        "theme"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Tokyo Night (Terminal)",
+        "en": "Tokyo Night (Terminal)"
+      },
+      "summary": {
+        "de": "Terminal-Farbschema „Tokyo Night“ (dunkel). Auswahl unter Einstellungen → Terminal → Farbschema.",
+        "en": "Terminal-Farbschema „Tokyo Night“ (dunkel). Auswahl unter Einstellungen → Terminal → Farbschema."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.tokyo-night.terminal-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.tokyo-night.terminal.zip",
+      "sha256": "e33140d9ccf387b0a758781150c8f049fd8c39d5d3ca5be41ae07841013b992b",
+      "size": 960,
+      "published": "2026-11-26",
+      "updated": "2026-11-26"
     },
     {
       "id": "com.codeforge.plugin.tokyo-night.theme",
@@ -4006,17 +4336,17 @@
         "de": "Projektvorlage für Plugin-Autoren: Werkzeuge für den KI-Agenten (nur Sideload). Anpassen, mit ./gradlew packagePlugin bauen, installieren und als ZIP weitergeben.",
         "en": "Projektvorlage für Plugin-Autoren: Werkzeuge für den KI-Agenten (nur Sideload). Anpassen, mit ./gradlew packagePlugin bauen, installieren und als ZIP weitergeben."
       },
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-agent-tool.template-1.0.0.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-agent-tool.template-1.1.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-agent-tool.template.zip",
-      "sha256": "a0b3c23da43b44c897c9dc711c3524c3e95d6c4eb96ddb45f645b1d972bc4c9f",
-      "size": 10929,
+      "sha256": "7e4af0c9615358a3a144006c13f923a767bcde8faa8c2492568e2df6d1a52860",
+      "size": 10936,
       "published": "2026-11-25",
-      "updated": "2026-11-25"
+      "updated": "2026-11-26"
     },
     {
       "id": "com.codeforge.plugin.plugin-code-plugin.template",
@@ -4038,17 +4368,17 @@
         "de": "Projektvorlage für Plugin-Autoren: Kotlin-Plugin mit Befehl, Menü und Ereignissen (nur Sideload). Anpassen, mit ./gradlew packagePlugin bauen, installieren und als ZIP weitergeben.",
         "en": "Projektvorlage für Plugin-Autoren: Kotlin-Plugin mit Befehl, Menü und Ereignissen (nur Sideload). Anpassen, mit ./gradlew packagePlugin bauen, installieren und als ZIP weitergeben."
       },
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-code-plugin.template-1.0.0.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-code-plugin.template-1.1.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-code-plugin.template.zip",
-      "sha256": "9c2811f7539dee1ef84ff29da89adb8721feb683086e815aeb710eeda72ae2e8",
-      "size": 158308,
+      "sha256": "947c982e865c6ed0b273f0183fc90703f8478527d5ec747cc81325fae8d0cd92",
+      "size": 158309,
       "published": "2026-11-25",
-      "updated": "2026-11-25"
+      "updated": "2026-11-26"
     },
     {
       "id": "com.codeforge.plugin.plugin-code-sandbox.template",
@@ -4070,17 +4400,17 @@
         "de": "Projektvorlage für Plugin-Autoren: Kotlin-Plugin mit Editor-Aktion, läuft isoliert – Store-fähig. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
         "en": "Projektvorlage für Plugin-Autoren: Kotlin-Plugin mit Editor-Aktion, läuft isoliert – Store-fähig. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-code-sandbox.template-1.0.0.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-code-sandbox.template-1.1.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-code-sandbox.template.zip",
-      "sha256": "5cbb845c5baef518a54be219acdef9de0f725a99f7fc1cd034100b7cb546c9e0",
-      "size": 158047,
+      "sha256": "d94ee32a4709a7ab2be450410364c608e4a9b58ba5ba3fdceae0ca2c1e7d9f03",
+      "size": 158048,
       "published": "2026-11-25",
-      "updated": "2026-11-25"
+      "updated": "2026-11-26"
     },
     {
       "id": "com.codeforge.plugin.plugin-color-theme.template",
@@ -4102,17 +4432,17 @@
         "de": "Projektvorlage für Plugin-Autoren: App-Farbschema (Material-3-Rollen) mit TextMate-Editor-Theme. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
         "en": "Projektvorlage für Plugin-Autoren: App-Farbschema (Material-3-Rollen) mit TextMate-Editor-Theme. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-color-theme.template-1.0.0.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-color-theme.template-1.1.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-color-theme.template.zip",
-      "sha256": "52cf3e64a3b800f61a366ff1497f47ccf870740f835ce78c788d83398a4a4eaa",
-      "size": 12127,
+      "sha256": "c3ac3280a84ee93683007bc69e474ba4ccd1712179fb1bab28f705860ff1e901",
+      "size": 12134,
       "published": "2026-11-25",
-      "updated": "2026-11-25"
+      "updated": "2026-11-26"
     },
     {
       "id": "com.codeforge.plugin.plugin-extension-pack.template",
@@ -4134,17 +4464,17 @@
         "de": "Projektvorlage für Plugin-Autoren: Paket, das mehrere Plugins gemeinsam installiert. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
         "en": "Projektvorlage für Plugin-Autoren: Paket, das mehrere Plugins gemeinsam installiert. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-extension-pack.template-1.0.0.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-extension-pack.template-1.1.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-extension-pack.template.zip",
-      "sha256": "53bb50e9402f6cd7577743749035de52d6223876a2722c43481b05b76f86f108",
-      "size": 11536,
+      "sha256": "089a9448a377b6daefbb4c19e147c33b931502384fb73bc19efbcb08a33b0402",
+      "size": 11543,
       "published": "2026-11-25",
-      "updated": "2026-11-25"
+      "updated": "2026-11-26"
     },
     {
       "id": "com.codeforge.plugin.plugin-formatter.template",
@@ -4166,17 +4496,17 @@
         "de": "Projektvorlage für Plugin-Autoren: Externer Code-Formatierer (stdin → stdout). Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
         "en": "Projektvorlage für Plugin-Autoren: Externer Code-Formatierer (stdin → stdout). Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-formatter.template-1.0.0.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-formatter.template-1.1.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-formatter.template.zip",
-      "sha256": "6945db1faf2bbde2832ee1e942c48ed4e052d98c4a8d7fb3be316000866a730b",
-      "size": 9468,
+      "sha256": "5f275f0654aa2bae4a53473994d1b7e084fce7b1857a51afd06933931cd691eb",
+      "size": 9475,
       "published": "2026-11-25",
-      "updated": "2026-11-25"
+      "updated": "2026-11-26"
     },
     {
       "id": "com.codeforge.plugin.plugin-grammar.template",
@@ -4198,17 +4528,17 @@
         "de": "Projektvorlage für Plugin-Autoren: TextMate-Grammatik: Syntaxfarben für einen eigenen Dateityp. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
         "en": "Projektvorlage für Plugin-Autoren: TextMate-Grammatik: Syntaxfarben für einen eigenen Dateityp. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-grammar.template-1.0.0.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-grammar.template-1.1.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-grammar.template.zip",
-      "sha256": "b451b8ecf7bea99d02ec45d71647d1434d11f1bfadf271f91298cf7e621e73a2",
-      "size": 10834,
+      "sha256": "d04ca4285d76551fd3789044f913d52d2caed19c4dbb55b77a31cca04f6dd0e4",
+      "size": 10841,
       "published": "2026-11-25",
-      "updated": "2026-11-25"
+      "updated": "2026-11-26"
     },
     {
       "id": "com.codeforge.plugin.plugin-icon-theme.template",
@@ -4230,17 +4560,17 @@
         "de": "Projektvorlage für Plugin-Autoren: Datei- und Ordner-Icons nach Endung, Name und Ordner. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
         "en": "Projektvorlage für Plugin-Autoren: Datei- und Ordner-Icons nach Endung, Name und Ordner. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-icon-theme.template-1.0.0.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-icon-theme.template-1.1.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-icon-theme.template.zip",
-      "sha256": "6e340c5bdf306d13a5c85bdf7414ec5a7202f22f675bac05291230f164b63c32",
-      "size": 11763,
+      "sha256": "3fd9e633b19e30128b08dcba2d8f4c5d4eadd2f9d8cbf89aa45aa3c01528a10a",
+      "size": 11770,
       "published": "2026-11-25",
-      "updated": "2026-11-25"
+      "updated": "2026-11-26"
     },
     {
       "id": "com.codeforge.plugin.plugin-language-pack.template",
@@ -4262,17 +4592,17 @@
         "de": "Projektvorlage für Plugin-Autoren: Übersetzung der App-Oberfläche. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
         "en": "Projektvorlage für Plugin-Autoren: Übersetzung der App-Oberfläche. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-language-pack.template-1.0.0.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-language-pack.template-1.1.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-language-pack.template.zip",
-      "sha256": "5e178c23cd3fcd2ff9f837886512e70307002f955a9f1340e7b260fbe8942b6b",
-      "size": 9708,
+      "sha256": "45b5521204f0b2466fe4e08717791d3c571a917c2aa4ae98db08230a9c34b3b8",
+      "size": 9715,
       "published": "2026-11-25",
-      "updated": "2026-11-25"
+      "updated": "2026-11-26"
     },
     {
       "id": "com.codeforge.plugin.plugin-lsp-server.template",
@@ -4294,17 +4624,17 @@
         "de": "Projektvorlage für Plugin-Autoren: Anbindung eines Language Servers (LSP) inklusive Installation. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
         "en": "Projektvorlage für Plugin-Autoren: Anbindung eines Language Servers (LSP) inklusive Installation. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-lsp-server.template-1.0.0.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-lsp-server.template-1.1.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-lsp-server.template.zip",
-      "sha256": "fd8a9a7b3bfc44dc448a4610eacb563ed803371cd815c05df22df1a08e2ab131",
-      "size": 10732,
+      "sha256": "67504226417eff428218a522c3ae682d3ab78ceab054683e96128a03bd8e075f",
+      "size": 10739,
       "published": "2026-11-25",
-      "updated": "2026-11-25"
+      "updated": "2026-11-26"
     },
     {
       "id": "com.codeforge.plugin.plugin-project-template.template",
@@ -4326,17 +4656,17 @@
         "de": "Projektvorlage für Plugin-Autoren: Eigene Vorlage für den Projekt-Assistenten. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
         "en": "Projektvorlage für Plugin-Autoren: Eigene Vorlage für den Projekt-Assistenten. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-project-template.template-1.0.0.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-project-template.template-1.1.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-project-template.template.zip",
-      "sha256": "9d6322fe494dffe8113861aea29e901368b7c783ee0aefcb2f8ba3caa1381b72",
-      "size": 11079,
+      "sha256": "029d170126859d524b6f9655de40f37e4cbb928a3a9692e751ad56db600d6245",
+      "size": 11086,
       "published": "2026-11-25",
-      "updated": "2026-11-25"
+      "updated": "2026-11-26"
     },
     {
       "id": "com.codeforge.plugin.plugin-snippets.template",
@@ -4358,17 +4688,49 @@
         "de": "Projektvorlage für Plugin-Autoren: Code-Bausteine mit Kürzel und Platzhaltern. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
         "en": "Projektvorlage für Plugin-Autoren: Code-Bausteine mit Kürzel und Platzhaltern. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-snippets.template-1.0.0.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-snippets.template-1.1.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-snippets.template.zip",
-      "sha256": "36eed123eea65c26bcec896cab6e2469071ef5ebc53d3c99787efc042a2acb05",
-      "size": 10724,
+      "sha256": "3d68195fc02e530af9f30e4c31f3f9ec92633c8a6db30a45da08d5829fcca0ad",
+      "size": 10731,
       "published": "2026-11-25",
-      "updated": "2026-11-25"
+      "updated": "2026-11-26"
+    },
+    {
+      "id": "com.codeforge.plugin.plugin-terminal-theme.template",
+      "category": "template",
+      "categories": [
+        "templates",
+        "templates/jvm"
+      ],
+      "tags": [
+        "kotlin",
+        "template"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Plugin · Terminal-Farbschema (Projektvorlage)",
+        "en": "Plugin · Terminal-Farbschema (Projektvorlage)"
+      },
+      "summary": {
+        "de": "Projektvorlage für Plugin-Autoren: Farben des Terminals (Termux colors.properties). Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
+        "en": "Projektvorlage für Plugin-Autoren: Farben des Terminals (Termux colors.properties). Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
+      },
+      "version": "1.1.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-terminal-theme.template-1.1.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-terminal-theme.template.zip",
+      "sha256": "e752e32b48379bb4a9dbc6ce2295ce0f576ef5f825ee221485dbcfdb2234707f",
+      "size": 12180,
+      "published": "2026-11-26",
+      "updated": "2026-11-26"
     },
     {
       "id": "com.codeforge.plugin.plugin-tool.template",
@@ -4390,17 +4752,17 @@
         "de": "Projektvorlage für Plugin-Autoren: Befehl im PT-Menü des Dateibaums (Skript, Eingabe, Zeitlimit). Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
         "en": "Projektvorlage für Plugin-Autoren: Befehl im PT-Menü des Dateibaums (Skript, Eingabe, Zeitlimit). Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-tool.template-1.0.0.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-tool.template-1.1.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-tool.template.zip",
-      "sha256": "336bba9fab206a5c87810e179f6b87b67a04331c74e00e42e600805a3e286600",
-      "size": 11310,
+      "sha256": "0266743557d3210b500097a3f274414596344b76fbfd8969b371f7f0b43c866b",
+      "size": 11317,
       "published": "2026-11-25",
-      "updated": "2026-11-25"
+      "updated": "2026-11-26"
     },
     {
       "id": "com.codeforge.plugin.gofmt.formatter",
@@ -4793,6 +5155,37 @@
       "updated": "2026-11-20"
     },
     {
+      "id": "com.codeforge.plugin.all-terminal-themes.bundle",
+      "category": "bundle",
+      "categories": [
+        "bundles",
+        "bundles/collections"
+      ],
+      "tags": [
+        "bundle"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Alle Terminal-Farbschemata (Bundle)",
+        "en": "Alle Terminal-Farbschemata (Bundle)"
+      },
+      "summary": {
+        "de": "Installiert alle 10 Terminal-Farbschemata des Stores.",
+        "en": "Installiert alle 10 Terminal-Farbschemata des Stores."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.all-terminal-themes.bundle-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-terminal-themes.bundle.zip",
+      "sha256": "5aa9fe4d1362b2c655827fbf0518311e165048a720676b9019fb607d91f82716",
+      "size": 640,
+      "published": "2026-11-26",
+      "updated": "2026-11-26"
+    },
+    {
       "id": "com.codeforge.plugin.all-themes.bundle",
       "category": "bundle",
       "categories": [
@@ -4808,8 +5201,8 @@
         "en": "Alle Themes (Bundle)"
       },
       "summary": {
-        "de": "Alle Farbschemata von CodeForge als Bundle (30 Pakete).",
-        "en": "Alle Farbschemata von CodeForge als Bundle (30 Pakete)."
+        "de": "Alle Farbschemata von CodeForge als Bundle (40 Pakete).",
+        "en": "Alle Farbschemata von CodeForge als Bundle (40 Pakete)."
       },
       "version": "1.0.0",
       "author": "codeforge",
@@ -4818,8 +5211,8 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.all-themes.bundle-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-themes.bundle.zip",
-      "sha256": "d5759ca14989f6d44d674a49e19a6d55d93a349728f642e5f151eee31d35dcfd",
-      "size": 743,
+      "sha256": "55e736500d595cbb158d03cc2e0e5cfb37518404d1ddb8ea3faf1077eb44f914",
+      "size": 796,
       "published": "2026-11-20",
       "updated": "2026-11-20"
     },
@@ -5716,6 +6109,13 @@
       "title": {
         "de": "Hell",
         "en": "Light"
+      }
+    },
+    {
+      "id": "themes/terminal",
+      "title": {
+        "de": "Terminal",
+        "en": "Terminal"
       }
     },
     {

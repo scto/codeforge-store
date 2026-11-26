@@ -1,8 +1,8 @@
 {
  "schema": 1,
- "updated": "2026-11-26T01:07:48Z",
+ "updated": "2026-11-26T05:01:46Z",
  "totals": {
-  "downloads": 59,
+  "downloads": 95,
   "ratings": 0
  },
  "items": {
@@ -28,7 +28,7 @@
    "downloads": 0
   },
   "com.codeforge.plugin.dracula.theme": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.eclipse.theme": {
    "downloads": 0
@@ -133,10 +133,10 @@
    "downloads": 0
   },
   "com.codeforge.plugin.ember.icons": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.frost.icons": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.lagoon.icons": {
    "downloads": 0
@@ -145,7 +145,7 @@
    "downloads": 0
   },
   "com.codeforge.plugin.neon.icons": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.obsidian.icons": {
    "downloads": 2
@@ -319,7 +319,7 @@
    "downloads": 0
   },
   "com.codeforge.plugin.kmp-lsp.lsp": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.kotlin-language-server.lsp": {
    "downloads": 0
@@ -352,91 +352,91 @@
    "downloads": 0
   },
   "com.codeforge.plugin.android-basic-activity.template": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.android-bottom-navigation.template": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.android-compose-empty.template": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.android-empty-activity.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.android-native-cpp.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.android-navigation-drawer.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.android-no-activity.template": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.android-no-androidx.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.android-tabs.template": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.compose-bottomnav.template": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.compose-clean.template": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.compose-drawer.template": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.compose-notes.template": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.compose-podcast.template": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.jvm-cli.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.plugin-agent-tool.template": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.plugin-code-plugin.template": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.plugin-code-sandbox.template": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.plugin-color-theme.template": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.plugin-extension-pack.template": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.plugin-formatter.template": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.plugin-grammar.template": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.plugin-icon-theme.template": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.plugin-language-pack.template": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.plugin-lsp-server.template": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.plugin-project-template.template": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.plugin-snippets.template": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.plugin-terminal-theme.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.plugin-tool.template": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.gofmt.formatter": {
    "downloads": 0
@@ -538,7 +538,7 @@
    "downloads": 2
   },
   "com.codeforge.plugin.markdown-preview.code": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.python-tests.code": {
    "downloads": 0
@@ -553,7 +553,7 @@
    "downloads": 0
   },
   "com.codeforge.plugin.text-tools.code": {
-   "downloads": 2
+   "downloads": 3
   }
  }
 }

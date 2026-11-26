@@ -5211,7 +5211,7 @@
       "homepage": "https://github.com/scto/CodeForgeMobile",
       "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.all-themes.bundle-1.0.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-themes.bundle.zip",
-      "sha256": "55e736500d595cbb158d03cc2e0e5cfb37518404d1ddb8ea3faf1077eb44f914",
+      "sha256": "641553e5e73f657980771f4714fd814ff249142500ffd7a63d400af23b5c913f",
       "size": 796,
       "published": "2026-11-20",
       "updated": "2026-11-20"
@@ -5465,6 +5465,41 @@
       "updated": "2026-11-20"
     },
     {
+      "id": "com.codeforge.plugin.agp9-migrate.tool",
+      "category": "tool",
+      "categories": [
+        "tools",
+        "tools/refactoring"
+      ],
+      "tags": [
+        "android",
+        "gradle",
+        "tool"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "AGP-9-Migration (Tool)",
+        "en": "AGP-9-Migration (Tool)"
+      },
+      "summary": {
+        "de": "Stellt ein Android-Projekt auf Android Gradle Plugin 9.0 um: AGP-, Gradle- (9.1) und Kotlin-Version (2.2.10), eingebautes Kotlin (Plugin kotlin-android entfernen, kotlinOptions -> kotlin.compilerOptions), kapt -> legacy-kapt, entfernte gradle.properties-Schalter und DSL (dexOptions, CommonExtension<…>); meldet alte Variant-API und andere Handarbeit. Erscheint im PT-Menü des Dateibaums. Führt Skripte aus (Berechtigung shell).",
+        "en": "Stellt ein Android-Projekt auf Android Gradle Plugin 9.0 um: AGP-, Gradle- (9.1) und Kotlin-Version (2.2.10), eingebautes Kotlin (Plugin kotlin-android entfernen, kotlinOptions -> kotlin.compilerOptions), kapt -> legacy-kapt, entfernte gradle.properties-Schalter und DSL (dexOptions, CommonExtension<…>); meldet alte Variant-API und andere Handarbeit. Erscheint im PT-Menü des Dateibaums. Führt Skripte aus (Berechtigung shell)."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [
+        "shell"
+      ],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.agp9-migrate.tool-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.agp9-migrate.tool.zip",
+      "sha256": "97160d1875b4aec8425eea8c025f15e9dc4470bba374e37e76f52e6877da0689",
+      "size": 8673,
+      "published": "2026-11-26",
+      "updated": "2026-11-26"
+    },
+    {
       "id": "com.codeforge.plugin.androidx-migrate.tool",
       "category": "tool",
       "categories": [
@@ -5533,6 +5568,41 @@
       "size": 3265,
       "published": "2026-11-20",
       "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.debugger.feature",
+      "category": "tool",
+      "categories": [
+        "tools",
+        "tools/debug"
+      ],
+      "tags": [
+        "debugger",
+        "breakpoints",
+        "jvm",
+        "android",
+        "tool"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Debugger",
+        "en": "Debugger"
+      },
+      "summary": {
+        "de": "Schaltet den eingebauten Debugger frei: Haltepunkte in der Randspalte (mit Bedingung und Log-Meldung), Haltepunkt-Übersicht, Debug-Leiste mit JVM-, Android- (ADB/JDWP) und DAP-Sitzungen, Variablen, Aufrufstapel und Ausdrucksauswertung. Ohne dieses Plugin sind alle Debugger-Elemente ausgeblendet; deaktivieren blendet sie wieder aus.",
+        "en": "Schaltet den eingebauten Debugger frei: Haltepunkte in der Randspalte (mit Bedingung und Log-Meldung), Haltepunkt-Übersicht, Debug-Leiste mit JVM-, Android- (ADB/JDWP) und DAP-Sitzungen, Variablen, Aufrufstapel und Ausdrucksauswertung. Ohne dieses Plugin sind alle Debugger-Elemente ausgeblendet; deaktivieren blendet sie wieder aus."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.debugger.feature-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.debugger.feature.zip",
+      "sha256": "61ac7a27b027f98dba0dc91d7c54df71620cafd828dfcb22f76d25cb69e02e40",
+      "size": 710,
+      "published": "2026-11-26",
+      "updated": "2026-11-26"
     },
     {
       "id": "com.codeforge.plugin.format-all.tool",
@@ -6417,6 +6487,13 @@
       "title": {
         "de": "Text",
         "en": "Text"
+      }
+    },
+    {
+      "id": "tools/debug",
+      "title": {
+        "de": "Debugger",
+        "en": "Debugger"
       }
     },
     {

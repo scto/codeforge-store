@@ -1,8 +1,8 @@
 {
  "schema": 1,
- "updated": "2026-11-25T19:00:53Z",
+ "updated": "2026-11-26T01:07:48Z",
  "totals": {
-  "downloads": 0,
+  "downloads": 59,
   "ratings": 0
  },
  "items": {
@@ -12,6 +12,9 @@
   "com.codeforge.plugin.ayu.theme": {
    "downloads": 0
   },
+  "com.codeforge.plugin.catppuccin-mocha.terminal": {
+   "downloads": 0
+  },
   "com.codeforge.plugin.catppuccin.theme": {
    "downloads": 0
   },
@@ -19,10 +22,13 @@
    "downloads": 0
   },
   "com.codeforge.plugin.darcula.theme": {
+   "downloads": 2
+  },
+  "com.codeforge.plugin.dracula.terminal": {
    "downloads": 0
   },
   "com.codeforge.plugin.dracula.theme": {
-   "downloads": 0
+   "downloads": 2
   },
   "com.codeforge.plugin.eclipse.theme": {
    "downloads": 0
@@ -33,10 +39,16 @@
   "com.codeforge.plugin.forest.theme": {
    "downloads": 0
   },
+  "com.codeforge.plugin.github-light.terminal": {
+   "downloads": 0
+  },
   "com.codeforge.plugin.github-light.theme": {
    "downloads": 0
   },
   "com.codeforge.plugin.github.theme": {
+   "downloads": 0
+  },
+  "com.codeforge.plugin.gruvbox-dark.terminal": {
    "downloads": 0
   },
   "com.codeforge.plugin.gruvbox.theme": {
@@ -51,10 +63,16 @@
   "com.codeforge.plugin.monochrome.theme": {
    "downloads": 0
   },
+  "com.codeforge.plugin.monokai.terminal": {
+   "downloads": 0
+  },
   "com.codeforge.plugin.monokai.theme": {
    "downloads": 0
   },
   "com.codeforge.plugin.night-owl.theme": {
+   "downloads": 0
+  },
+  "com.codeforge.plugin.nord.terminal": {
    "downloads": 0
   },
   "com.codeforge.plugin.nord.theme": {
@@ -66,6 +84,9 @@
   "com.codeforge.plugin.ocean.theme": {
    "downloads": 0
   },
+  "com.codeforge.plugin.one-dark.terminal": {
+   "downloads": 0
+  },
   "com.codeforge.plugin.one.theme": {
    "downloads": 0
   },
@@ -75,13 +96,22 @@
   "com.codeforge.plugin.rose-pine.theme": {
    "downloads": 0
   },
+  "com.codeforge.plugin.solarized-dark.terminal": {
+   "downloads": 0
+  },
   "com.codeforge.plugin.solarized-dark.theme": {
+   "downloads": 0
+  },
+  "com.codeforge.plugin.solarized-light.terminal": {
    "downloads": 0
   },
   "com.codeforge.plugin.solarized.theme": {
    "downloads": 0
   },
   "com.codeforge.plugin.sunset.theme": {
+   "downloads": 0
+  },
+  "com.codeforge.plugin.tokyo-night.terminal": {
    "downloads": 0
   },
   "com.codeforge.plugin.tokyo-night.theme": {
@@ -103,10 +133,10 @@
    "downloads": 0
   },
   "com.codeforge.plugin.ember.icons": {
-   "downloads": 0
+   "downloads": 2
   },
   "com.codeforge.plugin.frost.icons": {
-   "downloads": 0
+   "downloads": 2
   },
   "com.codeforge.plugin.lagoon.icons": {
    "downloads": 0
@@ -115,10 +145,10 @@
    "downloads": 0
   },
   "com.codeforge.plugin.neon.icons": {
-   "downloads": 0
+   "downloads": 2
   },
   "com.codeforge.plugin.obsidian.icons": {
-   "downloads": 0
+   "downloads": 2
   },
   "com.codeforge.plugin.paper.icons": {
    "downloads": 0
@@ -127,7 +157,7 @@
    "downloads": 0
   },
   "com.codeforge.plugin.slate.icons": {
-   "downloads": 0
+   "downloads": 2
   },
   "com.codeforge.plugin.lang-es.language": {
    "downloads": 0
@@ -277,7 +307,7 @@
    "downloads": 0
   },
   "com.codeforge.plugin.clangd.lsp": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.dart.lsp": {
    "downloads": 0
@@ -289,13 +319,13 @@
    "downloads": 0
   },
   "com.codeforge.plugin.kmp-lsp.lsp": {
-   "downloads": 0
+   "downloads": 2
   },
   "com.codeforge.plugin.kotlin-language-server.lsp": {
    "downloads": 0
   },
   "com.codeforge.plugin.lemminx.lsp": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.neocmakelsp.lsp": {
    "downloads": 0
@@ -322,13 +352,13 @@
    "downloads": 0
   },
   "com.codeforge.plugin.android-basic-activity.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.android-bottom-navigation.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.android-compose-empty.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.android-empty-activity.template": {
    "downloads": 0
@@ -340,70 +370,73 @@
    "downloads": 0
   },
   "com.codeforge.plugin.android-no-activity.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.android-no-androidx.template": {
    "downloads": 0
   },
   "com.codeforge.plugin.android-tabs.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.compose-bottomnav.template": {
-   "downloads": 0
+   "downloads": 2
   },
   "com.codeforge.plugin.compose-clean.template": {
-   "downloads": 0
+   "downloads": 2
   },
   "com.codeforge.plugin.compose-drawer.template": {
-   "downloads": 0
+   "downloads": 2
   },
   "com.codeforge.plugin.compose-notes.template": {
-   "downloads": 0
+   "downloads": 2
   },
   "com.codeforge.plugin.compose-podcast.template": {
-   "downloads": 0
+   "downloads": 2
   },
   "com.codeforge.plugin.jvm-cli.template": {
    "downloads": 0
   },
   "com.codeforge.plugin.plugin-agent-tool.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.plugin-code-plugin.template": {
-   "downloads": 0
+   "downloads": 2
   },
   "com.codeforge.plugin.plugin-code-sandbox.template": {
-   "downloads": 0
+   "downloads": 2
   },
   "com.codeforge.plugin.plugin-color-theme.template": {
-   "downloads": 0
+   "downloads": 2
   },
   "com.codeforge.plugin.plugin-extension-pack.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.plugin-formatter.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.plugin-grammar.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.plugin-icon-theme.template": {
-   "downloads": 0
+   "downloads": 2
   },
   "com.codeforge.plugin.plugin-language-pack.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.plugin-lsp-server.template": {
-   "downloads": 0
+   "downloads": 2
   },
   "com.codeforge.plugin.plugin-project-template.template": {
-   "downloads": 0
+   "downloads": 2
   },
   "com.codeforge.plugin.plugin-snippets.template": {
+   "downloads": 1
+  },
+  "com.codeforge.plugin.plugin-terminal-theme.template": {
    "downloads": 0
   },
   "com.codeforge.plugin.plugin-tool.template": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.gofmt.formatter": {
    "downloads": 0
@@ -439,6 +472,9 @@
    "downloads": 0
   },
   "com.codeforge.plugin.all-snippets.bundle": {
+   "downloads": 0
+  },
+  "com.codeforge.plugin.all-terminal-themes.bundle": {
    "downloads": 0
   },
   "com.codeforge.plugin.all-themes.bundle": {
@@ -493,16 +529,16 @@
    "downloads": 0
   },
   "com.codeforge.plugin.vscode-import.tool": {
-   "downloads": 0
+   "downloads": 2
   },
   "com.codeforge.plugin.data-viewer.code": {
    "downloads": 0
   },
   "com.codeforge.plugin.gradle-tasks.code": {
-   "downloads": 0
+   "downloads": 2
   },
   "com.codeforge.plugin.markdown-preview.code": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.python-tests.code": {
    "downloads": 0
@@ -517,7 +553,7 @@
    "downloads": 0
   },
   "com.codeforge.plugin.text-tools.code": {
-   "downloads": 0
+   "downloads": 2
   }
  }
 }

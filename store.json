@@ -5061,18 +5061,18 @@
         "en": "google-java-format (Formatierer)"
       },
       "summary": {
-        "de": "Formatiert Java mit google-java-format 1.36.1 (Google- oder AOSP-Stil). Einstellungsseite für alle Optionen der Kommandozeile.",
-        "en": "Formatiert Java mit google-java-format 1.36.1 (Google- oder AOSP-Stil). Einstellungsseite für alle Optionen der Kommandozeile."
+        "de": "Formatiert Java mit google-java-format 1.37.0 (Google- oder AOSP-Stil). Einstellungsseite für alle Optionen der Kommandozeile.",
+        "en": "Formatiert Java mit google-java-format 1.37.0 (Google- oder AOSP-Stil). Einstellungsseite für alle Optionen der Kommandozeile."
       },
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.google-java-format.formatter-1.0.0.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.google-java-format.formatter-1.0.1.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.google-java-format.formatter.zip",
-      "sha256": "14609fd1a1cb9d75c782807631fc9c6929fa5bab8be8ea32e511632c941ea2c5",
-      "size": 1545,
+      "sha256": "bc1fc2ea66864759acba39945bff91b33eb47a788b3fd9f80e80d76e46706979",
+      "size": 1627,
       "published": "2026-11-27",
       "updated": "2026-11-27"
     },
@@ -5093,18 +5093,18 @@
         "en": "ktfmt (Formatierer)"
       },
       "summary": {
-        "de": "Formatiert Kotlin mit ktfmt 0.64 (Kotlinlang-, Google- oder Meta-Stil). Einstellungsseite für Stil, Importe und Speicher.",
-        "en": "Formatiert Kotlin mit ktfmt 0.64 (Kotlinlang-, Google- oder Meta-Stil). Einstellungsseite für Stil, Importe und Speicher."
+        "de": "Formatiert Kotlin mit ktfmt 0.65 (Kotlinlang-, Google- oder Meta-Stil). Einstellungsseite für Stil, Importe, .editorconfig (Breite/Einzüge) und Speicher.",
+        "en": "Formatiert Kotlin mit ktfmt 0.65 (Kotlinlang-, Google- oder Meta-Stil). Einstellungsseite für Stil, Importe, .editorconfig (Breite/Einzüge) und Speicher."
       },
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.ktfmt.formatter-1.0.0.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.ktfmt.formatter-1.0.1.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ktfmt.formatter.zip",
-      "sha256": "ec29915a76a8a70e2e1b9b5eb46cbf3e00537646d6a32d8a53d0dcc687f4e86e",
-      "size": 1313,
+      "sha256": "8045c44a0818c747bf6a015015bf74f59b988bbce8da9eecca9466bc0e6759ae",
+      "size": 1453,
       "published": "2026-11-27",
       "updated": "2026-11-27"
     },

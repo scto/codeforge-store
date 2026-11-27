@@ -1,313 +1,313 @@
 {
  "schema": 1,
- "updated": "2026-11-27T04:45:34Z",
+ "updated": "2026-11-27T09:03:50Z",
  "totals": {
-  "downloads": 212,
+  "downloads": 376,
   "ratings": 0
  },
  "items": {
   "com.codeforge.plugin.ayu-dark.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.ayu.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.catppuccin-mocha.terminal": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.catppuccin.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.cyberpunk-neon.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.darcula.theme": {
-   "downloads": 2
-  },
-  "com.codeforge.plugin.dracula.terminal": {
-   "downloads": 2
-  },
-  "com.codeforge.plugin.dracula.theme": {
    "downloads": 4
   },
+  "com.codeforge.plugin.dracula.terminal": {
+   "downloads": 4
+  },
+  "com.codeforge.plugin.dracula.theme": {
+   "downloads": 6
+  },
   "com.codeforge.plugin.eclipse.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.everforest.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.forest.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.github-light.terminal": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.github-light.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.github.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.gruvbox-dark.terminal": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.gruvbox.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.kanagawa.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.material.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.monochrome.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.monokai.terminal": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.monokai.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.night-owl.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.nord.terminal": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.nord.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.notepad-plus-plus.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.ocean.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.one-dark.terminal": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.one.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.quiet-light.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.rose-pine.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.solarized-dark.terminal": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.solarized-dark.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.solarized-light.terminal": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.solarized.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.sunset.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.tokyo-night.terminal": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.tokyo-night.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.tomorrow.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.violet.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.vscode-dark-plus.theme": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.aurora.icons": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.coral.icons": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.ember.icons": {
-   "downloads": 5
+   "downloads": 7
   },
   "com.codeforge.plugin.frost.icons": {
-   "downloads": 5
+   "downloads": 7
   },
   "com.codeforge.plugin.lagoon.icons": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.meadow.icons": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.neon.icons": {
-   "downloads": 5
+   "downloads": 7
   },
   "com.codeforge.plugin.obsidian.icons": {
-   "downloads": 5
+   "downloads": 7
   },
   "com.codeforge.plugin.paper.icons": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.sky.icons": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.slate.icons": {
-   "downloads": 5
+   "downloads": 7
   },
   "com.codeforge.plugin.lang-es.language": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.lang-fr.language": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.lang-it.language": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.lang-ja.language": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.lang-nl.language": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.lang-pl.language": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.lang-pt-br.language": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.lang-ru.language": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.lang-tr.language": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.lang-zh-cn.language": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.c.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.cmake.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.cpp.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.css.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.dart.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.dockerfile.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.go.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.groovy.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.html.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.javascript.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.lua.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.makefile.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.markdown.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.php.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.properties.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.protobuf.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.python.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.ruby.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.rust.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.shellscript.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.sql.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.swift.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.toml.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.typescript.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.yaml.grammar": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.c.snippets": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.compose.snippets": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.cpp.snippets": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.dart.snippets": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.go.snippets": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.java.snippets": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.javascript.snippets": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.kotlin.snippets": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.python.snippets": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.rust.snippets": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.shellscript.snippets": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.typescript.snippets": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.xml.snippets": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.bash-language-server.lsp": {
    "downloads": 1
   },
   "com.codeforge.plugin.clangd.lsp": {
-   "downloads": 2
+   "downloads": 4
   },
   "com.codeforge.plugin.dart.lsp": {
    "downloads": 0
@@ -316,19 +316,19 @@
    "downloads": 0
   },
   "com.codeforge.plugin.jdtls.lsp": {
-   "downloads": 1
-  },
-  "com.codeforge.plugin.kmp-lsp.lsp": {
-   "downloads": 6
-  },
-  "com.codeforge.plugin.kotlin-language-server.lsp": {
    "downloads": 2
   },
-  "com.codeforge.plugin.lemminx.lsp": {
+  "com.codeforge.plugin.kmp-lsp.lsp": {
+   "downloads": 7
+  },
+  "com.codeforge.plugin.kotlin-language-server.lsp": {
    "downloads": 3
   },
+  "com.codeforge.plugin.lemminx.lsp": {
+   "downloads": 5
+  },
   "com.codeforge.plugin.neocmakelsp.lsp": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.pyright.lsp": {
    "downloads": 0
@@ -337,7 +337,7 @@
    "downloads": 0
   },
   "com.codeforge.plugin.rust-analyzer.lsp": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.taplo.lsp": {
    "downloads": 0
@@ -379,118 +379,118 @@
    "downloads": 2
   },
   "com.codeforge.plugin.compose-bottomnav.template": {
-   "downloads": 3
+   "downloads": 4
   },
   "com.codeforge.plugin.compose-clean.template": {
-   "downloads": 3
+   "downloads": 4
   },
   "com.codeforge.plugin.compose-drawer.template": {
-   "downloads": 3
+   "downloads": 4
   },
   "com.codeforge.plugin.compose-notes.template": {
-   "downloads": 3
+   "downloads": 4
   },
   "com.codeforge.plugin.compose-podcast.template": {
-   "downloads": 3
+   "downloads": 4
   },
   "com.codeforge.plugin.jvm-cli.template": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.plugin-agent-tool.template": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.plugin-code-plugin.template": {
-   "downloads": 3
+   "downloads": 4
   },
   "com.codeforge.plugin.plugin-code-sandbox.template": {
-   "downloads": 3
+   "downloads": 4
   },
   "com.codeforge.plugin.plugin-color-theme.template": {
-   "downloads": 3
+   "downloads": 4
   },
   "com.codeforge.plugin.plugin-extension-pack.template": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.plugin-formatter.template": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.plugin-grammar.template": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.plugin-icon-theme.template": {
-   "downloads": 3
+   "downloads": 4
   },
   "com.codeforge.plugin.plugin-language-pack.template": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.plugin-lsp-server.template": {
-   "downloads": 3
+   "downloads": 4
   },
   "com.codeforge.plugin.plugin-project-template.template": {
-   "downloads": 3
+   "downloads": 4
   },
   "com.codeforge.plugin.plugin-snippets.template": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.plugin-terminal-theme.template": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.plugin-tool.template": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.gofmt.formatter": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.prettier.formatter": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.ruff-format.formatter": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.rustfmt.formatter": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.shfmt.formatter": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.taplo-format.formatter": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.all-formatters.bundle": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.all-grammars.bundle": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.all-icons.bundle": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.all-languages.bundle": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.all-lsp-servers.bundle": {
    "downloads": 0
   },
   "com.codeforge.plugin.all-snippets.bundle": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.all-terminal-themes.bundle": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.all-themes.bundle": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.config-pack.bundle": {
    "downloads": 0
   },
   "com.codeforge.plugin.cpp-pack.bundle": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.go-pack.bundle": {
    "downloads": 0
   },
   "com.codeforge.plugin.jvm-pack.bundle": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.python-pack.bundle": {
    "downloads": 0
@@ -505,7 +505,7 @@
    "downloads": 0
   },
   "com.codeforge.plugin.agp9-migrate.tool": {
-   "downloads": 2
+   "downloads": 3
   },
   "com.codeforge.plugin.androidx-migrate.tool": {
    "downloads": 1
@@ -529,7 +529,7 @@
    "downloads": 1
   },
   "com.codeforge.plugin.readme.tool": {
-   "downloads": 1
+   "downloads": 2
   },
   "com.codeforge.plugin.unused-resources.tool": {
    "downloads": 1
@@ -538,34 +538,37 @@
    "downloads": 4
   },
   "com.codeforge.plugin.data-viewer.code": {
-   "downloads": 1
-  },
-  "com.codeforge.plugin.gradle-tasks.code": {
-   "downloads": 3
-  },
-  "com.codeforge.plugin.ide-showcase.code": {
-   "downloads": 0
-  },
-  "com.codeforge.plugin.markdown-preview.code": {
    "downloads": 2
   },
+  "com.codeforge.plugin.gradle-tasks.code": {
+   "downloads": 6
+  },
+  "com.codeforge.plugin.ide-showcase.code": {
+   "downloads": 2
+  },
+  "com.codeforge.plugin.markdown-preview.code": {
+   "downloads": 3
+  },
   "com.codeforge.plugin.python-tests.code": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.rest-client.code": {
    "downloads": 0
   },
   "com.codeforge.plugin.script-tasks.code": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.session-stats.code": {
-   "downloads": 0
+   "downloads": 1
   },
   "com.codeforge.plugin.sqlite-viewer.code": {
    "downloads": 0
   },
+  "com.codeforge.plugin.string-editor.code": {
+   "downloads": 0
+  },
   "com.codeforge.plugin.text-tools.code": {
-   "downloads": 4
+   "downloads": 5
   }
  }
 }

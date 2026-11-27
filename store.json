@@ -6218,6 +6218,52 @@
       "updated": "2026-11-20"
     },
     {
+      "id": "com.codeforge.plugin.string-editor.code",
+      "category": "plugin",
+      "categories": [
+        "tools/android",
+        "languages/data/xml"
+      ],
+      "tags": [
+        "code-plugin",
+        "sideload",
+        "strings",
+        "resources",
+        "translation",
+        "i18n",
+        "android",
+        "xml",
+        "editor"
+      ],
+      "kind": "code",
+      "name": {
+        "de": "String-Editor",
+        "en": "String-Editor"
+      },
+      "summary": {
+        "de": "Visueller Editor für strings.xml: alle String-Dateien des Projekts in der Seitenleiste (nach Modul und Sprache), Bearbeiten in Listenansicht oder als XML, Suchen, Sortieren, Verschieben, Kopieren als @string/R.string, nicht übersetzbar markieren und fehlende Übersetzungen ergänzen. Kommentare, Arrays und Plurals bleiben unverändert. Portiert aus StringEditor (raredeveloperofc, GPL-3.0) nach Kotlin/Compose.",
+        "en": "Visueller Editor für strings.xml: alle String-Dateien des Projekts in der Seitenleiste (nach Modul und Sprache), Bearbeiten in Listenansicht oder als XML, Suchen, Sortieren, Verschieben, Kopieren als @string/R.string, nicht übersetzbar markieren und fehlende Übersetzungen ergänzen. Kommentare, Arrays und Plurals bleiben unverändert. Portiert aus StringEditor (raredeveloperofc, GPL-3.0) nach Kotlin/Compose."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 5,
+      "permissions": [
+        "ui",
+        "files.read",
+        "files.write",
+        "editor",
+        "commands",
+        "events"
+      ],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.string-editor.code-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.string-editor.code.zip",
+      "sha256": "f94966eb0a32b44156ed786f874a603ec289f0a8dbffffcd97f2938985037ab9",
+      "size": 84375,
+      "published": "2026-11-27",
+      "updated": "2026-11-27"
+    },
+    {
       "id": "com.codeforge.plugin.text-tools.code",
       "category": "plugin",
       "categories": [
@@ -6549,6 +6595,13 @@
       "title": {
         "de": "Projekt",
         "en": "Project"
+      }
+    },
+    {
+      "id": "tools/android",
+      "title": {
+        "de": "Android-Ressourcen",
+        "en": "Android resources"
       }
     },
     {

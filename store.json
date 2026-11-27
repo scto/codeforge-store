@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "categories": [
     {
       "id": "plugin",
@@ -4336,17 +4336,17 @@
         "de": "Projektvorlage für Plugin-Autoren: Werkzeuge für den KI-Agenten (nur Sideload). Anpassen, mit ./gradlew packagePlugin bauen, installieren und als ZIP weitergeben.",
         "en": "Projektvorlage für Plugin-Autoren: Werkzeuge für den KI-Agenten (nur Sideload). Anpassen, mit ./gradlew packagePlugin bauen, installieren und als ZIP weitergeben."
       },
-      "version": "1.1.1",
+      "version": "1.2.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-agent-tool.template-1.1.1.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-agent-tool.template-1.2.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-agent-tool.template.zip",
-      "sha256": "f3464059f9f1a6a0af78d89dc7e8d566b4d430eb4dc2bdb8cce1f921f2407793",
-      "size": 10936,
+      "sha256": "4eb351d18fa90e0de265958ecbca12ce83555268c877a2e7819f548aaa9de6db",
+      "size": 10935,
       "published": "2026-11-25",
-      "updated": "2026-11-26"
+      "updated": "2026-11-27"
     },
     {
       "id": "com.codeforge.plugin.plugin-code-plugin.template",
@@ -4368,17 +4368,17 @@
         "de": "Projektvorlage für Plugin-Autoren: Kotlin-Plugin mit Befehl, Menü und Ereignissen (nur Sideload). Anpassen, mit ./gradlew packagePlugin bauen, installieren und als ZIP weitergeben.",
         "en": "Projektvorlage für Plugin-Autoren: Kotlin-Plugin mit Befehl, Menü und Ereignissen (nur Sideload). Anpassen, mit ./gradlew packagePlugin bauen, installieren und als ZIP weitergeben."
       },
-      "version": "1.1.1",
+      "version": "1.2.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-code-plugin.template-1.1.1.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-code-plugin.template-1.2.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-code-plugin.template.zip",
-      "sha256": "22c6c334602066a48ca133b01ed1e9e6c11de16967cb15bfd705d53290996908",
-      "size": 158353,
+      "sha256": "5e743db94c421f571c494844ec6ac912e3ef2217156484064f57135fa9efcca7",
+      "size": 194294,
       "published": "2026-11-25",
-      "updated": "2026-11-26"
+      "updated": "2026-11-27"
     },
     {
       "id": "com.codeforge.plugin.plugin-code-sandbox.template",
@@ -4397,20 +4397,20 @@
         "en": "Plugin · Code (Sandbox) (Projektvorlage)"
       },
       "summary": {
-        "de": "Projektvorlage für Plugin-Autoren: Kotlin-Plugin mit Editor-Aktion, läuft isoliert – Store-fähig. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
-        "en": "Projektvorlage für Plugin-Autoren: Kotlin-Plugin mit Editor-Aktion, läuft isoliert – Store-fähig. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
+        "de": "Projektvorlage für Plugin-Autoren: Kotlin-Plugin (API 5) mit Editor-Aktion, Befehl, Menüs, Tastenkürzel und Statusleiste, läuft isoliert – Store-fähig. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
+        "en": "Projektvorlage für Plugin-Autoren: Kotlin-Plugin (API 5) mit Editor-Aktion, Befehl, Menüs, Tastenkürzel und Statusleiste, läuft isoliert – Store-fähig. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.1.1",
+      "version": "1.2.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-code-sandbox.template-1.1.1.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-code-sandbox.template-1.2.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-code-sandbox.template.zip",
-      "sha256": "2db03c2fc7ae01b049a3e8ee1f6f56c5000c480262bb44916200ebba69f8f223",
-      "size": 158092,
+      "sha256": "093d493b95f32ad9741644021990105315e43807aad3a31c133867edcecc933a",
+      "size": 194872,
       "published": "2026-11-25",
-      "updated": "2026-11-26"
+      "updated": "2026-11-27"
     },
     {
       "id": "com.codeforge.plugin.plugin-color-theme.template",
@@ -4432,17 +4432,17 @@
         "de": "Projektvorlage für Plugin-Autoren: App-Farbschema (Material-3-Rollen) mit TextMate-Editor-Theme. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
         "en": "Projektvorlage für Plugin-Autoren: App-Farbschema (Material-3-Rollen) mit TextMate-Editor-Theme. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.1.1",
+      "version": "1.2.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-color-theme.template-1.1.1.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-color-theme.template-1.2.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-color-theme.template.zip",
-      "sha256": "8198cea729831d6a38ca3fcfb26465d783b34e564542593fb06725b5ebb632a2",
-      "size": 12134,
+      "sha256": "9846e69d30595e033632cca8e1bac1c4fe9d5a609ee539fc23da8206483a4d38",
+      "size": 12133,
       "published": "2026-11-25",
-      "updated": "2026-11-26"
+      "updated": "2026-11-27"
     },
     {
       "id": "com.codeforge.plugin.plugin-extension-pack.template",
@@ -4464,17 +4464,17 @@
         "de": "Projektvorlage für Plugin-Autoren: Paket, das mehrere Plugins gemeinsam installiert. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
         "en": "Projektvorlage für Plugin-Autoren: Paket, das mehrere Plugins gemeinsam installiert. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.1.1",
+      "version": "1.2.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-extension-pack.template-1.1.1.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-extension-pack.template-1.2.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-extension-pack.template.zip",
-      "sha256": "84dbae1629280bfb068f70eb91872c5d59b353f41d94f3bca598233ad57ed24d",
+      "sha256": "480b8d579145e244886603d84f067409eada10681f03b0f7faa7b46365b04c65",
       "size": 11542,
       "published": "2026-11-25",
-      "updated": "2026-11-26"
+      "updated": "2026-11-27"
     },
     {
       "id": "com.codeforge.plugin.plugin-formatter.template",
@@ -4496,17 +4496,17 @@
         "de": "Projektvorlage für Plugin-Autoren: Externer Code-Formatierer (stdin → stdout). Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
         "en": "Projektvorlage für Plugin-Autoren: Externer Code-Formatierer (stdin → stdout). Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.1.1",
+      "version": "1.2.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-formatter.template-1.1.1.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-formatter.template-1.2.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-formatter.template.zip",
-      "sha256": "ff6106c0a53972cc379a3512114957b5eecb10e34e849e632763b62368d6f28d",
+      "sha256": "18d4e8d7a21bc7df623e82d95dcbf863219296a11ed49af5e9b4793630c52f36",
       "size": 9474,
       "published": "2026-11-25",
-      "updated": "2026-11-26"
+      "updated": "2026-11-27"
     },
     {
       "id": "com.codeforge.plugin.plugin-grammar.template",
@@ -4528,17 +4528,17 @@
         "de": "Projektvorlage für Plugin-Autoren: TextMate-Grammatik: Syntaxfarben für einen eigenen Dateityp. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
         "en": "Projektvorlage für Plugin-Autoren: TextMate-Grammatik: Syntaxfarben für einen eigenen Dateityp. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.1.1",
+      "version": "1.2.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-grammar.template-1.1.1.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-grammar.template-1.2.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-grammar.template.zip",
-      "sha256": "4a1eaed59e70ab30fbe2cdd442d6c1e716bfee0172f739eb9b5bee5d7688d4e5",
-      "size": 10841,
+      "sha256": "2abbd6c463f88a096b5f7a6be7464adcf389c157e0d96d672c5464f8af84dfcd",
+      "size": 10840,
       "published": "2026-11-25",
-      "updated": "2026-11-26"
+      "updated": "2026-11-27"
     },
     {
       "id": "com.codeforge.plugin.plugin-icon-theme.template",
@@ -4560,17 +4560,17 @@
         "de": "Projektvorlage für Plugin-Autoren: Datei- und Ordner-Icons nach Endung, Name und Ordner. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
         "en": "Projektvorlage für Plugin-Autoren: Datei- und Ordner-Icons nach Endung, Name und Ordner. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.1.1",
+      "version": "1.2.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-icon-theme.template-1.1.1.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-icon-theme.template-1.2.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-icon-theme.template.zip",
-      "sha256": "a5511774a856f41a52ef0db6d4f3079f3f567b229fb78d62395b728dd9134153",
-      "size": 11770,
+      "sha256": "7242637b11d031ad439576ee0d44b5a782da1e2b56e7c3926edae2f9c40d4b14",
+      "size": 11769,
       "published": "2026-11-25",
-      "updated": "2026-11-26"
+      "updated": "2026-11-27"
     },
     {
       "id": "com.codeforge.plugin.plugin-language-pack.template",
@@ -4592,17 +4592,17 @@
         "de": "Projektvorlage für Plugin-Autoren: Übersetzung der App-Oberfläche. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
         "en": "Projektvorlage für Plugin-Autoren: Übersetzung der App-Oberfläche. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.1.1",
+      "version": "1.2.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-language-pack.template-1.1.1.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-language-pack.template-1.2.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-language-pack.template.zip",
-      "sha256": "3f00e6a3516fddf55b48536258352e0e5f2106acd44acfd2ce72a6d1fe9ea403",
-      "size": 9715,
+      "sha256": "e876c36bda97f987d9de3725c3b4b97877fe5be7b819b34d85690ebb89f14c12",
+      "size": 9714,
       "published": "2026-11-25",
-      "updated": "2026-11-26"
+      "updated": "2026-11-27"
     },
     {
       "id": "com.codeforge.plugin.plugin-lsp-server.template",
@@ -4624,17 +4624,17 @@
         "de": "Projektvorlage für Plugin-Autoren: Anbindung eines Language Servers (LSP) inklusive Installation. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
         "en": "Projektvorlage für Plugin-Autoren: Anbindung eines Language Servers (LSP) inklusive Installation. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.1.1",
+      "version": "1.2.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-lsp-server.template-1.1.1.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-lsp-server.template-1.2.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-lsp-server.template.zip",
-      "sha256": "fb338d185189fa9e7c9e2506def98ea11166518836a191136e3dc3ec12758d95",
-      "size": 10739,
+      "sha256": "687f8a1bbfbaaaed03b74e8d0d0a1709c6b868d9406f7fc83fd0e5d311eb96f0",
+      "size": 10738,
       "published": "2026-11-25",
-      "updated": "2026-11-26"
+      "updated": "2026-11-27"
     },
     {
       "id": "com.codeforge.plugin.plugin-project-template.template",
@@ -4656,17 +4656,17 @@
         "de": "Projektvorlage für Plugin-Autoren: Eigene Vorlage für den Projekt-Assistenten. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
         "en": "Projektvorlage für Plugin-Autoren: Eigene Vorlage für den Projekt-Assistenten. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.1.1",
+      "version": "1.2.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-project-template.template-1.1.1.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-project-template.template-1.2.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-project-template.template.zip",
-      "sha256": "a3cf3f01c63121fd6c9cbe58e63056331371e1d4550c2d91b3d896b5ed20b3a2",
-      "size": 11086,
+      "sha256": "6bd976b9d9872a4870b355cb0a94f13327fc4137f53c72bd5a41ce2426af6b68",
+      "size": 11085,
       "published": "2026-11-25",
-      "updated": "2026-11-26"
+      "updated": "2026-11-27"
     },
     {
       "id": "com.codeforge.plugin.plugin-snippets.template",
@@ -4688,17 +4688,17 @@
         "de": "Projektvorlage für Plugin-Autoren: Code-Bausteine mit Kürzel und Platzhaltern. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
         "en": "Projektvorlage für Plugin-Autoren: Code-Bausteine mit Kürzel und Platzhaltern. Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.1.1",
+      "version": "1.2.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-snippets.template-1.1.1.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-snippets.template-1.2.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-snippets.template.zip",
-      "sha256": "c2a12e01f2c18680d7cd60a6e4bd294bf268b4267d4a40dd9e70f3b112ba15c9",
-      "size": 10731,
+      "sha256": "0e042931ac31ba5cc76a3bf6eb92c144476d4dcb08058aae7bc8683686f25f04",
+      "size": 10730,
       "published": "2026-11-25",
-      "updated": "2026-11-26"
+      "updated": "2026-11-27"
     },
     {
       "id": "com.codeforge.plugin.plugin-terminal-theme.template",
@@ -4720,17 +4720,17 @@
         "de": "Projektvorlage für Plugin-Autoren: Farben des Terminals (Termux colors.properties). Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
         "en": "Projektvorlage für Plugin-Autoren: Farben des Terminals (Termux colors.properties). Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.1.1",
+      "version": "1.2.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-terminal-theme.template-1.1.1.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-terminal-theme.template-1.2.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-terminal-theme.template.zip",
-      "sha256": "d16375155dc4ba7d854213df161c02fd3e271c99e26fb97791243b54f6a56f74",
-      "size": 12180,
+      "sha256": "7d781cf4e6d146c3914532d8a87a5a41843ff2716ef456e468ab660ef1af482b",
+      "size": 12178,
       "published": "2026-11-26",
-      "updated": "2026-11-26"
+      "updated": "2026-11-27"
     },
     {
       "id": "com.codeforge.plugin.plugin-tool.template",
@@ -4752,17 +4752,17 @@
         "de": "Projektvorlage für Plugin-Autoren: Befehl im PT-Menü des Dateibaums (Skript, Eingabe, Zeitlimit). Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen.",
         "en": "Projektvorlage für Plugin-Autoren: Befehl im PT-Menü des Dateibaums (Skript, Eingabe, Zeitlimit). Anpassen, mit ./gradlew packagePlugin bauen, installieren und im Store einreichen."
       },
-      "version": "1.1.1",
+      "version": "1.2.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-tool.template-1.1.1.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.plugin-tool.template-1.2.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.plugin-tool.template.zip",
-      "sha256": "a51c190b683dd13e19cf8a87f263ffd7fd3403d69211ca1e582849f6c379a2d4",
-      "size": 11317,
+      "sha256": "0992b0bdf6b643fee0b6b14128786fe3493f0453b7ef5c4c0a3be8fb3991c471",
+      "size": 11316,
       "published": "2026-11-25",
-      "updated": "2026-11-26"
+      "updated": "2026-11-27"
     },
     {
       "id": "com.codeforge.plugin.gofmt.formatter",
@@ -5920,6 +5920,60 @@
       "updated": "2026-11-20"
     },
     {
+      "id": "com.codeforge.plugin.ide-showcase.code",
+      "category": "plugin",
+      "categories": [
+        "samples/api",
+        "tools/project"
+      ],
+      "tags": [
+        "code-plugin",
+        "sideload",
+        "api",
+        "sample",
+        "tree",
+        "git",
+        "commands",
+        "events",
+        "settings",
+        "statusbar",
+        "keybindings"
+      ],
+      "kind": "code",
+      "name": {
+        "de": "IDE-Werkzeugkasten (API 5)",
+        "en": "IDE-Werkzeugkasten (API 5)"
+      },
+      "summary": {
+        "de": "Referenz-Plugin für die komplette Plugin-API 5: Projektbaum mit Git-Status als Werkzeugfenster, Übersicht als eigener Bildschirm (Editor, Git, Befehle, Ereignisse, App-Einstellungen, Navigation), eigene Einstellungsseite, Statusleiste, Befehle mit Menüs, Tastenkürzeln und when-Bedingungen. Läuft im App-Prozess (nur Sideload).",
+        "en": "Referenz-Plugin für die komplette Plugin-API 5: Projektbaum mit Git-Status als Werkzeugfenster, Übersicht als eigener Bildschirm (Editor, Git, Befehle, Ereignisse, App-Einstellungen, Navigation), eigene Einstellungsseite, Statusleiste, Befehle mit Menüs, Tastenkürzeln und when-Bedingungen. Läuft im App-Prozess (nur Sideload)."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 5,
+      "permissions": [
+        "ui",
+        "commands",
+        "commands.execute",
+        "events",
+        "settings.read",
+        "settings.write",
+        "editor",
+        "files.read",
+        "files.write",
+        "git.read",
+        "git.write",
+        "notifications"
+      ],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.ide-showcase.code-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ide-showcase.code.zip",
+      "sha256": "e23ddce283f32eb1d364c5ecb7f7eb27fc51a90aac3be52618fe2d87baf0de47",
+      "size": 72099,
+      "published": "2026-11-27",
+      "updated": "2026-11-27"
+    },
+    {
       "id": "com.codeforge.plugin.markdown-preview.code",
       "category": "plugin",
       "categories": [
@@ -6080,6 +6134,49 @@
       "size": 12617,
       "published": "2026-11-20",
       "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.session-stats.code",
+      "category": "plugin",
+      "categories": [
+        "tools/productivity",
+        "samples/api"
+      ],
+      "tags": [
+        "code-plugin",
+        "sandbox",
+        "statistics",
+        "statusbar",
+        "commands",
+        "events",
+        "keybindings",
+        "sample"
+      ],
+      "kind": "sandbox",
+      "name": {
+        "de": "Sitzungsstatistik (Sandbox)",
+        "en": "Sitzungsstatistik (Sandbox)"
+      },
+      "summary": {
+        "de": "Zählt in der Statusleiste, wie oft du in dieser Sitzung gespeichert, Dateien geöffnet, gebaut und committet hast. Beispiel für API 5 in der Sandbox: eigene Befehle, Ereignisse, Statusleiste, Menüs (Editor, Dateibaum, Palette), Tastenkürzel, when-Bedingungen und Einstellungen. Läuft im isolierten Prozess ohne Zugriff auf Dateien, Netz oder Programme.",
+        "en": "Zählt in der Statusleiste, wie oft du in dieser Sitzung gespeichert, Dateien geöffnet, gebaut und committet hast. Beispiel für API 5 in der Sandbox: eigene Befehle, Ereignisse, Statusleiste, Menüs (Editor, Dateibaum, Palette), Tastenkürzel, when-Bedingungen und Einstellungen. Läuft im isolierten Prozess ohne Zugriff auf Dateien, Netz oder Programme."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 5,
+      "permissions": [
+        "editor",
+        "commands",
+        "events",
+        "ui"
+      ],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.session-stats.code-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.session-stats.code.zip",
+      "sha256": "dd48610ccaf194f8cd05f78a0b0c57613e5958e9fcea50d0db0dba1cb86092cd",
+      "size": 8527,
+      "published": "2026-11-27",
+      "updated": "2026-11-27"
     },
     {
       "id": "com.codeforge.plugin.sqlite-viewer.code",
@@ -6494,6 +6591,27 @@
       "title": {
         "de": "Debugger",
         "en": "Debugger"
+      }
+    },
+    {
+      "id": "tools/productivity",
+      "title": {
+        "de": "Produktivität",
+        "en": "Productivity"
+      }
+    },
+    {
+      "id": "samples",
+      "title": {
+        "de": "Beispiele",
+        "en": "Samples"
+      }
+    },
+    {
+      "id": "samples/api",
+      "title": {
+        "de": "Plugin-API",
+        "en": "Plugin API"
       }
     },
     {

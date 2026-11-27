@@ -1773,6 +1773,68 @@
       "updated": "2026-11-20"
     },
     {
+      "id": "com.codeforge.plugin.lang-cs.language",
+      "category": "language",
+      "categories": [
+        "localization"
+      ],
+      "tags": [
+        "translation",
+        "cs"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Čeština (Sprachpaket)",
+        "en": "Čeština (Sprachpaket)"
+      },
+      "summary": {
+        "de": "Teilübersetzung der Oberfläche (80 Texte: Allgemeines und Dateibaum); übrige Texte bleiben in der App-Sprache.",
+        "en": "Teilübersetzung der Oberfläche (80 Texte: Allgemeines und Dateibaum); übrige Texte bleiben in der App-Sprache."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-cs.language-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-cs.language.zip",
+      "sha256": "e1e65a33cac4f5d90b1837f37dd9f8c0067c4c78c5d328ceae2ec8056bb54a58",
+      "size": 2146,
+      "published": "2026-11-27",
+      "updated": "2026-11-27"
+    },
+    {
+      "id": "com.codeforge.plugin.lang-da.language",
+      "category": "language",
+      "categories": [
+        "localization"
+      ],
+      "tags": [
+        "translation",
+        "da"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Dansk (Sprachpaket)",
+        "en": "Dansk (Sprachpaket)"
+      },
+      "summary": {
+        "de": "Teilübersetzung der Oberfläche (77 Texte: Allgemeines und Dateibaum); übrige Texte bleiben in der App-Sprache.",
+        "en": "Teilübersetzung der Oberfläche (77 Texte: Allgemeines und Dateibaum); übrige Texte bleiben in der App-Sprache."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-da.language-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-da.language.zip",
+      "sha256": "c40731ff9a01d7cb2c4b758c1157e4fbc4aba6acdbe3c144b849421601ee2071",
+      "size": 2008,
+      "published": "2026-11-27",
+      "updated": "2026-11-27"
+    },
+    {
       "id": "com.codeforge.plugin.lang-es.language",
       "category": "language",
       "categories": [
@@ -1804,6 +1866,37 @@
       "updated": "2026-11-20"
     },
     {
+      "id": "com.codeforge.plugin.lang-fi.language",
+      "category": "language",
+      "categories": [
+        "localization"
+      ],
+      "tags": [
+        "translation",
+        "fi"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Suomi (Sprachpaket)",
+        "en": "Suomi (Sprachpaket)"
+      },
+      "summary": {
+        "de": "Teilübersetzung der Oberfläche (81 Texte: Allgemeines und Dateibaum); übrige Texte bleiben in der App-Sprache.",
+        "en": "Teilübersetzung der Oberfläche (81 Texte: Allgemeines und Dateibaum); übrige Texte bleiben in der App-Sprache."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-fi.language-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-fi.language.zip",
+      "sha256": "5d031c22db276d9ca058f1249c7d1ab76d79cb3bee9552c54c7f474054889a72",
+      "size": 2066,
+      "published": "2026-11-27",
+      "updated": "2026-11-27"
+    },
+    {
       "id": "com.codeforge.plugin.lang-fr.language",
       "category": "language",
       "categories": [
@@ -1833,6 +1926,37 @@
       "size": 2098,
       "published": "2026-11-20",
       "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.lang-hu.language",
+      "category": "language",
+      "categories": [
+        "localization"
+      ],
+      "tags": [
+        "translation",
+        "hu"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Magyar (Sprachpaket)",
+        "en": "Magyar (Sprachpaket)"
+      },
+      "summary": {
+        "de": "Teilübersetzung der Oberfläche (81 Texte: Allgemeines und Dateibaum); übrige Texte bleiben in der App-Sprache.",
+        "en": "Teilübersetzung der Oberfläche (81 Texte: Allgemeines und Dateibaum); übrige Texte bleiben in der App-Sprache."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-hu.language-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-hu.language.zip",
+      "sha256": "cc85cc6c0905b6022324ef0a30913821c31f0ba19300a21307333707568c5c0d",
+      "size": 2124,
+      "published": "2026-11-27",
+      "updated": "2026-11-27"
     },
     {
       "id": "com.codeforge.plugin.lang-it.language",
@@ -1895,6 +2019,68 @@
       "size": 2376,
       "published": "2026-11-20",
       "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.lang-ko.language",
+      "category": "language",
+      "categories": [
+        "localization"
+      ],
+      "tags": [
+        "translation",
+        "ko"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "한국어 (Sprachpaket)",
+        "en": "한국어 (Sprachpaket)"
+      },
+      "summary": {
+        "de": "Teilübersetzung der Oberfläche (81 Texte: Allgemeines und Dateibaum); übrige Texte bleiben in der App-Sprache.",
+        "en": "Teilübersetzung der Oberfläche (81 Texte: Allgemeines und Dateibaum); übrige Texte bleiben in der App-Sprache."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-ko.language-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-ko.language.zip",
+      "sha256": "70d3d24b719e2da77de2295232a644d1dbe46ec642943cd132d00a73c3262bb5",
+      "size": 2261,
+      "published": "2026-11-27",
+      "updated": "2026-11-27"
+    },
+    {
+      "id": "com.codeforge.plugin.lang-nb.language",
+      "category": "language",
+      "categories": [
+        "localization"
+      ],
+      "tags": [
+        "translation",
+        "nb"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Norsk bokmål (Sprachpaket)",
+        "en": "Norsk bokmål (Sprachpaket)"
+      },
+      "summary": {
+        "de": "Teilübersetzung der Oberfläche (78 Texte: Allgemeines und Dateibaum); übrige Texte bleiben in der App-Sprache.",
+        "en": "Teilübersetzung der Oberfläche (78 Texte: Allgemeines und Dateibaum); übrige Texte bleiben in der App-Sprache."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-nb.language-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-nb.language.zip",
+      "sha256": "9c50200824b78189c5cdabc2dc203f2468b39b897e89599ad75188df6ea6f4e5",
+      "size": 2025,
+      "published": "2026-11-27",
+      "updated": "2026-11-27"
     },
     {
       "id": "com.codeforge.plugin.lang-nl.language",
@@ -2021,6 +2207,37 @@
       "updated": "2026-11-20"
     },
     {
+      "id": "com.codeforge.plugin.lang-sv.language",
+      "category": "language",
+      "categories": [
+        "localization"
+      ],
+      "tags": [
+        "translation",
+        "sv"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Svenska (Sprachpaket)",
+        "en": "Svenska (Sprachpaket)"
+      },
+      "summary": {
+        "de": "Teilübersetzung der Oberfläche (81 Texte: Allgemeines und Dateibaum); übrige Texte bleiben in der App-Sprache.",
+        "en": "Teilübersetzung der Oberfläche (81 Texte: Allgemeines und Dateibaum); übrige Texte bleiben in der App-Sprache."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-sv.language-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-sv.language.zip",
+      "sha256": "33419a9e511447e27b72d0a377cf7b72ac7c4598110d5deb3e83a23a99e8a9a0",
+      "size": 2063,
+      "published": "2026-11-27",
+      "updated": "2026-11-27"
+    },
+    {
       "id": "com.codeforge.plugin.lang-tr.language",
       "category": "language",
       "categories": [
@@ -2050,6 +2267,37 @@
       "size": 2148,
       "published": "2026-11-20",
       "updated": "2026-11-20"
+    },
+    {
+      "id": "com.codeforge.plugin.lang-uk.language",
+      "category": "language",
+      "categories": [
+        "localization"
+      ],
+      "tags": [
+        "translation",
+        "uk"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "Українська (Sprachpaket)",
+        "en": "Українська (Sprachpaket)"
+      },
+      "summary": {
+        "de": "Teilübersetzung der Oberfläche (81 Texte: Allgemeines und Dateibaum); übrige Texte bleiben in der App-Sprache.",
+        "en": "Teilübersetzung der Oberfläche (81 Texte: Allgemeines und Dateibaum); übrige Texte bleiben in der App-Sprache."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.lang-uk.language-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.lang-uk.language.zip",
+      "sha256": "f9560ecd63e0c5faaaf7f8c31188c22b21f9aded3d0aafa957c1e7218b069009",
+      "size": 2395,
+      "published": "2026-11-27",
+      "updated": "2026-11-27"
     },
     {
       "id": "com.codeforge.plugin.lang-zh-cn.language",
@@ -3611,17 +3859,17 @@
         "de": "Bindet Pyright (Python) ein. Fehlende Programme installiert die App nach Bestätigung (sonst: npm install -g pyright).",
         "en": "Bindet Pyright (Python) ein. Fehlende Programme installiert die App nach Bestätigung (sonst: npm install -g pyright)."
       },
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.pyright.lsp-1.0.0.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.pyright.lsp-1.0.1.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.pyright.lsp.zip",
-      "sha256": "666db1a14d4c2ae50103d4bdbec479db8e396e1b92a7fc215260e9a958b9009c",
-      "size": 697,
+      "sha256": "5fbad6e4b5fbd13b6176b9f9fed0b2bd6e3ea7ab52b17a7bd93b71520d279491",
+      "size": 709,
       "published": "2026-11-20",
-      "updated": "2026-11-20"
+      "updated": "2026-11-27"
     },
     {
       "id": "com.codeforge.plugin.ruff.lsp",
@@ -4797,6 +5045,70 @@
       "updated": "2026-11-20"
     },
     {
+      "id": "com.codeforge.plugin.google-java-format.formatter",
+      "category": "formatter",
+      "categories": [
+        "formatters",
+        "languages/jvm/java"
+      ],
+      "tags": [
+        "java",
+        "formatter"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "google-java-format (Formatierer)",
+        "en": "google-java-format (Formatierer)"
+      },
+      "summary": {
+        "de": "Formatiert Java mit google-java-format 1.36.1 (Google- oder AOSP-Stil). Einstellungsseite für alle Optionen der Kommandozeile.",
+        "en": "Formatiert Java mit google-java-format 1.36.1 (Google- oder AOSP-Stil). Einstellungsseite für alle Optionen der Kommandozeile."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.google-java-format.formatter-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.google-java-format.formatter.zip",
+      "sha256": "14609fd1a1cb9d75c782807631fc9c6929fa5bab8be8ea32e511632c941ea2c5",
+      "size": 1545,
+      "published": "2026-11-27",
+      "updated": "2026-11-27"
+    },
+    {
+      "id": "com.codeforge.plugin.ktfmt.formatter",
+      "category": "formatter",
+      "categories": [
+        "formatters",
+        "languages/jvm/kotlin"
+      ],
+      "tags": [
+        "kotlin",
+        "formatter"
+      ],
+      "kind": "declarative",
+      "name": {
+        "de": "ktfmt (Formatierer)",
+        "en": "ktfmt (Formatierer)"
+      },
+      "summary": {
+        "de": "Formatiert Kotlin mit ktfmt 0.64 (Kotlinlang-, Google- oder Meta-Stil). Einstellungsseite für Stil, Importe und Speicher.",
+        "en": "Formatiert Kotlin mit ktfmt 0.64 (Kotlinlang-, Google- oder Meta-Stil). Einstellungsseite für Stil, Importe und Speicher."
+      },
+      "version": "1.0.0",
+      "author": "codeforge",
+      "apiVersion": 2,
+      "permissions": [],
+      "homepage": "https://github.com/scto/CodeForgeMobile",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.ktfmt.formatter-1.0.0.zip",
+      "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.ktfmt.formatter.zip",
+      "sha256": "ec29915a76a8a70e2e1b9b5eb46cbf3e00537646d6a32d8a53d0dcc687f4e86e",
+      "size": 1313,
+      "published": "2026-11-27",
+      "updated": "2026-11-27"
+    },
+    {
       "id": "com.codeforge.plugin.prettier.formatter",
       "category": "formatter",
       "categories": [
@@ -4987,17 +5299,17 @@
         "de": "Alle Formatierer von CodeForge als Bundle. Die Programme selbst müssen installiert werden.",
         "en": "Alle Formatierer von CodeForge als Bundle. Die Programme selbst müssen installiert werden."
       },
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.all-formatters.bundle-1.0.0.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.all-formatters.bundle-1.1.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-formatters.bundle.zip",
-      "sha256": "966f17c681f191e865b0b7a2337f93f6a556388f095965b3db44dcb2bfad17b4",
-      "size": 612,
+      "sha256": "04593bad3d958d272c22e0e0c649b4ef391e02509b6430bc97ec703915dfb64a",
+      "size": 626,
       "published": "2026-11-20",
-      "updated": "2026-11-20"
+      "updated": "2026-11-27"
     },
     {
       "id": "com.codeforge.plugin.all-grammars.bundle",
@@ -5077,20 +5389,20 @@
         "en": "Alle Sprachpakete (Bundle)"
       },
       "summary": {
-        "de": "Alle Sprachpakete von CodeForge als Bundle (10 Pakete).",
-        "en": "Alle Sprachpakete von CodeForge als Bundle (10 Pakete)."
+        "de": "Alle Sprachpakete von CodeForge als Bundle (18 Pakete).",
+        "en": "Alle Sprachpakete von CodeForge als Bundle (18 Pakete)."
       },
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.all-languages.bundle-1.0.0.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.all-languages.bundle-1.1.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.all-languages.bundle.zip",
-      "sha256": "f3a6e2cc4737156a77125feaef79eeae1466d08bec7d9a2958f7c17f6af5fd8f",
-      "size": 600,
+      "sha256": "4206caa1caafb8258e05ea6cf1d7d20d9bbd4ba229f49d2618753a1531d27827",
+      "size": 625,
       "published": "2026-11-20",
-      "updated": "2026-11-20"
+      "updated": "2026-11-27"
     },
     {
       "id": "com.codeforge.plugin.all-lsp-servers.bundle",
@@ -5325,20 +5637,20 @@
         "en": "Kotlin und Java (Bundle)"
       },
       "summary": {
-        "de": "Kotlin Language Server, Eclipse JDT LS (Java) und LemMinX für Android-XML.",
-        "en": "Kotlin Language Server, Eclipse JDT LS (Java) und LemMinX für Android-XML."
+        "de": "Kotlin Language Server, Eclipse JDT LS (Java), LemMinX für Android-XML sowie ktfmt und google-java-format.",
+        "en": "Kotlin Language Server, Eclipse JDT LS (Java), LemMinX für Android-XML sowie ktfmt und google-java-format."
       },
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.jvm-pack.bundle-1.0.0.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.jvm-pack.bundle-1.1.0.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.jvm-pack.bundle.zip",
-      "sha256": "48d915aae11a37aa4127e50d9bb1e301ca8c0611625d1c25a41662c593817697",
-      "size": 607,
+      "sha256": "280f432fdcf6b29fdc9772bcece0382b2ccf5890902763b19eae5e3ba409fb32",
+      "size": 645,
       "published": "2026-11-20",
-      "updated": "2026-11-20"
+      "updated": "2026-11-27"
     },
     {
       "id": "com.codeforge.plugin.python-pack.bundle",

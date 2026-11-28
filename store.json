@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "categories": [
     {
       "id": "plugin",
@@ -3920,20 +3920,20 @@
         "en": "rust-analyzer (Rust) (Language Server)"
       },
       "summary": {
-        "de": "Bindet rust-analyzer (Rust) ein. Fehlende Programme installiert die App nach Bestätigung (sonst: pkg install rust-analyzer).",
-        "en": "Bindet rust-analyzer (Rust) ein. Fehlende Programme installiert die App nach Bestätigung (sonst: pkg install rust-analyzer)."
+        "de": "Bindet rust-analyzer (Rust) ein. Fehlende Programme installiert die App nach Bestätigung (sonst: codeforge-env install rust;1.99.1).",
+        "en": "Bindet rust-analyzer (Rust) ein. Fehlende Programme installiert die App nach Bestätigung (sonst: codeforge-env install rust;1.99.1)."
       },
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.rust-analyzer.lsp-1.0.0.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.rust-analyzer.lsp-1.0.1.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rust-analyzer.lsp.zip",
-      "sha256": "188949c1b2c037eec51989292bb43a4ac417f591963790ce8456b0da8e263c70",
-      "size": 656,
+      "sha256": "2664406d44ad009a68b5eeea0ff96d28ea37eab4a01923de0f6c117d35a31d8f",
+      "size": 673,
       "published": "2026-11-20",
-      "updated": "2026-11-20"
+      "updated": "2026-11-28"
     },
     {
       "id": "com.codeforge.plugin.taplo.lsp",
@@ -5201,20 +5201,20 @@
         "en": "rustfmt (Formatierer)"
       },
       "summary": {
-        "de": "Formatiert rs mit rustfmt. Fehlende Programme installiert die App nach Bestätigung (sonst: pkg install rust).",
-        "en": "Formatiert rs mit rustfmt. Fehlende Programme installiert die App nach Bestätigung (sonst: pkg install rust)."
+        "de": "Formatiert rs mit rustfmt. Fehlende Programme installiert die App nach Bestätigung (sonst: codeforge-env install rust;1.99.1).",
+        "en": "Formatiert rs mit rustfmt. Fehlende Programme installiert die App nach Bestätigung (sonst: codeforge-env install rust;1.99.1)."
       },
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "codeforge",
       "apiVersion": 2,
       "permissions": [],
       "homepage": "https://github.com/scto/CodeForgeMobile",
-      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.rustfmt.formatter-1.0.0.zip",
+      "downloadUrl": "https://github.com/scto/codeforge-store/releases/download/packages/com.codeforge.plugin.rustfmt.formatter-1.0.1.zip",
       "mirrorUrl": "https://scto.github.io/codeforge-store/packages/com.codeforge.plugin.rustfmt.formatter.zip",
-      "sha256": "2dc5a85c5f7224a08ec365fba02cfbed549b0d017f4774b9866b38e0bdf2ef41",
-      "size": 672,
+      "sha256": "f90997a544843413cd1a23ad1e8710bcd3dd57273270d7e9ebb1accff6fc07b1",
+      "size": 682,
       "published": "2026-11-20",
-      "updated": "2026-11-20"
+      "updated": "2026-11-28"
     },
     {
       "id": "com.codeforge.plugin.shfmt.formatter",
